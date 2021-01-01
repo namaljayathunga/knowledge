@@ -1,41 +1,49 @@
 # Goals
 
-## Learn Anything
+## Action
 
-Make the best tool for learning anything and sharing ideas.
+### Build Learn Anything
 
-## Health
+Make the best tool for learning anything and sharing ideas. Release website, mobile app, API. Build up community.
 
-As rules state, I should eat healthy and exercise as part of my routine life. This is more of an ongoing theme but want to give this more focus as I am 24 now and healthy habits stick around and should become core part of my lifestyle.
+### Expand personal site
 
-## Go deep
+Lots of [inspiration](../design/design-inspiration.md). I want a personal space I can expand and build upon (experiment).
 
-Dive deep into technology I use. Understand each layer of the stack intimately. Can only understand it by [building](https://github.com/nikitavoloboev/build-to-learn).
+Blog, wiki, art, projects, photos. Look backs as nice newsletters + rich derived data (from GitHub/Twitter/..).
 
-## Minimize & refine tools
+### Read books / papers
 
-I want to deeply focus on building and extending tools to solve well defined problems I have. I want to further automate and optimize any frictions I feel in life & work to free up time and energy to do creative problem solving. I want to deeply know the tools and software I use. Which in turn should let me only use the essential things I need in life.
+Take time to read relevant books & papers.
 
-I want to minimize incoming stream of information that I can't act on. I want to surround myself with a community of people that inspire me to create more. The tools I use & spaces I work in should reflect these goals.
+### Build better tools for everything
 
-Simplicity is the ultimate goal.
+Lots of ideas around improving my workflow further. Build them.
 
-## Read long form
+## Theme
 
-Read books & research papers relevant to problems I want to solve. This means reading long form writing where prolonged focus is needed. Note down and act on gained insights.
+### Healthy mind/body
 
-## Write, record videos & share
+Eat healthy and exercise daily. Work ergonomically. Follow [rules](rules.md).
 
-Rebuild my personal website & have my own hosted blog I can extend (with RSS feed). Start writing to it. Share tools/projects details on my website.
+### Learn what matters. Solve problems. Share learnings.
 
-Start teaching with videos. Review, edit & publish quality content. Clean up old content, delete outdated info and refine things (wiki, github, personal site, ..).
+Understand tools I use deeply. Solve problems & write about what I learned.
 
-## Clean up 2Do/GitHub tasks
+### Remove complexity/waste. Streamline processes.
 
-Currently 2Do holds 4900 tasks. Over 3500 of them are read-later links I have left before moving to Pocket. I want to clear up the list to < 500.
+Remove any friction I feel. Filter out wasteful news, info. No thoughtless actions. Focus on goals & todos. No time wasted.
 
-This includes closing GitHub issues that are of priority to me. Beyond this I want to also clear Telegram Saved Messages & start clearing up Pocket list too after 2Do is done. Everything should be actionable and done with purpose & priority.
+### Go out of my comfort zone. Meet people.
 
-## Financial stability
+Make screencasts/videos to educate. Write. Practice photography. Compose music. Design. Share & learn with community.
 
-Release something that is worth selling.
+Be inspired & improve myself. Reach out to people I admire.
+
+### Plan bigger. Save the planet.
+
+Create [amazing things](../ideas/ideas.md) for a [better future](../future/future.md).
+
+Focus on solving real global problems like reversing climate change ([electrically powered everything](https://blog.jessfraz.com/post/battery-day/), fully renewable energy) & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/) (animal rights same as humans, can't be eaten, can't be harmed).
+
+Earth is for everyone, not just humans. Be goal & [value](../business/startups/values.md) driven.

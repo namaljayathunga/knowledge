@@ -17,3 +17,17 @@
 - [wyhash](https://github.com/wangyi-fudan/wyhash) - Dream fast hash function and random number generators that passed SMHasher, BigCrush and practrand. ([HN](https://news.ycombinator.com/item?id=23282754))
 - [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch) - Example C++ code to demonstrate how to do SimHash-based similarity search over CFGs extracted from disassemblies.
 - [HighwayHash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM.
+- [hashring](https://github.com/serialx/hashring) - Implements consistent hashing that can be used when the number of server nodes can increase or decrease (like in memcached).
+- [t1ha](https://github.com/erthink/t1ha) - One of the fastest hash functions.
+- [hashmap.c](https://github.com/tidwall/hashmap.c) - Hash map implementation in C.
+- [Hashmaps Benchmarks (2019)](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)
+- [tsip](https://github.com/dgryski/tsip) - Go, amd64, C, and Rust implemtations of a small fast string hashing function.
+- [High Speed Hashing for Integers and Strings (2020)](https://arxiv.org/pdf/1504.06804.pdf)
+- [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
+- [Looks Like It [Perceptual hash algorithms]](http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html)
+- [Ask HN: Is There a Known Recursive Hash? (2020)](https://news.ycombinator.com/item?id=24915731)
+- [aHash](https://github.com/tkaitchuck/aHash) - Fastest, DOS resistant hash currently available in Rust.
+- [HashSearch](https://github.com/bee-san/HashSearch) - Searches Hash APIs and Google to crack your hash quickly.
+- [Rust library for homomorphic hashing](https://github.com/benwr/bromberg_sl2) ([Lobsters](https://lobste.rs/s/phm3v2/rust_library_for_homomorphic_hashing))
+- [SRI Hash Generator](https://www.srihash.org/)
+- [Hash, displace, and compress](http://cmph.sourceforge.net/papers/esa09.pdf) ([Code](https://gist.github.com/pervognsen/b21f6dd13f4bcb4ff2123f0d78fcfd17))

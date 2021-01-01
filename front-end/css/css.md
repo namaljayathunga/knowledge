@@ -15,6 +15,7 @@
   - repeat until `<body>` is the containers
   - never use absolute widths (px, in, cm, etc.) for anything
 - body tag takes up the whole width and height of the browser screen.
+- [Hex colors are super common... and inconvenient as heck. Try hsl instead.](https://twitter.com/sulco/status/1295336749552537600)
 
 ## Links
 
@@ -34,7 +35,7 @@
 - [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) - Kill your CSS layout bugs. ([Code](https://github.com/mrmrs/pesticide))
 - [Spectre](https://github.com/picturepan2/spectre) - Lightweight, Responsive and Modern CSS Framework.
 - [Tachyons](https://github.com/tachyons-css/tachyons) - Functional CSS for humans.
-- [CSS Animation 101](https://github.com/cssanimation/css-animation-101#readme)
+- [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
 - [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/)
 - [Tailwind utility-first CSS framework](https://tailwindcss.com/docs/what-is-tailwind/)
 - [CSStype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data.
@@ -47,15 +48,15 @@
 - [Rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system..
 - [TypeStyle](https://github.com/typestyle/typestyle) - Making CSS type safe.
 - [The Three Tenets of Styled System (2019)](https://jxnblk.com/blog/the-three-tenets-of-styled-system/)
-- [CSS Scan Chrome Extension](https://getcssscan.com/) - Instantly inspect and copy computed CSS.
 - [DropCSS](https://github.com/leeoniya/dropcss) - Simple, thorough and fast unused-CSS cleaner.
 - [CSS Standardization - The State of the Web with Jen Simmons (2019)](https://www.youtube.com/watch?v=TQ7NqpFMbFs)
 - [Water.css](https://github.com/kognise/water.css) - Just-add-css collection of styles to make simple websites just a little nicer. ([HN](https://news.ycombinator.com/item?id=19593866))
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful and performance-focused pure css loading animations.
 - [Artem Sapegin: Custom CSS is the Path to Inconsistent UI (2018)](https://www.youtube.com/watch?v=t5VTLwAias8)
 - [Learn CSS Layout the pedantic way](http://book.mixu.net/css/) ([Code](https://github.com/mixu/cssbook))
-- [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects.
-- [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
+- [CSSFX](https://cssfx.netlify.app/) - Beautifully simple click-to-copy CSS effects. ([Code](https://github.com/jolaleye/cssfx))
+- [CSS Working Group Wiki](https://wiki.csswg.org/)
+- [CSS Working Group Editor Drafts](https://drafts.csswg.org/) ([Code](https://github.com/w3c/csswg-drafts))
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
 - [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - Truly monstrous async web chat using no JS whatsoever on the frontend.
 - [Theme UI](https://github.com/system-ui/theme-ui) - Build consistent, themeable React UIs based on design system constraints and design tokens.
@@ -86,7 +87,7 @@
 - [MDN CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [Smooth CSS shadows generator](https://brumm.af/shadows)
 - [CSS Layout](https://csslayout.io/patterns) - Collection of popular layouts and patterns made with CSS. ([Code](https://github.com/phuoc-ng/csslayout))
-- [CSS Protips](https://github.com/AllThingsSmitty/css-protips#readme) - Collection of tips to help take your CSS skills pro.
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Collection of tips to help take your CSS skills pro.
 - [Focus Overlay](https://github.com/mmahandev/FocusOverlay) - Library for creating animated overlays on focused elements.
 - [Six Questions to Understand the CSS Box Model (2017)](https://medium.com/launch-school/https-medium-com-dembasiby-understanding-the-css-box-model-b005a82593a6)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
@@ -101,7 +102,7 @@
 - [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 - [Tint & Shade Generator](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
 - [Writing efficient CSS selectors (2011)](https://csswizardry.com/2011/09/writing-efficient-css-selectors/)
-- [A Modern CSS Reset (2019)](https://hankchizljaw.com/wrote/a-modern-css-reset/)
+- [A Modern CSS Reset (2019)](https://hankchizljaw.com/wrote/a-modern-css-reset/) ([Code](https://github.com/hankchizljaw/modern-css-reset))
 - [The CSS Cascade](https://wattenberger.com/blog/css-cascade) - How browsers resolve competing CSS styles.
 - [Intrinsic Sizing In CSS (2020)](https://ishadeed.com/article/intrinsic-sizing-in-css/)
 - [CSS in Real Life blog](https://css-irl.info/)
@@ -136,19 +137,109 @@
 - [PrefaceCSS](https://cluzier.github.io/PrefaceCSS/dist/index.html) - CSS Boilerplate for minimalists. ([Code](https://github.com/cluzier/PrefaceCSS))
 - [You Need to Know CSS](https://lhammer.cn/You-need-to-know-css/#/) - CSS tricks web developers need to know. ([Code](https://github.com/l-hammer/You-need-to-know-css))
 - [Pure CSS Landscape - An Evening in Southwold](https://codepen.io/ivorjetski/pen/xxGYWQG) ([Video](https://www.youtube.com/watch?v=rUCVBNNyjC4))
-- [Modern CSS Solutions](https://moderncss.dev/)
+- [Modern CSS Solutions](https://moderncss.dev/) ([Code](https://github.com/5t3ph/moderncss-dot-dev))
 - [A Single Div](https://a.singlediv.com/) - CSS drawings with only one HTML element. ([Code](https://github.com/lynnandtonic/a-single-div))
 - [CSSWG meeting minutes](https://lists.w3.org/Archives/Public/www-style/)
 - [new.css](https://newcss.net/) - Classless CSS framework to write modern websites using only HTML. ([Code](https://github.com/xz/new.css)) ([HN](https://news.ycombinator.com/item?id=23220081)) ([Night Theme](https://newcss.net/theme/night/))
-- [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes#readme)
+- [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
 - [Destyle.css](https://nicolas-cusan.github.io/destyle.css/) - Opinionated reset stylesheet that provides a clean slate for styling your html. ([Code](https://github.com/nicolas-cusan/destyle.css))
 - [Fast Browser Animations (2020)](https://mguida.com/blog/fast-browser-animations/)
 - [Digital nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS.
 - [React CSS Loaders](https://lucasbassetti.com.br/react-css-loaders/) - Collection of pure CSS React loading components. ([Code](https://github.com/LucasBassetti/react-css-loaders))
 - [css-select](https://github.com/fb55/css-select) - CSS selector compiler/engine.
 - [Introducing CSS Scroll Snap Points (2019)](https://css-tricks.com/introducing-css-scroll-snap-points/)
-- [Ask an expert: Why is CSS . . . the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/)
+- [Ask an expert: Why is CSS . . . the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/) ([HN](https://news.ycombinator.com/item?id=23915263))
 - [Glue](https://github.com/jorgebastida/glue) - Simple command line tool to generate CSS sprites.
 - [stylis.js](https://github.com/thysultan/stylis.js) - Light–weight CSS Preprocessor.
 - [An Overview of CSS: An Art, a Science, a Nightmare (2019)](https://www.taniarascia.com/overview-of-css-concepts/)
 - [Basic.css](https://vladocar.github.io/Basic.css/) - Classless CSS Starter File. ([HN](https://news.ycombinator.com/item?id=23402134)) ([Code](https://github.com/vladocar/Basic.css))
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [PurifyCSS](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
+- [Adding dark mode support (2020)](https://www.garrensmith.com/blogs/adding-dark-mode)
+- [SelectorGadget](https://selectorgadget.com/) - Point and click CSS selectors. ([Code](https://github.com/cantino/selectorgadget))
+- [The Mad Magazine Fold-In Effect in CSS (2020)](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/) ([HN](https://news.ycombinator.com/item?id=23457930))
+- [CUBE CSS (2020)](https://piccalil.li/blog/cube-css/) - CSS methodology oriented towards simplicity and consistency with a heavy dosage of pragmatism.
+- [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables)
+- [Critical-ish CSS Extraction (2020)](https://giuseppegurgone.com/critical-css-extraction/)
+- [7 CSS properties I had no idea about (2020)](https://dev.to/tlakomy/7-css-properties-you-had-no-idea-about-4e75)
+- [concrete.css](https://github.com/louismerlin/concrete.css) - Simple and to the point CSS microframework. ([Web](https://concrete.style/))
+- [Sass](https://github.com/sass/sass) - Extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more.
+- [Color Theme Switcher (2020)](https://mxb.dev/blog/color-theme-switcher/)
+- [CSS Tips for New Devs (2020)](https://amberwilson.co.uk/blog/css-tips-for-new-devs/)
+- [The Cognitive Complexity of CSS (2020)](https://ginseng.ai/blog/the-cognitive-complexity-of-css/)
+- [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - Overview of barebones drop-in minimal CSS boilerplate frameworks. ([Code](https://github.com/dohliam/dropin-minimal-css))
+- [CSS Road Guide](https://lyty.dev/css/index.html)
+- [paper.css](https://thesephist.github.io/paper.css/) - Lightweight, modern CSS to add some flair to your web-things. ([Code](https://github.com/thesephist/paper.css))
+- [Learn CSS From Scratch course](https://piccalil.li/course/learn-css-from-scratch/)
+- [CSS Design Awards](https://www.cssdesignawards.com/)
+- [The Surprising Things That CSS Can Animate (2020)](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
+- [A Complete Guide to Dark Mode on the Web (2020)](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+- [Uncommon CSS Properties (2020)](https://ishadeed.com/article/uncommon-css/)
+- [1-Line Layouts](http://1linelayouts.glitch.me/) - 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be. ([Article](https://web.dev/one-line-layouts/)) ([Lobsters](https://lobste.rs/s/qgbgab/ten_modern_layouts_one_line_css))
+- [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html) ([HN](https://news.ycombinator.com/item?id=23736540))
+- [CSS News July 2020](https://www.smashingmagazine.com/2020/07/css-news-july-2020/)
+- [ZeroDivs](https://zerodivs.com/#/) - UI editor for single-element CSS illustrations. ([HN](https://news.ycombinator.com/item?id=23781559))
+- [Style Stage](https://stylestage.dev/) - Modern CSS showcase styled by community contributions. ([Code](https://github.com/5t3ph/stylestage)) ([Article](https://dev.to/5t3ph/announcing-style-stage-a-community-css-showcase-28cp))
+- [Learn CSS with CSS For Designers](https://cssfordesigners.com/) - Practical guide to CSS teaches you everything you need to know and nothing you don’t.
+- [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css) ([HN](https://news.ycombinator.com/item?id=23868355))
+- [css-media-vars](https://propjockey.github.io/css-media-vars/) - Brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS. ([HN](https://news.ycombinator.com/item?id=23865900)) ([Code](https://github.com/propjockey/css-media-vars))
+- [Renderization of Conic gradients (2020)](https://blogs.igalia.com/dpino/2020/06/11/renderization-of-conic-gradients/)
+- [PostCSS 100vh Fix](https://github.com/postcss/postcss-100vh-fix) - PostCSS plugin to fix height/min-height: 100vh on iOS.
+- [Infinite Scroll without Layout Shifts (2020)](https://addyosmani.com/blog/infinite-scroll-and-core-web-vitals/)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup.
+- [content-visibility](https://web.dev/content-visibility/) - New CSS property that boosts your rendering performance.
+- [Nailing the Perfect Contrast Between Light Text and a Background Image (2020)](https://css-tricks.com/nailing-the-perfect-contrast-between-light-text-and-a-background-image/)
+- [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+- [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
+- [How I Structure My CSS (for Now) (2020)](https://matthiasott.com/notes/how-i-structure-my-css)
+- [Gradient Magic](https://www.gradientmagic.com/) - Fantastic and Unique CSS Gradients.
+- [CSS Weekly](https://css-weekly.com/)
+- [A Lightweight Masonry Solution (2020)](https://css-tricks.com/a-lightweight-masonry-solution/) ([CodePen](https://codepen.io/collection/DYRJxR))
+- [Enhancing User Experience With CSS Animations](https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/)
+- [Make your first CSS art (2020)](https://nadialaasri.me/blog/make-your-first-css-art)
+- [The Thing With Leading in CSS (2020)](https://matthiasott.com/notes/the-thing-with-leading-in-css)
+- [Bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc. ([Web](https://kimeiga.github.io/bahunya/))
+- [Flowing Text Around Images](https://calebhearth.com/flowing-text-around-images) ([Lobsters](https://lobste.rs/s/w6xe29/flowing_text_around_images))
+- [Debugging CSS](https://debuggingcss.com/) - Book with lots of tips and techniques on how to debug CSS the right way with easy and studied methods.
+- [Learn CSS Centering](https://ishadeed.com/article/learn-css-centering/)
+- [blocks.css](https://thesephist.github.io/blocks.css/) - Add some dimension to your page with blocks. ([Code](https://github.com/thesephist/blocks.css))
+- [Making a Rotating Icon Button in React (2020)](https://steveruiz.me/posts/rotating-icon-button)
+- [Finding The Root Cause of a CSS Bug (2020)](https://ishadeed.com/article/finding-the-root-cause/)
+- [CSS Demystified](https://cssdemystified.com/) - Start writing CSS with confidence.
+- [A Complete Guide to CSS Media Queries (2020)](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [Custom bullets with CSS ::marker (2020)](https://web.dev/css-marker-pseudo-element/)
+- [Easing Functions Cheat Sheet](https://easings.net/) ([Code](https://github.com/ai/easings.net))
+- [Keyboard-Only Focus](https://www.kizu.ru/keyboard-only-focus/)
+- [:focus-visible Is Here (2020)](https://matthiasott.com/notes/focus-visible-is-here)
+- [In Defense of Utility-First CSS (2018)](https://frontstuff.io/in-defense-of-utility-first-css)
+- [PureCSS Character](https://diana-adrianne.com/purecss-character/) ([Code](https://github.com/cyanharlow/purecss-character))
+- [Balloon.css](https://kazzkiq.github.io/balloon.css/) - CSS tooltips for HTML elements. ([Code](https://github.com/kazzkiq/balloon.css))
+- [Blunt](https://github.com/f-prime/blunt/) - CSS framework strictly for layouts.
+- [How to Create a Realistic Motion Blur with CSS Transitions (2020)](https://css-tricks.com/how-to-create-a-realistic-motion-blur-with-css-transitions/)
+- [Link hover animation (circled)](https://codepen.io/aaroniker/pen/VwjeGLm)
+- [min(), max(), and clamp(): three logical CSS functions to use today (2020)](https://web.dev/min-max-clamp/)
+- [CSS Buttons](https://cssbuttons.vercel.app/) - Pure HTML & CSS Buttons For Web Development. ([Code](https://github.com/r1/cssbuttons))
+- [The State of CSS](https://stateofcss.com/) ([Code](https://github.com/StateOfJS/StateOfCSS-homepage))
+- [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
+- [Manipulating Colors With CSS Variables and HSL (2020)](https://codesalad.dev/blog/manipulating-colors-with-css-variables-and-hsl-16)
+- [CSS for JavaScript Developers](https://css-for-js.dev/) - Online course that teaches the fundamentals of CSS for React/Vue devs.
+- [Custom CSS via Serverless Proxy (2020)](https://paco.sh/blog/custom-css-via-proxy)
+- [How to make CSS Animations (2020)](https://www.imaginarycloud.com/blog/how-to-make-css-animations/)
+- [Everything I Have Done to Make CSS Wizardry Fast](https://gumroad.com/l/yrUwX/earlybird)
+- [Simple Start to CSS variables (2020)](https://kentcdodds.com/blog/super-simple-start-to-css-variables)
+- [PostCSS CSS Variables](https://github.com/MadLittleMods/postcss-css-variables) - PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation.
+- [no.css](https://github.com/mdipierro/no.css) - Tiny CSS framework with almost no classes and some pure CSS effects.
+- [16 CSS Secrets to improve Web Designs (2020)](https://codecoda.com/en/blog/entry/16-css-secrets-to-improve-web-designs)
+- [Hell Yes! CSS!](https://wizardzines.com/zines/css/) - CSS Zines.
+- [Easing Gradients](https://larsenwork.com/easing-gradients/) - Create and preview your own easing gradients in CSS. ([Code](https://github.com/larsenwork/postcss-easing-gradients))
+- [CSSTree](https://github.com/csstree/csstree) - Tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations.
+- [CSS Scan Pro](https://cssscanpro.com/) - Re-imagined Devtools for web design.
+- [The Rules of Margin Collapse (2020)](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- [CSS Scroll Snap (2020)](https://ishadeed.com/article/css-scroll-snap/)
+- [Houdini.how](https://houdini.how/) ([HN](https://news.ycombinator.com/item?id=25361438)) ([Code](https://github.com/GoogleChromeLabs/houdini.how))
+- [Panzoom](https://github.com/timmywil/panzoom) - Library for panning and zooming elements using CSS transforms.
+- [Centering in CSS (2020)](https://web.dev/centering-in-css/) ([HN](https://news.ycombinator.com/item?id=25447511))
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.
+- [PostHTML Inline CSS](https://github.com/posthtml/posthtml-inline-css) - PostHTML plugin for inlining CSS to style attrs.

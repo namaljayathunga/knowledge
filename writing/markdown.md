@@ -7,7 +7,7 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - You can use relative paths in markdown links.
 - Don't add extra space after heading as it is unnecessary.
 - In referencing titles to jump to in readme, lowercase them. **i.e. `[Contributing](#contributing)`**. Lose the punctuation in the end in the link.
-- Can use `<details>` & `<summary>` to make readmes more readable & hiding info behind a clickable dropdown. ([Example](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript#readme)) ([Example 2](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f))
+- Can use `<details>` & `<summary>` to make readmes more readable & hiding info behind a clickable dropdown. ([Example](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)) ([Example 2](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f))
 
 ## Links
 
@@ -31,3 +31,22 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Marked](https://github.com/markedjs/marked) - Markdown parser and compiler. Built for speed.
 - [react-remark](https://github.com/ChristianMurphy/react-remark) - React component and hook to use remark to render markdown.
 - [note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes.
+- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files, sync external docs/src code & make better docs.
+- [Markdown Links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files.
+- [Customizing pandoc to generate beautiful pdf and epub from markdown (2019)](https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/)
+- [Customizing pandoc to generate pdf and epub from GitHub style markdown (2020)](https://learnbyexample.github.io/customizing-pandoc/) ([Lobsters](https://lobste.rs/s/zgsdgg/customizing_pandoc_generate_pdf_epub))
+- [Python Markdown Generator](https://github.com/Nicceboy/python-markdown-generator) - Python library for generating HTML sanitised Markdown documents.
+- [Glow](https://github.com/charmbracelet/glow) - Markdown reader for the terminal with a TUI and encrypted cloud stash. ([HN](https://news.ycombinator.com/item?id=24810312))
+- [ByteMD](https://github.com/bytedance/bytemd) - Hackable Markdown editor component built with Svelte. ([Web](https://bytedance.github.io/bytemd/))
+- [koino](https://github.com/kivikakk/koino) - CommonMark + GFM compatible Markdown parser and renderer.
+- [The Story Behind Markdown (2020)](https://capiche.com/e/markdown-history) - How plain text got formatting, styled like classic emails. ([HN](https://news.ycombinator.com/item?id=24860615))
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser done right. Fast and easy to extend.
+- [lezer-markdown](https://github.com/lezer-parser/markdown) - Incremental Markdown (CommonMark, in fact) parser that integrates well with the Lezer parser system.
+- [Madoko](https://github.com/koka-lang/madoko) - Fast Scholarly Markdown Processor.
+- [Paste Markdown objects](https://github.com/github/paste-markdown) - Paste spreadsheet cells as a Markdown table.
+- [bibtex-markdown](https://github.com/kyledewey/bibtex-markdown) - Hack to integrate BibTeX into markdown in a way that is independent of the markdown parser.
+- [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc.go) - Easy TOC creation for GitHub README.md.
+- [godown](https://github.com/mattn/godown) - Convert HTML into Markdown.
+- [marks](https://github.com/isamert/marks) - Simple and fast search-engine like tool for org/markdown files.
+- [kramdown](https://github.com/gettalong/kramdown) - Fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
+- [Openleaf](https://github.com/werner-duvaud/openleaf-markdown-pdf) - Markdown editor for generating PDF.

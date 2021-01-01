@@ -11,7 +11,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 ## Nix configs (NixOS)
 
-- [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
+- [Infrastructure](https://github.com/rvolosatovs/infrastructure) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
 - [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
 - [William A. Kennington III](https://github.com/wkennington/nixos) - NixOS configurations for my local cluster of machines.
@@ -25,13 +25,23 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [homelab](https://github.com/danderson/homelab) - NixOS configurations for home servers. ([Tweet](https://twitter.com/dave_universetf/status/1236634753765269512))
 - [Henrik Lissner](https://github.com/hlissner/dotfiles)
 - [Edmund Wu](https://github.com/eadwu/nixos-configuration)
+- [Roman Gonzalez](https://github.com/roman/nix-dots)
+- [Kim Zick](https://github.com/rummik/nixos-config)
+- [Eric Bailey](https://github.com/yurrriq/dotfiles)
+- [Martin Baillie](https://github.com/martinbaillie/dotfiles)
+- [Alex Ermolov](https://github.com/wiedzmin/nixos-config)
+- [Bastian Kocher](https://github.com/bkchr/nixos-config)
+- [Structured flake-based NixOS configuration by Tony O](https://github.com/bqv/nixrc)
+- [chessai](https://github.com/chessai/nixos-configs)
+- [Bruno Bigras](https://github.com/bbigras/nix-config)
 
 ## Nix configs (macOS)
 
 - [John Wiegley](https://github.com/jwiegley/nix-config)
-- [LnL7](https://github.com/LnL7/dotfiles#readme)
+- [LnL7](https://github.com/LnL7/dotfiles)
 - [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
 - [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
+- [Phil Pluckthun](https://github.com/kitten/nix-system)
 
 ## Notes
 
@@ -48,14 +58,14 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Wiki](https://nixos.wiki/wiki/Main_Page)
 - [NixOps](https://github.com/NixOS/nixops) - NixOS-based cloud deployment tool.
 - [NixOS Discourse forum](https://discourse.nixos.org/)
-- [Getting started with NixOS on Raspberry Pi 3 Model B+](https://github.com/zupo/nix#readme)
+- [Getting started with NixOS on Raspberry Pi 3 Model B+](https://github.com/zupo/nix)
 - [Collection of NixOS image builders](https://github.com/nix-community/nixos-generators) - Allows to take the same NixOS configuration, and generate outputs for different target formats.
 - [HN: Guix An advanced operating system (2019)](https://news.ycombinator.com/item?id=18902823)
 - [NixOS on ARM](https://github.com/illegalprime/nixos-on-arm) - WIP to cross compile NixOS to run on ARM targets.
 - [Arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS.
 - [Morph](https://github.com/DBCDK/morph) - Tool for managing existing NixOS hosts.
 - [Mobile NixOS](https://github.com/samueldr/mobile-nixos) - Goal is to get a nix-built operating system, preferably NixOS running on mobile devices, e.g. Android phones.
-- [Anyone using NixOS as main destkop (2019)](https://www.reddit.com/r/NixOS/comments/eb5nxv/anyone_using_nixos_as_main_destkop/)
+- [Anyone using NixOS as main desktop (2019)](https://www.reddit.com/r/NixOS/comments/eb5nxv/anyone_using_nixos_as_main_destkop/)
 - [NixOS: For developers (2020)](https://myme.no/posts/2020-01-26-nixos-for-development.html) ([Lobsters](https://lobste.rs/s/jevfaf/nixos_for_developers))
 - [nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell.
 - [Erase your darlings (2020)](https://grahamc.com/blog/erase-your-darlings) ([HN](https://news.ycombinator.com/item?id=22856199)) ([Lobsters](https://lobste.rs/s/2ayklq/erase_your_darlings_immutable))
@@ -64,3 +74,33 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Search NixOS packages and options](https://search.nixos.org/) ([Code](https://github.com/NixOS/nixos-search))
 - [My NixOS Desktop Flow (2020)](https://christine.website/blog/nixos-desktop-flow-2020-04-25) ([HN](https://news.ycombinator.com/item?id=22984639)) ([Lobsters](https://lobste.rs/s/yb1oqg/my_nixos_desktop_flow))
 - [Is NixOS Reproducible?](https://r13y.com/)
+- [Impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage.
+- [NixOS Weekly Newsletter](https://weekly.nixos.org/) - Stay up to date with events, learning resources, and recent developments in NixOS community. ([Code](https://github.com/NixOS/nixos-weekly))
+- [Nix Community Infrastructure](https://github.com/nix-community/infra)
+- [NixOS: How it works and how to install it (2020)](https://www.youtube.com/watch?v=oPymb2-IXbg)
+- [Nix(OS) Thoughts (2020)](https://blog.qtp2t.club/posts/2020-06-20-nix-nixos-thoughts/) ([Lobsters](https://lobste.rs/s/iy17mo/nix_os_thoughts))
+- [Lightweight Linux VMs on NixOS (2020)](https://www.srid.ca/2012301.html)
+- [adhoc executable patching on nixos (2020)](https://notes.neeasade.net/adhoc-executable-patching-on-nix.html)
+- [Nix Flakes: Managing NixOS systems (2020)](https://www.tweag.io/blog/2020-07-31-nixos-flakes/)
+- [NixOS Channels (2020)](https://nixos.online/posts/NixOS_channels/)
+- [Building and Importing NixOS AMIs on EC2 (2020)](http://jackkelly.name/blog/archives/2020/08/30/building_and_importing_nixos_amis_on_ec2/)
+- [Tailscale is magic; even more so with NixOS (2020)](https://fzakaria.com/2020/09/17/tailscale-is-magic-even-more-so-with-nixos.html)
+- [Secure, Declarative Key Management with NixOps, Pass, and nix-plugins (2018)](https://elvishjerricco.github.io/2018/06/24/secure-declarative-key-management.html)
+- [nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - Collection of one-shot scripts to install NixOS on various server hosters and other hardware.
+- [NixOS on prgmr and Failing to Learn Nix (2018)](https://push.cx/2018/nixos) ([Lobsters](https://lobste.rs/s/qpbohs/nixos_on_prgmr_failing_learn_nix_2018))
+- [Eight Months of NixOS (2020)](https://catgirl.ai/log/nixos-experience/) ([Lobsters](https://lobste.rs/s/7eq5qv/eight_months_nixos))
+- [One Week of NixOS (2020)](https://jae.moe/blog/2020/11/one-week-of-nixos/) ([HN](https://news.ycombinator.com/item?id=25024639)) ([Lobsters](https://lobste.rs/s/b7hjcy/one_week_nixos))
+- [Nixops Services on Your Home Network (2020)](https://christine.website/blog/nixops-services-2020-11-09) ([Lobsters](https://lobste.rs/s/kzforn/nixops_services_on_your_home_network))
+- [sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops.
+- [NixOS infrastructure configurations](https://github.com/NixOS/nixos-org-configurations)
+- [nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS.
+- [Nix(OS) Thoughts (2020)](https://blog.knightsofthelambdacalcul.us/posts/2020-06-20-nix-nixos-thoughts/) ([Lobsters](https://lobste.rs/s/m3j4yn/nix_os_thoughts))
+- [NixOps AWS Plugin](https://github.com/NixOS/nixops-aws) - Tool for deploying NixOS machines in a network or cloud.
+- [nixflk](https://github.com/nrdxp/nixflk) - Highly structured NixOS configuration database.
+- [NixOS Pre Installer](https://github.com/alexandergall/nixos-pxe-installer) - Set of modules to perform a fully automated installation of a customized NixOS system.
+- [krops](https://github.com/krebs/krops) - Lightweight toolkit to deploy NixOS systems, remotely or locally.
+- [TangeriNixOS](https://github.com/Pamplemousse/tangerinixos) - NixOS tailored for pentesting.
+- [Methods for building custom NixOS AMIs](https://github.com/nh2/nixos-ami-building)
+- [Colmena](https://github.com/zhaofengli/colmena) - Simple, stateless NixOS deployment tool modeled after NixOps and Morph, written in Rust.
+- [NixOS in the Cloud, step-by-step (2020)](https://justinas.org/nixos-in-the-cloud-step-by-step-part-1)
+- [Mayflower Nix Consulting](https://nixos.mayflower.consulting/)

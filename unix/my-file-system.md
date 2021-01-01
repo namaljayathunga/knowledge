@@ -6,7 +6,7 @@ I have an intricate system where I put files according to their purpose and cont
 
 My Desktop is nearly always empty. It acts as a kind of `temp` folder where every file that is put there needs to be acted upon and either moved to some other place in my system or deleted.
 
-I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/clean-folders#readme) to completely trash everything inside `~/Desktop` with one hotkey. I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) to quickly scan the contents of `~/Desktop` from Alfred.
+I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/clean-folders) to completely trash everything inside `~/Desktop` with one hotkey. I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) to quickly scan the contents of `~/Desktop` from Alfred.
 
 ## ~/Documents
 
@@ -31,7 +31,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-build-to-learn  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
+learning  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
 ```
 
 ## ~/src/clones
@@ -50,9 +50,9 @@ Inside this folder I keep all code from orgs I am working or worked on.
 2do  learn-anything
 ```
 
-## ~/src/build-to-learn
+## ~/src/learning
 
-The folder is OSS on [GitHub](https://github.com/nikitavoloboev/build-to-learn). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas in there.
+The folder is OSS on [GitHub](https://github.com/nikitavoloboev/learning). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas.
 
 ## ~/src/extensions
 
@@ -76,7 +76,7 @@ alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anyth
 
 ## ~/src/curated
 
-Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `README.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
+Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists) there where all edits to the `README.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
 
 ```bash
 ~/src/curated

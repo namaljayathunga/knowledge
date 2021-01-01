@@ -2,11 +2,12 @@
 
 ## Links
 
+- [Introduction to Docker (2013)](https://www.youtube.com/watch?v=Q5POuMHxW-0)
 - [sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine.
 - [Understanding Docker, Containers and Safer Software Delivery](https://www.sitepoint.com/docker-containers-software-delivery/)
-- [Docker 101](https://github.com/Citrix-TechSpecialist/Docker-101#readme)
+- [Docker 101](https://github.com/Citrix-TechSpecialist/Docker-101)
 - [Intro to Docker slides (2014)](http://jdlm.info/ds-docker-demo)
-- [Dokku](https://github.com/dokku/dokku#readme) - Docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- [Dokku](https://github.com/dokku/dokku) - Docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - [dive](https://github.com/wagoodman/dive) - Tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
 - [Scratch Node.js Docker Images](https://github.com/astefanutti/scratch-node)
 - [Testing Databases with Docker (2015)](https://ericchiang.github.io/post/testing-dbs-with-docker/)
@@ -38,7 +39,7 @@
 - [Docker Images : Part I - Reducing Image Size (2020)](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 - [docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller.
 - [dregsy](https://github.com/xelalexv/dregsy) - Lets you sync Docker images between registries, public or private.
-- [Curated list of Docker Compose samples](https://github.com/docker/awesome-compose#readme)
+- [Curated list of Docker Compose samples](https://github.com/docker/awesome-compose)
 - [Dockercraft](https://github.com/docker/dockercraft) - Simple Minecraft Docker client, to visualize and manage Docker containers.
 - [Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer client for iOS (and iPadOS) written in SwiftUI.
 - [into-docker](https://github.com/into-docker/into-docker) - Lets you build and run applications relying on common frameworks or build tools without ever having to write another Dockerfile.
@@ -47,7 +48,46 @@
 - [magicpak](https://github.com/coord-e/magicpak) - Build minimal docker images without static linking. ([HN](https://news.ycombinator.com/item?id=22859993))
 - [DevOps with Docker](https://devopswithdocker.com/) - Introductory course to Docker and docker-compose. ([Code](https://github.com/docker-hy/docker-hy.github.io))
 - [Bollard](https://github.com/fussybeaver/bollard) - Asynchronous rust client library for the docker API.
-- [Docker EE Operational Checklist](https://github.com/nicolaka/checklist#readme)
+- [Docker EE Operational Checklist](https://github.com/nicolaka/checklist)
 - [Bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
 - [Why strace doesn't work in Docker (2020)](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/) ([HN](https://news.ycombinator.com/item?id=23065994))
 - [Udemy Course Docker Mastery](https://www.bretfisher.com/courses/) - Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps. ([Code](https://github.com/BretFisher/udemy-docker-mastery))
+- [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([HN](https://news.ycombinator.com/item?id=23465087)) ([Code](https://github.com/caprover/caprover))
+- [Deploy](https://github.com/zenclabs/deploy) - Step-by-step, open-source tool for easy Docker deployments to AWS.
+- [Swarmlet](https://github.com/swarmlet/swarmlet) - Self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
+- [Collection of delicious docker recipes](https://github.com/vimagick/dockerfiles)
+- [Gocker: Docker implemented in 1.3k lines of Go (2020)](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/) ([HN](https://news.ycombinator.com/item?id=23558853))
+- [Docker CLI plugin for Amazon ECS](https://github.com/docker/ecs-plugin) ([Article](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)) ([HN](https://news.ycombinator.com/item?id=23962120))
+- [Docker-type runtime, written in 100% Python](https://github.com/tonybaloney/mocker)
+- [Understanding Docker Visually (2020)](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
+- [Docket](https://github.com/bloomberg/docket) - Tool to make running test suites easier, using docker-compose.
+- [Docker Roadmap](https://github.com/docker/roadmap)
+- [Docker Sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development.
+- [Docker Sync Boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate)
+- [Penguins in Docker - A Tutorial on Why We Use Docker (2020)](https://www.ezzeddinabdullah.com/posts/penguins-in-docker-a-tutorial-on-why-we-use-docker)
+- [Dockerfile Security Best Practices (2020)](https://cloudberry.engineering/article/dockerfile-security-best-practices/) ([HN](https://news.ycombinator.com/item?id=24776771)) ([Code](https://github.com/gbrindisi/dockerfile-security))
+- [It's Time to Forget About Docker (2020)](https://martinheinz.dev/blog/35) ([Lobsters](https://lobste.rs/s/kj6vtn/it_s_time_say_goodbye_docker))
+- [Smaller Docker Images Using Multi-Stage Builds (2020)](https://codesalad.dev/blog/smaller-docker-images-using-multi-stage-builds-8)
+- [Reproducible docker containers (2019)](https://corpix.dev/2019/02/reproducible-docker-containers.html)
+- [Docker Repull](https://github.com/jdevelop/repull) - Tool to restart a Docker container with a newer version of an image used by the container.
+- [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker.
+- [selfdock](https://github.com/anordal/selfdock) - Sandbox for process and filesystem isolation, like Docker, but without its hard problems.
+- [Docker for macOS bug reports](https://github.com/docker/for-mac)
+- [Docker CLI](https://github.com/docker/cli)
+- [Docker Compose](https://github.com/docker/compose) - Tool for defining and running multi-container Docker applications. ([Docs](https://docs.docker.com/compose/))
+- [Clair scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan.
+- [Preparing for the Docker Hub Rate Limits (2020)](https://inlets.dev/blog/2020/10/29/preparing-docker-hub-rate-limits.html)
+- [Jobs as a Service (JaaS)](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) on Docker Swarm.
+- [pkger](https://github.com/wojciechkepka/pkger) - Package building tool utilizing Docker written in Rust.
+- [Docker App](https://github.com/docker/app) - Cloud Native application packaging framework with which developers and devops can build, share, and run a set of microservices as a single entity.
+- [Dockter](https://github.com/oslabs-beta/Dockter) - Low-overhead, open-source Docker log management tool. ([HN](https://news.ycombinator.com/item?id=25115210))
+- [Docker Compose CLI](https://github.com/docker/compose-cli) - Makes it easy to run Docker containers and Docker Compose applications in the cloud.
+- [Reusable development containers with Docker Compose and Dip (2020)](https://evilmartians.com/chronicles/reusable-development-containers-with-docker-compose-and-dip) ([HN](https://news.ycombinator.com/item?id=25124542))
+- [DIP](https://github.com/bibendi/dip) - Docker Interaction Process. Command-line utility that gives the "native" interaction with applications configured with Docker Compose.
+- [Transitioning from Docker to Podman (2020)](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/) ([HN](https://news.ycombinator.com/item?id=25165195))
+- [duct](https://github.com/erikh/duct) - Docker-compose alike functionality directly from Go, for integration testing.
+- [Please Contain Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - Docker tutorial written for people who don't actually know Docker already.
+- [Towards a Strong Mental Model of Docker (2020)](https://blog.andrewray.me/towards-a-strong-mental-model-of-docker/)
+- [Dockerfile best practices](https://github.com/hexops/dockerfile)
+- [Docker Getting Started Tutorial](https://github.com/docker/getting-started)
+- [Run More Stuff in Docker (2020)](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)

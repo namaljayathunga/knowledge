@@ -4,22 +4,24 @@
 
 - [SwiftUI Essentials WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/216/)
 - [SwiftUI Combine Example](https://github.com/ra1028/SwiftUI-Combine) - Example project of SwiftUI and Combine using GitHub API.
-- [SwiftUI by Example (2019)](https://www.hackingwithswift.com/quick-start/swiftui/)
+- [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui/)
 - [Evolution discussion of the new DSL feature behind SwiftUI (2019)](https://forums.swift.org/t/important-evolution-discussion-of-the-new-dsl-feature-behind-swiftui/25168/12)
-- [About SwiftUI](https://github.com/Juanpe/About-SwiftUI#readme) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
-- [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet#readme)
-- [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI#readme)
+- [About SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
+- [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
+- [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI)
 - [SwiftUI Examples Projects](https://github.com/ivanvorobei/SwiftUI)
 - [Answers to the most common questions about SwiftUI (2019)](https://wwdcbysundell.com/2019/swiftui-common-questions/)
-- [Awesome SwiftUI](https://github.com/vlondon/awesome-swiftui#readme)
-- [Awesome SwiftUI 2](https://github.com/ygit/swiftui#readme)
-- [Awesome SwiftUI 3](https://github.com/chinsyo/awesome-swiftui#readme)
+- [Awesome SwiftUI](https://github.com/vlondon/awesome-swiftui)
+- [Awesome SwiftUI 2](https://github.com/ygit/swiftui)
+- [Awesome SwiftUI 3](https://github.com/chinsyo/awesome-swiftui)
+- [Awesome SwiftUI 4](https://github.com/onmyway133/awesome-swiftui)
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
 - [Swift Playground explaining the concepts of the new Combine framework](https://github.com/AvdLee/CombineSwiftPlayground)
 - [SwiftWebUI](https://github.com/swiftwebui/SwiftWebUI) - Demo implementation of SwiftUI for the Web.
 - [The missing ☑️: SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/)
 - [QGrid](https://github.com/Q-Mobile/QGrid) - The missing SwiftUI collection view.
 - [DesignCode SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - App fully written in SwiftUI showcasing beautiful design and animations.
+- [Introducing SwiftUI Apple Docs](https://developer.apple.com/tutorials/swiftui)
 - [Creating and Combining SwiftUI Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 - [View composition in SwiftUI (2019)](https://mecid.github.io/2019/10/30/view-composition-in-swiftui/)
 - [You have to change mindset to use SwiftUI (2019)](https://swiftwithmajid.com/2019/11/19/you-have-to-change-mindset-to-use-swiftui/)
@@ -61,3 +63,54 @@
 - [Understanding Property Wrappers in SwiftUI (2019)](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
 - [SwiftWebUI and WASM](https://github.com/carson-katri/SwiftWebUI) - Fork of the incredible SwiftWebUI to support WebAssembly via swiftwasm.
 - [Scripts to make working with SwiftWebUI and WASM easier](https://github.com/carson-katri/swiftwebui-scripts)
+- [Replicating complex UI using SwiftUI](https://github.com/exyte/replicating)
+- [SwiftUI Suitability for MacOS App Development (2020)](https://ds9soft.com/blog/2020/06/swiftui-suitability-for-macos-app-development/)
+- [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14)
+- [State and Data Flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
+- [What’s the difference between @StateObject and @ObservedObject? (2020)](https://www.donnywals.com/whats-the-difference-between-stateobject-and-observedobject/) ([Tweet](https://twitter.com/DonnyWals/status/1275451776586506242))
+- [What's new in SwiftUI for iOS 14 – Extended Edition (2020)](https://www.youtube.com/watch?v=-h8pk2pe7Xo)
+- [Inline wrapping of UIKit or AppKit views within SwiftUI (2020)](https://www.swiftbysundell.com/tips/inline-wrapping-of-uikit-or-appkit-views-within-swiftui/)
+- [SwiftUI mix and match (2020)](https://www.swiftbysundell.com/tips/swiftui-mix-and-match/)
+- [All SwiftUI property wrappers explained and compared (2020)](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- [SwiftUI Inspector](https://swiftui.ai/) - Production-quality code straight from your favorite design tool.
+- [Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI](https://github.com/jordansinger/messages-multiplatform-swiftui-sample)
+- [A guide to SwiftUI’s state management system (2020)](https://swiftbysundell.com/articles/swiftui-state-management-guide/)
+- [Twitter macOS Big Sur SwiftUI example app](https://github.com/jordansinger/twitter-macos-swiftui-sample)
+- [Todo example app for macOS Big Sur built in SwiftUI](https://github.com/jordansinger/todo-macos-swiftui-sample) ([Tweet](https://twitter.com/jsngr/status/1280280911968378882))
+- [Learning SwiftUI](https://joeyabanks.io/notes/learning-swift)
+- [Rdio macOS SwiftUI example app for Big Sur](https://github.com/jordansinger/rdio-macos-swiftui-sample)
+- [CatalystSidebarToolbar](https://github.com/steventroughtonsmith/CatalystSidebarToolbar) - Simple sidebar / NSToolbar example for Catalyst.
+- [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) - A Transition Guide.
+- [Decision tree for how to define your SwiftUI properties (2020)](https://twitter.com/chriseidhof/status/1280433133813456896)
+- [Figma macOS Big Sur example app built in SwiftUI](https://github.com/jordansinger/figma-macos-swiftui-sample)
+- [SwiftUI Changelog](https://github.com/twostraws/swiftui-changelog) - Repository to track changes in the SwiftUI generated interface.
+- [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture (2020)](https://www.fivestars.blog/code/section-title-index-swiftui.html)
+- [Swift UI Property Wrappers](https://swiftuipropertywrappers.com/) - Deciding when to use @State, @Binding, @StateObject, @ObservedObject, and @EnvironmentObject.
+- [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS.
+- [What is a SwiftUI Property Wrapper (2020)](https://www.christopherbiscardi.com/what-is-a-swift-ui-property-wrapper)
+- [Primitive School](https://www.primitive.school/) - Learn SwiftUI for Designers, Sprint Kits, and more.
+- [Alignment Guides in SwiftUI (2020)](https://swiftui-lab.com/alignment-guides/)
+- [SwiftUI Lab](https://swiftui-lab.com/)
+- [Impossible Grids with SwiftUI (2020)](https://swiftui-lab.com/impossible-grids/)
+- [SwiftUI Hierarchy List (2020)](https://www.fivestars.blog/code/swiftui-hierarchy-list.html)
+- [Using SwiftUI's Spacer to Create Complex Layouts (2019)](https://benmcmahen.com/using-spacer-in-swiftui/)
+- [SwiftUI Kit](https://github.com/jordansinger/SwiftUI-Kit) - SwiftUI system components and interactions demo app.
+- [Sharing SwiftUI layout information (2020)](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
+- [SwiftUI betas - what changed before 1.0 (2020)](https://mackuba.eu/2020/08/17/swiftui-beta/)
+- [The State of SwiftUI (2020)](https://steipete.com/posts/state-of-swiftui/)
+- [How Swift 5.3 enhances SwiftUI’s DSL (2020)](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/) ([HN](https://news.ycombinator.com/item?id=24462511))
+- [Going native: SwiftUI from the perspective of a React developer (2020)](https://blog.maximeheckel.com/posts/swiftui-as-react-developer)
+- [Debating if I’ll use SwiftUI for my new project. Worried I’ll be a lot slower and will run into issues that force me to redo parts in UIKit (2020)](https://twitter.com/soffes/status/1308149148009472001)
+- [Nice SwiftUI books (2020)](https://twitter.com/drewmccormack/status/1314289042037514241)
+- [SwiftUI State Management Fundamentals (2020)](https://mykola-harmash.medium.com/swiftui-state-management-fundamentals-5b28d2522e4d)
+- [SwiftUI Learning Resources](https://www.notion.so/SwiftUI-16ae61e922684ba08f870a5f22ef017b)
+- [iOS 14 Onboarding in SwiftUI](https://github.com/jordansinger/swiftui-ios-14-onboarding)
+- [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - Building a Collection For SwiftUI.
+- [Example Mail app on macOS using SwiftUI](https://github.com/jordansinger/mail-swiftui-sample)
+- [Widget Examples](https://github.com/pawello2222/WidgetExamples) - Demo project showcasing different types of Widgets created with SwiftUI and WidgetKit.
+- [MVVM in iOS with SwiftUI (Detailed Example + Pitfalls) (2020)](https://matteomanferdini.com/mvvm-pattern-ios-swift/)
+- [Should I use SwiftUI in production? A code-to-code comparison to help you decide (2020)](https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide) ([HN](https://news.ycombinator.com/item?id=25171532))
+- [SwiftUI Code Examples](https://github.com/LostMoa/SwiftUI-Code-Examples) - Solutions to interesting SwiftUI problems.
+- [SwiftUI Discussions](https://github.com/sindresorhus/swiftui/discussions) - Place to discuss SwiftUI things.
+- [iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training) ([HN](https://news.ycombinator.com/item?id=25424126)) ([Code](https://github.com/atrinh0/scrumdinger))

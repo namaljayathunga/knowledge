@@ -28,7 +28,7 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
   - And it's no coincidence, that 5-MeO-DMT trip reports are mostly either reports of pure terror, or of pure bliss, depending on their acceptance to die or not...
 - Another way to imagine it is that 5-MeO-DMT peels away layers. Most psychedelics adds visual or emotional aspects. Take DMT for example it adds a completely amazing visual aspect and many times an emotional one too. 5-MeO-DMT strips you completely naked. If you "succeed" and break through you become consciousness in its pure form - completely empty, unlocated infinite consciousness that people often refer to as "the void". But the void can sound almost negative as it's lacking something but rather it's just where everything comes from.
 - In short: DMT eradicates your physical reality, but you keep yourself, while 5-MeO-DMT eradicates YOU (your ego).
-- [One way to compare them would be that nn dmt is an immersive visual experience but there is still a perceiver of events as there is a duality between subject and object, eg seeing entities that are perceived to be separate from the self, 5 meo dmt induces complete ego death where there is no longer even a perciever of events, all boundaries dissappear and your awareness becomes infinite. This is why people believe that you become God on a 5 meo breakthrough](https://www.reddit.com/r/DMT/comments/9ssa0g/dmt_vs_5meo_dmt/)
+- [One way to compare them would be that nn dmt is an immersive visual experience but there is still a perceiver of events as there is a duality between subject and object, eg seeing entities that are perceived to be separate from the self, 5 meo dmt induces complete ego death where there is no longer even a perciever of events, all boundaries disappear and your awareness becomes infinite. This is why people believe that you become God on a 5 meo breakthrough](https://www.reddit.com/r/DMT/comments/9ssa0g/dmt_vs_5meo_dmt/)
 
 ## Links
 
@@ -43,3 +43,4 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [5-MeO-DMT Reports](https://erowid.org/experiences/subs/exp_5MeODMT.shtml)
 - [Elevate Symposium Zurich June 10th 2018 Panel Discussion](https://www.youtube.com/watch?v=HkywHPPyHUQ)
 - [New Biosynthesis of Psilocybin and Related Tryptamines (2020)](https://psychedelicreview.com/scientists-bioengineer-s-cerevisiae-to-produce-psilocybin-and-related-tryptamines/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/gsll79/psilocybin_4acodmt_and_other_tryptamines_produced/))
+- [Conversion of DMT to 4acodmt/4homet (2020)](https://www.reddit.com/r/TheeHive/comments/j1gr6f/conversion_of_dmt_to_4acodmt4homet/)

@@ -11,7 +11,7 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 
 ## Links
 
-- [OpenVPN install](https://github.com/Nyr/openvpn-install#readme)
+- [OpenVPN install](https://github.com/Nyr/openvpn-install)
 - [OpenVPN vs IPSec, WireGuard, L2TP, & IKEv2 (VPN Protocols 2019)](https://restoreprivacy.com/openvpn-ipsec-wireguard-l2tp-ikev2-protocols/)
 - [Ask HN: What VPN service are you currently using? (2019)](https://news.ycombinator.com/item?id=19242058)
 - [Brook](https://github.com/txthinking/brook) - Cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software.
@@ -28,3 +28,7 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Mysterium Node](https://github.com/mysteriumnetwork/node) - Decentralized VPN built on blockchain.
 - [tinc VPN](https://github.com/gsliepen/tinc)
 - [How Does VPN Work? (2020)](https://kean.github.io/post/networking-101)
+- [VPN & datacenter IPs](https://github.com/ejrv/VPNs) - List of datacenter & VPN IP addresses.
+- [Speedify](https://speedify.com/) - Fast, Secure, Reliable VPN for Individuals, Families & Teams.
+- [FreePN](https://www.freepn.org/) - Open-source peer-to-peer VPN service. ([Code](https://github.com/freepn/fpnd)) ([HN](https://news.ycombinator.com/item?id=24796999))
+- [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29/) ([HN](https://news.ycombinator.com/item?id=24867295))

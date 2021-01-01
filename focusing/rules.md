@@ -3,19 +3,19 @@
 ## Life
 
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
-- Set [tasks](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Focus.
-- One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm.
-- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge.
+- Set [tasks](../macOS/apps/2do.md) & [goals](../focusing/goals.md). [Plan](../macOS/apps/fantastical.md). [Focus](../focusing/focusing.md).
+- One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
+- [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge. Build in public.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
-- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
-- Embrace change. Be proactive. Be bold & fearless. Take ownership. Never give up. Never complain.
+- Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. Move fast. No regrets.
+- Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- Don't compare myself to other people. Surround myself with people that inspire me.
-- Create art. Meet people. See places. Be inspired. Reuse work & ideas.
-- Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Don't compare myself to other people. Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
+- Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people.
+- Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
-- Don't judge anyone. Attempt to see another person's point of view.
+- Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new experience. Build, enforce & learn existing rules.
@@ -23,16 +23,17 @@
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 30+ min cardio/weights daily.
-- Eat [whole food, plant based nutritious diet](../health/nutrition/nutrition.md).
+- [Exercise](../fitness/fitness.md). Start every morning with a workout & shower. 30+ min cardio/weights daily.
+- Eat [whole food plant based nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee. No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
-- Start every morning with workout & shower.
-- Brush/floss teeth & [clean face](../health/skin-care.md) every morning/evening.
-- Apply sun screen when going out. Don't frown. Don't touch face or mouth with dirty hands.
-- [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
+- Go on walks or do exercise throughout the day when possible as breaks.
+- Brush/floss teeth & [clean face](../health/skin-care.md) daily.
+- Apply sunscreen when going out for long time. Don't frown. Don't touch face or mouth with dirty hands.
+- Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
+- [Sleep](../sleep/sleep.md) fully & well. Don't limit sleep. If need to wake up early, go to sleep early. Sleep as much as body needs (~ 8h often).
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Clean up.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Be calm. Clean up.
 
 ## Focus
 
@@ -40,20 +41,19 @@
 - When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to rain ([Spotify](https://open.spotify.com/track/2AI8gjczczIGkUxospO0MF?si=_HuIv6vBRHi855oXLIxNUg) on mac & [Dark Noise](https://github.com/nikitavoloboev/my-ios#widgets) on iOS) or [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=xD3AkrIRRhmeDoSPPer0wQ) when focusing. Environment noise blocked unless it's non distracting or quiet.
+- When focusing, listen to silence or [Ambient](https://open.spotify.com/playlist/5QOChSDsvLTtBwXmIn8Pss?si=KShjGiRPT5ClDiRixB14xA)/[Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=H1iHJahZQSCN5DbvTq6OdA) playlist. Or [Dark Noise](https://github.com/nikitavoloboev/my-ios#widgets).
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
 - Always breathe fresh air. Have proper lighting.
 - Wear clean & comfortable clothes.
-- Never sit for long. Sit up right. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing.
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 - Use priority system for everything and don't go outside its bounds. (i.e. Trello [Learn board](https://trello.com/b/cu32qF3q) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
 
 ## Ideas
 
-- Share [all ideas I have](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
+- Share [all ideas I have](../ideas/ideas.md). Add relevant description and links to describe the idea clearly.
 - Start building early. Validate ideas. Iterate fast. Ship often. Listen to feedback.
 - Look for patterns to draw inspiration for novel ideas.
 
@@ -62,10 +62,10 @@
 - Always learn new things but be purposeful & focused. Learn [fundamentals](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d) for clarity.
 - Document everything. Don't repeat things. Link instead.
 - There are no dumb questions. Do some research first though.
-- [Build things from scratch](https://github.com/nikitavoloboev/build-to-learn) to understand. Minimal version that works.
+- [Build things from scratch](https://github.com/nikitavoloboev/learning) to understand. Minimal version that works.
 - Draw or sketch to distill complex ideas. Think through problems together. Discuss.
 - Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
-- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~1.8x + smart speed, Books: ~1.5x).
+- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~1.4x + smart speed, Books: ~1.25x).
 - Teach what I know in a clear way [aided by visualization, narrative & interactivity](https://youtu.be/kAoQzTcpkyo?t=12588). Learn and teach in public.
 
 ## Write
@@ -75,11 +75,12 @@
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Add useful details where needed.
 - Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
 - Minimize use of articles (`a`, `an`, `the`) as they in most cases add noise.
-- Hyperlink words/phrases appropriately.
+- Hyperlink words/phrases appropriately. Use descriptive link labels ([no `this`](https://lobste.rs/s/absbtc/search_personal_websites)).
 - Use headings to separate sections in articles/docs.
 - Fix mistakes with spell checker.
 - Format text to focus attention. **Bold** = strong emphasis. _Italic_ = soft emphasis. Syntax highlight `Code blocks`.
 - Don't repeat myself / duplicate content. Link instead.
+- Add screenshots/screencasts where appropriate. Take accessibility into account (good visibility of text).
 
 ## Tools
 
@@ -136,8 +137,10 @@
 
 ## Design
 
-- Minimize decision making done by users. Good design leads.
-- Impress users with [great landing page](https://wiki.nikitavoloboev.xyz/design/design-inspiration#products).
+- Design for both light & dark interfaces with accessibility & UX in mind above all else.
+- Use platform primitives (web, iOS, macOS, ..) for greater speed & accessibility.
+- Guide user actions with good design. Remove unnecessary decision making.
+- Design [great landing pages](../design/design-inspiration.md).
 
 ## Photos
 
@@ -146,10 +149,9 @@
 
 ## Email
 
-- Keep email inbox close to 0 at all times.
-- Pin emails that need attention.
-- Archive important emails accordingly. Delete the rest.
-- Filter incoming emails. Separate personal emails from the rest (newsletters/other).
+- Keep email inbox (non newsletter / news) close to 0. Pin emails that need attention.
+- Tag & archive emails that I may need reference of. Delete the rest.
+- Unsubscribe or mark as spam bad email senders. Keep inbox (newsletters, news including) high signal.
 
 ## Git
 
@@ -162,13 +164,12 @@
 - Add appropriate topics to each repo (languages used, problem space, ..)
 - Use relative links instead of hard wired links (i.e. `../issues/` refers to issues of repo).
 - Have same README & CONTRIBUTING content structure across all my repos.
-- Can append `#readme` to GitHub repos that are curated lists or simple readmes.
+- Generate contents table if readme is too long.
 
 ## README
 
 - Use HTML for rendering images if control of size or position is needed.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links).
-- If README is long enough, add a **Contents** reference table.
 - Add a way to visually show the project if possible.
 - Add **Related** section linking to similar projects if possible.
 
@@ -176,7 +177,7 @@
 
 - Treat wiki as my digital brain. Share everything I know or need to reference. [Reflect on life](../looking-back/looking-back.md).
 - Have [unified structure](../meta/reference.md) for all pages.
-- Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme).
+- Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists).
 
 ## Share files
 
@@ -185,15 +186,14 @@
 ## Social
 
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
-- Use [same profile picture](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) across all profiles. Don't change it.
-- Use a profile picture with my face on it on platforms that require it (i.e. AirBnb, LinkedIn..)
+- Use [same profile photo](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) across all profiles. Don't change it.
 - Add appropriate short description with link to personal site.
 - Use same username on all services. Either full name (`nikitavoloboev`) or `nikivi`. Or `nikivii` if `nikivi` is taken.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 
 ## Web
 
-- Prefer Apple login over other options.
+- Prefer Apple login if available. Use Google/GitHub/FB otherwise.
 
 ## Alfred
 
@@ -223,8 +223,8 @@
 
 ## Licensing
 
-- License OSS code under [MIT](https://tldrlegal.com/license/mit-license) or [Apache 2.0](<https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)>).
-- License curated lists and everything else under [CC0](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal).
+- License OSS code under [MIT](https://tldrlegal.com/license/mit-license) or [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+- License curated lists and everything else under [CC4](https://creativecommons.org/licenses/by/4.0/). No need for license file.
 
 ## macOS/iOS
 
@@ -233,9 +233,11 @@
 - Yellow arrows & text is nicer to read when annotating images.
 - Don't play games on mac/iOS.
 - [Automate backups](../backups/backups.md).
-- Share images freely with [Imgur](https://imgur.com) where direct linking doesn't work.
+- Archive useful content no longer actively used. `~/archive`
+- Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
+- Change OS appearance where appropriate (light interface in sunny areas, dark otherwise).
 
 ## Trello
 
@@ -247,7 +249,7 @@
 
 ## Travel
 
-- Mark [places I've liked](https://www.google.com/maps/placelists/list/1t_jW3zR93T4wMQCQPo1aBbcS61A?hl=en) in Google Maps with optional notes about them.
+- Mark [places I've liked](https://www.google.com/maps/placelists/list/1t_jW3zR93T4wMQCQPo1aBbcS61A) in Google Maps with optional notes about them.
 - Buy transport (plane/train) & accommodation for future events/conferences/travels as soon as possible (when I am sure I am attending event/place).
 - Proof check dates before buying tickets. Don't prepare large liquids (> 100ml) in planes.
 - Check in online as early as possible.
@@ -263,3 +265,8 @@
 ## Karabiner
 
 - Sort bindings in the order of keyboard (Q -> W -> E ..). Spacebar is always last key.
+
+## Naming
+
+- Twitter/Reddit/Instagram/GitHub, get literal name if available. On Twitter, lowercasing the name looks good (Twitter will show your custom real name in searches already). Can [capitalize](https://twitter.com/khanacademyeng) username if its multiple words (can rename username if needed). Capitalize [Reddit](https://www.reddit.com/r/ApolloApp/) subreddit name as it stands out better in searches & its more recognizable (the name can't be changed later so capitalize even if one word). GitHub is good [lowercased](https://github.com/learn-anything), literal name or with dashes. If name is taken, can add `_` or [HQ](https://twitter.com/SlackHQ)/[App](https://twitter.com/SparkMailApp)/[Inc](https://twitter.com/PlaybyteInc) in the end or prefix with [get](https://twitter.com/getairbridge) or [use](https://twitter.com/usefathom). For Instagram, if literal name is taken, it's possible to get domain name literal like [narative.co](https://www.instagram.com/narative.co/). Can use [namecheckr](https://www.namecheckr.com/) to check for available names.
+- For domains, get literal name, avoid dashes. Keep it to one registrar (Google Domains preferred). Prefer `.com`, ([vercel.com](https://vercel.com/)), `.co` ([vsco.co](https://vsco.co/)) or `.io` ([codesandbox.io](https://codesandbox.io/)) for generic sites. If it's an app, can use `.app` ([linear.app](https://linear.app)), can also have app in name like [feyapp.com](https://feyapp.com) if `.app` is taken. Developer related, `.dev` ([web.dev](https://web.dev)) is good. Organization, then `.org.` ([telegram.org](https://telegram.org/)). ML related, `.ai` ([deepcode.ai](https://www.deepcode.ai/)) can be good. Design related, `.design` is good ([baseweb.design](https://baseweb.design/)). Video related, `.tv` is good ([rewatch.tv](https://rewatch.tv/)). Otherwise, `.so`, ([notion.so](https://www.notion.so/)), `.xyz` ([learn-anything.xyz](https://learn-anything.xyz)), `.sh` ([apex.sh](https://apex.sh/)) are good. Can also play on domain name like [lobste.rs](https://lobste.rs/) if possible. Make domain name memorable.

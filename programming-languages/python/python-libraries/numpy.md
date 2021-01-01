@@ -7,3 +7,10 @@
 - [From Python to Numpy (2017)](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - [MinPy](https://github.com/dmlc/minpy) - NumPy interface with mixed backend execution.
 - [NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library.
+- [Math to Code](https://mathtocode.com/) - Interactive Python tutorial to teach engineers how to read and implement math using the NumPy library. ([HN](https://news.ycombinator.com/item?id=23513438))
+- [Quaternions in NumPy](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
+- [Array programming with NumPy (2020)](https://www.nature.com/articles/s41586-020-2649-2) ([HN](https://news.ycombinator.com/item?id=24501511))
+- [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
+- [nptyping](https://github.com/ramonhagenaars/nptyping) - Type hints for Numpy.
+- [NumPy Illustrated: The Visual Guide to NumPy (2020)](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)

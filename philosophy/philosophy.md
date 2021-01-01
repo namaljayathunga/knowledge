@@ -26,3 +26,12 @@ In any way, it is an interesting subject I don't know much about.
 - [Meaningness](https://meaningness.com/) - Better ways of thinking, feeling, and acting—around problems of meaning and meaninglessness; self and society; ethics, purpose, and value.
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html)
 - [Source: An Infinite Game](https://github.com/rjelavic/source)
+- ['Story Of Your Life' Is Not A Time-Travel Story](https://www.gwern.net/Story-Of-Your-Life)
+- [Book Review: A Philosophy of Software Design (2020)](https://johz.bearblog.dev/book-review-philosophy-software-design/) ([Lobsters](https://lobste.rs/s/cw5ulb/book_review_philosophy_software_design))
+- [Freedom is not simple](https://www.arp242.net/freedom.html) ([HN](https://news.ycombinator.com/item?id=24130963))
+- [Best Books on Philosophical Wonder (2020)](https://fivebooks.com/best-books/philosophical-wonder-eric-schwitzgebel/)
+- [The imagination gap (2018)](https://ansuz.sooke.bc.ca/entry/350)
+- [Theories of Reference: What Was the Question?](https://philpapers.org/archive/RAATOR-2.pdf)
+- [My intellectual influences (2020)](https://www.lesswrong.com/posts/k6NkvAcRaKBMAzqEF/my-intellectual-influences)
+- [Ask HN: Learning about philosophy (2020)](https://news.ycombinator.com/item?id=25312681)
+- [Two Concepts of Legibility (2020)](https://ideolalia.com/essays/two-concepts-of-legibility.html) ([Lobsters](https://lobste.rs/s/0mel38/two_concepts_legibility))

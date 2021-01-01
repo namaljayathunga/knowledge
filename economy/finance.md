@@ -1,28 +1,24 @@
 # Finance
 
-For my own personal finance, I budget all my money with my online bank app, [Monzo](https://monzo.com) and its Pots feature.
+For my own personal finance, I budget & manage my money with [Monzo](https://monzo.com) (UK/US) & [N26](https://n26.com/en-gb/) (EU).
 
-I have a `Save` pot that has a goal of 3000 pounds. The 3000 pound is the minimum amount I need to hold in order to be safe from any emergency spending.
+I try to keep a minimum of 5,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and my business. I also try to support open source projects & people I love.
 
-![](https://i.imgur.com/Alqu6xx.jpg)
-
-I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively budget my finances. Monzo provides nice tools to budget money I want to spend by category.
-
-Each transaction made with Monzo is automatically sorted into a category by the app.
-
-I also use [N26](https://n26.com/en-gb/) bank in cases where I need Maestro card as Monzo only has MasterCard.
+I use [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat manage my spending but not proactively. I try to be mindful with my spending at all times and try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
 
 ## Ongoing subscriptions
 
-I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
+I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life.
 
-![](https://i.imgur.com/JiZtDlh.jpg)
+![](https://i.imgur.com/jqrRhJe.jpg)
+
+![](https://i.imgur.com/Gz7jCjA.png)
 
 ## Tracking what to buy next
 
 I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These are just tasks with `buy` tag in 2Do sorted by priority. Here is how it looks:
 
-![](https://i.imgur.com/CmR8PXf.png)
+![](https://i.imgur.com/UsmrqL3.jpg)
 
 ## Notes
 
@@ -38,7 +34,7 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Important saving goals people should have](https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/)
 - [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 - [Ask HN: What to do after \$8M (all cash, post tax) exit? (2018)](https://news.ycombinator.com/item?id=18600220)
-- [Resources for those who want to better understand personal finance](https://github.com/kmt901/goodbye-money-confusion#readme)
+- [Resources for those who want to better understand personal finance](https://github.com/kmt901/goodbye-money-confusion)
 - [How to earn your Macroeconomics and Finance white belt (as a software developer) (2019)](https://notamonadtutorial.com/how-to-earn-your-macroeconomics-and-finance-white-belt-as-a-software-developer-136e7454866f)
 - [Ask HN: Best Passive Income Method? (2019)](https://news.ycombinator.com/item?id=20052668)
 - [What were the most influential learning resources you found while discovering FIRE? (2019)](https://www.reddit.com/r/financialindependence/comments/c9yan7/what_were_the_most_influential_learning_resources/)
@@ -60,3 +56,25 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [The ladders of wealth creation: a step-by-step roadmap to building wealth (2019)](https://nathanbarry.com/wealth-creation/)
 - [Simple Personal Finance Tracking with GnuCash (2020)](https://www.csun.io/2020/05/17/gnucash-finance.html) ([HN](https://news.ycombinator.com/item?id=23237445))
 - [Which books have been the most influential on your fatFIRE journey? (2020)](https://www.reddit.com/r/fatFIRE/comments/gpm6d0/which_books_have_been_the_most_influential_on/)
+- [Gather](https://www.usegather.com/) - Collaborative finance tool.
+- [Stripe](https://stripe.com/en-nl) - Online payment processing for internet businesses.
+- [Financial Statements: A Beginner's Guide (2020)](https://www.causal.app/blog/whats-a-financial-statement) ([HN](https://news.ycombinator.com/item?id=23825606))
+- [Awesome Foundations of Decentralized Finance (DeFi)](https://github.com/Mikerah/awesome-foundations-of-DeFi)
+- [Why Credit Card Fraud Is Still a Thing (2020)](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/) ([HN](https://news.ycombinator.com/item?id=23990960))
+- [Ask HN: Do you have a daily cash stream? (2020)](https://news.ycombinator.com/item?id=24047683)
+- [Best countries for FIRE? (2020)](https://www.reddit.com/r/EuropeFIRE/comments/i5gpeh/best_countries_for_fire/)
+- [Mollie](https://www.mollie.com/en) - Effortless payments.
+- [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)
+- [Paysend](https://paysend.com/) - Send money internationally. Nice for sending money to Russia at low (no) cost.
+- [Tax strategies for large earnings surge (2020)](https://www.reddit.com/r/fatFIRE/comments/jdrl4a/tax_strategies_for_large_earnings_surge/)
+- [Ask HN: Why isn’t finance a part of the core curriculum at schools? (2020)](https://news.ycombinator.com/item?id=24877408)
+- [TrueLayer](https://truelayer.com/) - Simple Open Banking APIs. Build applications that securely access data and initiate payments in real time. ([GitHub](https://github.com/TrueLayer))
+- [11FS](https://11fs.com/) - Creating digital financial services for banks.
+- [Interview Primer for Quantitative Finance](https://github.com/dwcoder/QuantitativePrimer) ([PDF](https://github.com/dwcoder/QuantitativePrimer/blob/master/src/QuantitativePrimer.pdf))
+- [Stripe Treasury](https://stripe.com/treasury) - Banking-as-a-service for platforms. ([Tweet](https://twitter.com/patio11/status/1334518202886328320)) ([HN](https://news.ycombinator.com/item?id=25289626))
+- [Mercury Treasury](https://mercury.com/treasury) - Automatic cash management for high-growth startups.
+- [The Games People Play with Cash Flow (2020)](https://commoncog.com/blog/cash-flow-games/) ([HN](https://news.ycombinator.com/item?id=25357669))
+- [How Payment Transaction Processing Works (2020)](https://blog.privacy.com/how-payment-transactions-work/) ([HN](https://news.ycombinator.com/item?id=25332516))
+- [Stripe’s payments APIs: the first ten years (2020)](https://stripe.com/blog/payment-api-design) ([HN](https://news.ycombinator.com/item?id=25455638))
+- [Ask HN: About Financial Inequity (2020)](https://news.ycombinator.com/item?id=25504017)
+- [hledger](https://github.com/simonmichael/hledger) - Cross-platform accounting software for both power users and folks new to accounting. ([Docs](https://hledger.org/))

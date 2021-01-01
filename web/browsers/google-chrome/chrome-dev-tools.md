@@ -4,6 +4,7 @@
 
 - `$_` holds the previous result in the console. So you can do `$_.something(..)` to access the returned object items.
 - [In DevTools hold shift while hovering over a request and it will highlight the initiator in green and dependencies in red](https://twitter.com/addyosmani/status/1260479896888975362)
+- Pressing Ctrl + Space in Dev Tools Network filter search will give useful filters for requests. In Console it will give autosuggestions.
 
 ## Links
 
@@ -15,3 +16,6 @@
 - [Rod](https://github.com/ysmood/rod) - High-level Chrome Devtools controller directly based on Chrome DevTools Protocol.
 - [Chrome DevTools UI](https://github.com/ChromeDevTools/devtools-frontend)
 - [DevTools tips (2020)](https://twitter.com/brian_d_vaughn/status/1250659369496145921)
+- [Hidden Features of Chrome DevTools (2020)](https://martinheinz.dev/blog/33)
+- [How to Debug JavaScript Apps with Chrome DevTools (2020)](https://blog.asayer.io/how-to-debug-javascript-apps-with-chrome-devtools)
+- [Emulate vision deficiencies in DevTools (2020)](https://addyosmani.com/blog/emulate-vision-deficiencies-devtools/)

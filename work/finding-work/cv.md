@@ -1,10 +1,11 @@
 # CV
 
-I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
+I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv).
 
 ## Interesting CVs
 
 - [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal and to the point.
+- [David R. MacIver](https://www.drmaciver.com/cv/)
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)
 - [Joseph Combs](https://www.josephecombs.com/resume/)
 - [Kiliankoe](http://kilian.io/assets/files/cv.pdf) - [Open Source](https://github.com/kiliankoe/cv), made with LaTeX.
@@ -42,6 +43,12 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Brian Anderson](https://brson.github.io/resume.html)
 - [Milen Dzhumerov](https://milen.me/resume/)
 - [Susanna L Harris](https://docs.google.com/document/d/1_uXzFgsX3xIgseeIuqO7xa57HoBA_IT1Zabm2PYMPLw/edit)
+- [Eric Fritz](https://eric-fritz.com/resume/) ([Code](https://github.com/efritz/resume))
+- [Juliette Pretot](https://jul.sh/career)
+- [Benoit Grelard](https://benoit.works/cv) - Pretty.
+- [Kathy Simpson](http://www.kathy.pm/cv) - Pretty.
+- [Steffan Sølvsten](https://ssoelvsten.github.io/) ([Code](https://github.com/SSoelvsten/SSoelvsten.github.io))
+- [Martin Lucina](https://lucina.net/cv:lucina)
 
 ## Notes
 
@@ -69,3 +76,13 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [JSON Resume](https://jsonresume.org/) - Open source initiative to create a JSON-based standard for resumes. For developers, by developers. ([Code](https://github.com/jsonresume/resume-schema))
 - [autoCV](https://github.com/poldrack/autoCV) - Tool for automatic generation of a LaTeX-based CV.
 - [9 tips on having better CV](https://twitter.com/GergelyOrosz/status/1266449238126399491)
+- [Orbit](https://github.com/sharu725/online-cv) - Minimal Jekyll Theme to host your resume.
+- [The Tech Resume Inside-Out](https://www.thetechinterview.com/)
+- [What I Learnt From Reviewing 22 CVs (2020)](https://youknowfordevs.com/2020/07/04/what-i-learnt-from-reviewing-22-cvs.html) ([HN](https://news.ycombinator.com/item?id=23757585))
+- [Résumé Templates](https://www.figma.com/community/file/827002814255067977)
+- [Ask HN: What do you want to see in a resume / GitHub profile? (2020)](https://news.ycombinator.com/item?id=23780236)
+- [How to Build an Effective Dev Portfolio (2020)](https://joshwcomeau.com/effective-portfolio/)
+- [Standard Resume](https://standardresume.co/) - Effortlessly build a memorable resume.
+- [resume.md](https://github.com/williamsmj/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF.
+- [Resoume](https://resoume.com/) - Create an outstanding resume for your next job. ([HN](https://news.ycombinator.com/item?id=24752932))
+- [The Tech Resume Inside Out](https://thetechresume.com/) - Practical guide written by the people who do the resume screening: engineering managers and technical recruiters working at tech companies. ([HN](https://news.ycombinator.com/item?id=24777640))

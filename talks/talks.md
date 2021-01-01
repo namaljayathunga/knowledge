@@ -4,14 +4,14 @@ I love watching interesting talks on various subjects. I also love making talks 
 
 I once made TEDx talk on mindfulness. I only have a transcript of it [here](http://telegra.ph/TED-Talk---Mindfulness-March-2016-03-28). I hope to give more talks of my own soon.
 
-I mark talks that I found interesting [here](https://github.com/learn-anything/talks#readme).
+I mark talks that I found interesting [here](https://github.com/learn-anything/talks).
 
 ## Favorite
 
-- [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Transcript](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf).
+- [Growing a Language - Guy Steele (1998)](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Transcript](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf). ([HN](https://news.ycombinator.com/item?id=24383919))
 - [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
-- [Bret Victor - Inventing on Principle (2012)](https://vimeo.com/36579366)
+- [Bret Victor - Inventing on Principle (2012)](https://www.youtube.com/watch?v=PUv66718DII)
 - [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&t=13m4s)
 - [Apple WWDC 1997 Closing Keynote - Steve Jobs Fireside Chat](https://www.youtube.com/watch?v=KWJ6rGiopvo)
 - [Simplicity Matters - Rich Hickey (2012)](https://www.youtube.com/watch?v=rI8tNMsozo0)
@@ -27,16 +27,18 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 ## Notes
 
 - Giving a talk, it is often best to start with a `Why?`
+- [I love the virtual conf format of "play pre-recorded video while speaker engages with the audience in chat". As a speaker, I enjoy interacting with the audience this way throughout the entire talk, and being able to answer questions without losing any speaking time.](https://twitter.com/techgirl1908/status/1294355241412878336)
+- [Give a roadmap whenever you start speaking. Signpost every argument. Explicitly state the implications of your arguments. Good debaters talk about facts, great ones talk about framing.](https://twitter.com/david_perell/status/1307493332285825024)
 
 ## Links
 
 - [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 - [Ask HN: What is your favorite tech talk? (2018)](https://news.ycombinator.com/item?id=16838460)
-- [Awesome conference practices](https://github.com/kitze/awesome-conference-practices#readme)
-- [Awesome speaking](https://github.com/matteofigus/awesome-speaking#readme)
+- [Awesome conference practices](https://github.com/kitze/awesome-conference-practices)
+- [Awesome speaking](https://github.com/matteofigus/awesome-speaking)
 - [Your IDE as a presentation tool](https://staltz.com/your-ide-as-a-presentation-tool.html)
 - [Really like this way of using a textual overview to present the talk](https://www.youtube.com/watch?v=thpzXjmYyGk)
-- [List of talks that are worth watching](https://github.com/PharkMillups/killer-talks#readme)
+- [List of talks that are worth watching](https://github.com/PharkMillups/killer-talks)
 - [Tech talks that'll change how you think (2019)](https://monicalent.com/blog/2019/01/01/favorite-programming-talks/)
 - [Preparing for a Tech Talk, Part 1: Motivation (2018)](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/)
 - [Preparing for a Tech Talk, Part 2: What, Why, and How (2019)](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/)
@@ -50,3 +52,10 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [On Conference Speaking (2017)](https://hynek.me/articles/speaking/)
 - [How to run an Effective Board Meeting and make an Effective Board Deck](http://delian.io/lessons-4)
 - [How to Speak course](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
+- [Alexis King's talks](https://github.com/lexi-lambda/talks)
+- [Speaking Tips (2020)](https://twitter.com/swyx/status/1276918032971886592)
+- [Notist](https://noti.st/) - Your public speaking portfolio.
+- [List of best talks (2020)](https://twitter.com/ashleymcnamara/status/1278537744352862208)
+- [Badass Conference Talks](https://github.com/emmabostian/badass-conference-talks)
+- [workshopctl](https://github.com/cloud-native-nordics/workshopctl) - Tool for running workshops easily in the cloud.
+- [Ask HN: Best Talks of 2020?](https://news.ycombinator.com/item?id=25537230)

@@ -16,7 +16,7 @@ Is logical theory of computable functions.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) - Rust implementation of Mini-TT, a simple dependently-typed lambda calculus.
 - [A Gentle Introduction to Lambda Calculus - Part 1: Syntax (2018)](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 - [Mikrokosmosai](https://github.com/mroman42/mikrokosmos) - Educational λ-calculus interpreter.
-- [Category Theory and Lambda Calculus (2018)](https://github.com/mroman42/ctlc) ([OSS](https://github.com/mroman42/ctlc))
+- [Category Theory and Lambda Calculus (2018)](https://github.com/mroman42/ctlc) ([Code](https://github.com/mroman42/ctlc))
 - [The Impact of the Lambda Calculus (1997) [pdf]](http://www-users.mat.umk.pl/~adwid/materialy/doc/church.pdf) ([HN](https://news.ycombinator.com/item?id=19835615))
 - [path](https://github.com/robrix/path) - Lambda calculus to explore type-directed program synthesis.
 - [Fine-grain implementations of common lambda calculi in Haskell, tested with QuickCheck](https://github.com/lukeg101/lplzoo)
@@ -31,3 +31,16 @@ Is logical theory of computable functions.
 - [λ-calculus ocaml library](https://github.com/dakk/lambda)
 - [Simply typed lambda calculus (2020)](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
 - [The Awesome Power of Theory: Explorations in the untyped lambda calculus (2014)](http://www.flownet.com/ron/lambda-calculus.html)
+- [Lambda Calculus Visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations)
+- [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus)
+- [Finite Vector Spaces as Model of Simply-Typed Lambda-Calculi](https://www.cis.upenn.edu/~stevez/papers/VZ14.pdf)
+- [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus) ([HN](https://news.ycombinator.com/item?id=24193313))
+- [Lambda Zoo](https://github.com/ak3n/abt-zoo) - Implementations of different lambda calculi with abstract binding trees.
+- [All you need is λ, part one: booleans (2020)](https://antitypical.com/posts/2020-03-29-all-you-need-is-lambda-1-booleans/) ([HN](https://news.ycombinator.com/item?id=24601981))
+- [lambda-mu-mu-calculus](https://github.com/fizruk/lambda-mu-mu-calculus) - Interpreter for λ̅μμ̃-calculus of Herbelin and Curien.
+- [Notes on lambda calculus and type theory](https://github.com/blynn/lambda)
+- [Fun with Lambda Calculus](https://stopa.io/post/263)
+- [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
+- [Algorithmic Information Theory, using Binary Lambda Calculus](https://github.com/tromp/AIT)
+- [Lambda calculus Notes](https://crypto.stanford.edu/~blynn/lambda/)
+- [Lamcal](https://github.com/haraldmaida/lamcal) - Lambda Calculus parser and evaluator and a separate command line REPL application to play around with lambda expressions interactively.

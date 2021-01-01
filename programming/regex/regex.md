@@ -33,3 +33,11 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Structural Regular Expressions - Rob Pike](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf) ([Lobsters](https://lobste.rs/s/1aocan/structural_regular_expressions_1987))
 - [Regexes vs Combinatorial Parsing (2020)](https://khanlou.com/2019/12/regex-vs-combinatorial-parsing/) ([HN](https://news.ycombinator.com/item?id=23331499))
 - [Regex Crossword](https://regexcrossword.com/)
+- [libfsm](https://github.com/katef/libfsm) - DFA regular expression library & friends.
+- [Python re(gex) book](https://leanpub.com/py_regex) - Learn Python Regular Expressions step by step from beginner to advanced levels with hundreds of examples and exercises. ([Code](https://github.com/learnbyexample/py_regular_expressions))
+- [JavaScript RegExp](https://github.com/learnbyexample/learn_js_regexp) - Example based guide to mastering JavaScript regexp. ([Article](https://learnbyexample.github.io/cheatsheet/javascript/javascript-regexp-cheatsheet/))
+- [Compile time regular expressions](https://github.com/hanickadot/compile-time-regular-expressions)
+- [A Visual Guide to Regular Expression (2020)](https://amitness.com/regex/)
+- [Emulating regexp lookarounds in GNU sed (2020)](https://learnbyexample.github.io/sed-lookarounds/)
+- [Try Regex](http://tryregex.com/) - Interactive regex tutorial. ([Code](https://github.com/callumacrae/tryregex))
+- [Three Great Videos About Regex Derivatives (2020)](http://www.oilshell.org/blog/2020/12/regex-videos.html)

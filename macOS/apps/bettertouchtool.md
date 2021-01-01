@@ -6,14 +6,13 @@ You can download [my BTT Profile](https://www.dropbox.com/s/6qai74hb1ptoerd/Main
 
 I also use BTT to modify my TouchBar. Here is how it looks:
 
-![](https://i.imgur.com/fkHgrNg.png)
+![](https://i.imgur.com/i5obomu.png)
 
 It shows, from left to right:
 
-1. All day event (if there is any).
-2. Current or next event in [my Calendar](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical)
-3. Current time, day and month number
-4. Battery percentage
+1. Current or next events in [my Calendar](fantastical.md)
+2. Current time, day and month number
+3. Battery percentage
 
 Can easily tell that it's an all day event as it won't have time stamps shown below the event title.
 
@@ -22,3 +21,4 @@ Can easily tell that it's an all day event as it won't have time stamps shown be
 - [Making the Touch Bar finally useful](http://vas3k.com/blog/touchbar/)
 - [BetterTouchTool Touch Bar Presets](https://github.com/vas3k/btt-touchbar-presets)
 - [BetterTouchTool management in JavaScript](https://github.com/Worie/btt)
+- [GoldenChaos-BTT](https://goldenchaos.net/goldenchaos-btt.html) - Replacement Touch Bar UI for BetterTouchTool.

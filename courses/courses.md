@@ -1,12 +1,8 @@
 # Courses
 
-I love how websites like [Coursera](https://www.coursera.org) pioneered the abundance of free MOOCs by many awesome institutions and professors.
-
-I have not taken many MOOCs so far but one I did take and quite liked was [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn). Although I liked [Mind for Numbers book](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) more. The course is also based on the book.
-
 ## Links
 
-- [Awesome courses](https://github.com/learn-anything/courses#readme)
+- [Awesome courses](https://github.com/learn-anything/courses)
 - [Has some great courses](http://computing.dcu.ie/~humphrys/)
 - [hn.academy](https://hn.academy/) - Collects, ranks, and showcases the online courses recommended by Hacker News users.
 - [Class Central](https://www.classcentral.com/) - Search online courses.
@@ -18,3 +14,17 @@ I have not taken many MOOCs so far but one I did take and quite liked was [Learn
 - [Ask HN: Recommend me a course on Coursera (2020)](https://news.ycombinator.com/item?id=22826722)
 - [Pluralsight](https://www.pluralsight.com/) - Courses platform.
 - [Open edX](https://github.com/edx/edx-platform) - Code that powers edX. Includes the LMS (student-facing, delivering courseware), and Studio (course authoring) components.
+- [Avocado Audio](https://www.avocadoaudio.com/) - Platform for the world’s best audio courses.
+- [Coursera](https://www.coursera.org/) - Build Skills with Online Courses from Top Institutions.
+- [Ask HN: Did you take any fresh MOOCs as of 2020?](https://news.ycombinator.com/item?id=23722680)
+- [hyperlink.academy](https://hyperlink.academy/) - Course platform and online school built for seriously effective learning. ([Manual](https://hyperlink.academy/manual)) ([Code](https://gitlab.com/jaredpereira/hyperlink-academy)) ([v1 Retro](https://awarm.space/fast/008-hyperlinkv1-retro))
+- [Meta Course](https://hyperlink.academy/courses/the-meta-course/1) - Course for creating great courses! We learn how to create learning structures specifically for the ideas and skills most interesting to us.
+- [Course Garden](https://forum.hyperlink.academy/c/course-garden/15) - Place to propose and workshop new course ideas.
+- [Disco](https://www.heydisco.com/) - Learn on the go with audio courses.
+- [Lynda Learning Paths](https://www.lynda.com/learning-paths/)
+- [Open Culture Free Online Courses from Top Unis](https://www.openculture.com/freeonlinecourses)
+- [MIT OpenCourseWare](https://ocw.mit.edu/) - Free Online Course Materials. ([YouTube](https://www.youtube.com/c/mitocw/playlists))
+- [LinkedIn Learning](https://www.linkedin.com/learning/me) - Online Courses for Creative, Technology, Business Skills.
+- [Free online courses from Harvard University](https://www.edx.org/school/harvardx)
+- [Automation bot for free Udemy courses](https://github.com/dimakiss/Udemy_bot)
+- [Ask HN: Top Coursera Courses? (2020)](https://news.ycombinator.com/item?id=25245125)

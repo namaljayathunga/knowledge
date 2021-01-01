@@ -5,7 +5,7 @@
 - [Hello Internet editing time lapse](http://www.cgpgrey.com/blog/hello-internet-editing-time-lapse)
 - [Zencastr](https://zencastr.com/) - Record your remote interviews in studio quality.
 - [Cast](https://tryca.st/) - Record, edit, publish, and host your podcast.
-- [Descript](https://www.descript.com/) - Record. Transcribe. Edit. Mix. As easy as typing.
+- [Descript](https://www.descript.com/) - Record. Transcribe. Edit. Mix. As easy as typing. ([Intro](https://www.youtube.com/watch?v=Bl9wqNe5J8U))
 - [Forecast](https://overcast.fm/forecast) - Podcast MP3 post-production tool designed, developed, and used by professional podcasters.
 - [How to Add Chapter Markers to Podcasts (2019)](https://www.lemonproductions.ca/how-to-add-chapter-markers-to-podcasts/)
 - [How to podcast (2019)](https://rakhim.org/2019/04/how-to-podcast/)
@@ -17,3 +17,5 @@
 - [Lessons learned from recording ~500 podcast episodes (2020)](https://twitter.com/eriktorenberg/status/1255574856776597504)
 - [libsyn](https://libsyn.com/) - Podcast hosting, distribution, and monetization platform.
 - [Podcast Guest Guide](https://antonyjohnston.com/podcastguestguide/)
+- [Podcasting For Business: The Ultimate Guide (2020)](https://blog.bcast.fm/podcasting-for-business/)
+- [bCast Blog](https://blog.bcast.fm/) - How To Build A Profitable Podcast.

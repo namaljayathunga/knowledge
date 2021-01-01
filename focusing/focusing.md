@@ -4,37 +4,30 @@ I define a set of [rules](rules.md), [processes](processes.md) & [goals](goals.m
 
 ## Focusing on what's important
 
-I use [2Do](../macOS/apps/2do.md) as my general task manager. [Trello](../sharing/my-trello.md) as a way to manage projects and track which ideas & things I am learning now. I love that Trello allows focusing in on cards so I can only see the cards I am working on now and nothing else.
+I use [2Do](../macOS/apps/2do.md) as my personal task manager. I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
 
-![](https://i.imgur.com/X8T0qp1.png)
+I work on [ideas](../ideas/ideas.md) I find valuable to me most & make things.
 
-Compared to:
-
-![](https://i.imgur.com/9Iu0zhV.png)
-
-I also use 2Do to schedule a weekly task to reflect on the week passed & plan ahead.
-
-![](https://i.imgur.com/8uR7zCs.png)
-
-I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
-
-I try to limit the scope and number of projects I am working on at any given time to a minimum and give all my mental energy into completing each project to the best of quality.
-
-I [use & build tools](../sharing/my-workflow.md) to make the process of completing my tasks as smooth as it can be.
-
-I focus on [solving problems](../research/solving-problems.md) & limit distractions (only essential notifications setup). I follow [rules](rules.md#focus) to maintain my focus throughout the day.
+I focus on [solving problems](../research/solving-problems.md) & limit distractions (only essential notifications setup).
 
 I support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
+
+I have 2Do setup to schedule a weekly Sunday review & plan task.
+
+![](https://i.imgur.com/l3x5S2k.png)
 
 ## Notes
 
 - You can't manage projects. You can only manage actions related to projects.
 - [Brains aren’t for holding info, they’re for thinking. So if you can empty your brain out by writing stuff onto a todo list, onto your calendar, etc, your brain will have more space for the high level stuff that’s a bit harder to get on paper. And if you wrote down “do thing” on the todo-list… well you just have to do the thing afterwards. There’s nothing to think about or redigest if you write out the things in more detail](https://lobste.rs/s/0qlkm7/how_do_i_keep_multiple_projects_my_head)
+- [If you can't describe what you are doing as a process, you don't know what you're doing.](https://twitter.com/visualizevalue/status/1296791809478336513)
+- [Every high performer is fundamentally relaxed, and practices minimal use of effort to get a given result. Don't try harder: eliminate tensions.](https://twitter.com/sanityinc/status/1309974689268129792)
+- [Simply doodling on a Synth and enjoying the sounds, playing an instrument without trying to make a song, can be very relaxing and satisfying. Especially when you are a beginner at it. Otherwise you might be trying too hard to create something meaningful, destroying the pleasure in the process. So my advice would be not to attempt to create, but to simply indulge in the act and enjoy the flow.](https://news.ycombinator.com/item?id=24743944)
 
 ## Links
 
 - [Maker's schedule](http://www.paulgraham.com/makersschedule.html)
-- [Productivity](https://blog.samaltman.com/productivity) - Amazing post by Sam Altman. ([HN comments](https://news.ycombinator.com/item?id=16802530))
+- [Productivity](https://blog.samaltman.com/productivity) - Amazing post by Sam Altman. ([HN](https://news.ycombinator.com/item?id=16802530))
 - [Shipping vs. Fiddling](https://medium.com/@okonetchnikov/shipping-vs-fiddling-74e27e61e0c1) - Sometimes it's best to focus on getting things done and not fighting the tools/software.
 - [It or Nothing (2019)](http://tynan.com/ornothing)
 - [Be Too Busy to “Do Coffee”](https://nav.al/2019/05/08/meetings/)
@@ -49,3 +42,19 @@ I support my [happiness](../life/happiness.md) by working on projects that I car
 - [Noise, Cognitive Function, and Worker Productivity (2020)](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) ([HN](https://news.ycombinator.com/item?id=23113142))
 - [GTD in 15 minutes](https://hamberg.no/gtd/) - Pragmatic Guide to Getting Things Done.
 - [Your Theme (2020)](https://www.youtube.com/watch?v=NVGuFdX5guE)
+- [Warren Buffett's "2 List" Strategy: How to Maximize Your Focus and Master Your Priorities](https://jamesclear.com/buffett-focus)
+- [Procrastination is driven by our desire to avoid difficult emotions (2020)](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433) ([HN](https://news.ycombinator.com/item?id=23537317))
+- [My weekly review habit](https://www.benkuhn.net/weekly/)
+- [How to finish your side project](https://hugozap.com/posts/how-to-finish-your-side-project/) ([HN](https://news.ycombinator.com/item?id=23672686))
+- [Deep Work and the 30-Hour Method for Learning a New Skill (2018)](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) ([HN](https://news.ycombinator.com/item?id=23845575))
+- [How to stop procrastinating by using the Fogg Behavior Model (2020)](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model) ([HN](https://news.ycombinator.com/item?id=24120275))
+- [Thoughts on deep work (2020)](https://twitter.com/paraschopra/status/1295244575154479104)
+- [How to Be Indistractable](https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you) ([HN](https://news.ycombinator.com/item?id=24360966))
+- [Attention is your scarcest resource (2020)](https://www.benkuhn.net/attention/) ([HN](https://news.ycombinator.com/item?id=24391686))
+- [Why Is It So Hard to Do Something That Should Be Easy?](https://www.youtube.com/watch?v=Uo08uS904Rg)
+- ['Ugh fields', or why you can’t even bear to think about that task (2020)](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62) ([HN](https://news.ycombinator.com/item?id=24445603))
+- [Work on What Matters](https://staffeng.com/guides/work-on-what-matters) ([HN](https://news.ycombinator.com/item?id=24581810))
+- [Ask HN: What is your trick to do deep work or study? (2020)](https://news.ycombinator.com/item?id=24675467)
+- [What some of your goals are? Where you think you want to go, where you think things should be going. (2020)](https://merveilles.town/@neauoire/105093152834494144)
+- [Jonathan Blow on Deep Work: The Shape of a Problem Doesn't Start Anywhere (2018)](https://www.youtube.com/watch?v=4Ej_3NKA3pk)
+- [The Rise and Fall of Getting Things Done (2020)](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) ([HN](https://news.ycombinator.com/item?id=25131848))

@@ -2,10 +2,10 @@
 
 ## Links
 
-- [Awesome Erlang](https://github.com/drobakowski/awesome-erlang#readme)
+- [Getting Started With Erlang](https://erlang.org/doc/getting_started/users_guide.html)
+- [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang.
 - [ErlPort](https://github.com/hdima/erlport) - Connect Erlang to other languages.
-- [An interview with the creator of Gleam: an ML like language for the Erlang VM with a compiler written in Rust (2019)](https://notamonadtutorial.com/an-interview-with-the-creator-of-gleam-an-ml-like-language-for-the-erlang-vm-with-a-compiler-e94775f60dc7)
 - [Gradualizer](https://github.com/josefs/Gradualizer) - Gradual Type System for Erlang.
 - [Rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions.
 - [Ten Years of Erlang (2019)](https://ferd.ca/ten-years-of-erlang.html) ([HN](https://news.ycombinator.com/item?id=20382126))
@@ -18,11 +18,10 @@
 - [BEAM VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc.
 - [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business.
 - [Lumen](https://github.com/lumen/lumen) - New compiler and runtime for BEAM languages.
-- [Gleam](https://github.com/gleam-lang/gleam) - Statically typed language for the Erlang VM. ([Docs](https://gleam.run/)) ([HN](https://news.ycombinator.com/item?id=22902462)) ([Lobsters](https://lobste.rs/s/pb008i/v0_9_gleam_statically_typed_language_for))
 - [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang. ([Code](https://github.com/oreillymedia/etudes-for-erlang))
 - [Spawned Shelter](http://spawnedshelter.com/) - Collection of the best articles, videos and books for learning Erlang.
-- [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
-- [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM.
+- [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war. ([Code](https://github.com/heroku/erlang-in-anger))
+- [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM. ([HN](https://news.ycombinator.com/item?id=24185963))
 - [Anton Lavrik - A Reflection on Building the WhatsApp Server - Code BEAM 2018](https://www.youtube.com/watch?v=LJx6mUEFAqQ)
 - [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 - [Hex](https://hex.pm/) - Package manager for the Erlang ecosystem.
@@ -34,3 +33,36 @@
 - [Matching binary patterns with Erlang](https://dev.to/l1x/matching-binary-patterns-11kh) ([Lobsters](https://lobste.rs/s/3a9e2a/matching_binary_patterns_with_erlang))
 - [Erlang/OTP 23](https://www.erlang.org/news/140) ([HN](https://news.ycombinator.com/item?id=23166554))
 - [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines (2020)](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html) ([HN](https://news.ycombinator.com/item?id=23168119))
+- [A Peek Inside the Erlang Compiler (2012)](https://prog21.dadgum.com/127.html) ([HN](https://news.ycombinator.com/item?id=23465128))
+- [Erlang Coding Standards & Guidelines](https://github.com/Inaka/erlang_guidelines)
+- [Program Development Using Erlang - Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
+- [Erlang/OTP Volume I: A Concurrent World](https://books.altenwald.com/book/en-erlang-i)
+- [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang) - Learn the theory and practice of functional programming in Erlang, through practical exercises and suggested projects.
+- [Erlang/OTP Tutorials](https://www.youtube.com/playlist?list=PLtxpRMx6AFTHLMhDaamt7twDaRj_qcrM5)
+- [escript](http://erlang.org/doc/man/escript.html) - Provides support for running short Erlang programs without having to compile them first, and an easy way to retrieve the command-line arguments.
+- [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/) ([HN](https://news.ycombinator.com/item?id=17003897))
+- [Erlang dbg Intro (2020)](https://antranigv.am/weblog_en/posts/erlang-dbg-intro/) ([Lobsters](https://lobste.rs/s/sisfuf/erlang_dbg_intro))
+- [Concurrency In The Erlang VM (2020)](https://www.skcript.com/svr/concurrency-in-the-erlang-vm/)
+- [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html) ([HN](https://news.ycombinator.com/item?id=24173111))
+- [Avoiding GenServer bottlenecks (2018)](https://www.cogini.com/blog/avoiding-genserver-bottlenecks/)
+- [Scaling Erlang Developer Experience at WhatsApp (2020)](https://codesync.global/uploads/media/activity_slides/0001/03/f2292f201aa6b04db8c4e0b9cfa191dd07c9ee14.pdf) ([HN](https://news.ycombinator.com/item?id=24443128))
+- [Implement BeamAsm – A JIT for Erlang/OTP](https://github.com/erlang/otp/pull/2745) ([HN](https://news.ycombinator.com/item?id=24441841))
+- [SpawnFest](https://spawnfest.github.io/) - Annual free online BEAM-related development competition.
+- [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
+- [A Pipeline Made of Airbags (2020)](https://ferd.ca/a-pipeline-made-of-airbags.html) ([Lobsters](https://lobste.rs/s/uuex13/pipeline_made_airbags))
+- [Caramel](https://github.com/AbstractMachinesLab/caramel) - Erlang backend to the OCaml compiler. ([Introducing Caramel](https://www.erlang-solutions.com/blog/introducing-caramel-an-erlang-backend-for-the-ocaml-compiler-that-provides-a-fast-type-checker-for-beam-based-technologies.html)) ([Web](https://caramel.abstractmachines.dev/)) ([HN](https://news.ycombinator.com/item?id=25169324))
+- [Elli](https://github.com/elli-lib/elli) - Erlang web server for HTTP APIs.
+- [A brief introduction to BEAM (2020)](https://blog.erlang.org/a-brief-BEAM-primer/) ([HN](https://news.ycombinator.com/item?id=24837640))
+- [The BEAM marches forward (2020)](https://underjord.io/the-beam-marches-forward.html)
+- [LFE](https://github.com/rvirding/lfe) - Lisp Flavoured Erlang. Lisp for those who want to build distributed applications. ([Web](https://lfe.io/))
+- [Erlang Ecosystem Foundation](http://www.erlef.org/) - Supporting the BEAM community.
+- [Erlang: A first look at the JIT (2020)](https://blog.erlang.org/a-first-look-at-the-jit/) ([HN](https://news.ycombinator.com/item?id=24989682)) ([Lobsters](https://lobste.rs/s/pb2vis/erlang_first_look_at_jit))
+- [Why Typing Erlang is Hard: Standard Erlang (2020)](https://abstractmachines.dev/posts/am012-why-typing-erlang-is-hard.html)
+- [system_monitor](https://github.com/klarna-incubator/system_monitor) - BEAM VM monitoring and introspection application that helps troubleshooting live systems.
+- [Chasing a Performance Regression with Erlang/OTP 22 (2020)](https://tech.nextroll.com/blog/dev/2020/11/03/chasing-a-perf-regression-erlang.html)
+- [Pyrlang](https://github.com/Pyrlang/Pyrlang) - Drop-in Erlang node implementation in Python 3.5, implementing a network Erlang node protocol.
+- [Planet Erlang](http://www.planeterlang.com/) - Meta blog that collects posts from the blogs of various Erlang developers and contributors. ([Code](https://github.com/stevenproctor/planet-erlang))
+- [erlfmt](https://github.com/WhatsApp/erlfmt) - Automated code formatter for Erlang.
+- [erlang-systemd](https://github.com/hauleth/erlang-systemd) - Simple library for notifying systemd about process state.
+- [The Erlangelist](https://www.theerlangelist.com/) - Erlang related musings. ([Code](https://github.com/sasa1977/erlangelist))
+- [erlang-questions](http://erlang.org/mailman/listinfo/erlang-questions) - General Erlang/OTP discussions.

@@ -33,9 +33,7 @@ Often times I can do the decoupling of the task inside the app I am working in i
 
 ## 3. Work on solving the task and nothing else
 
-In order to make sure I do one task at a time and not get distracted I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/todo-task#readme) and [KM macro](https://www.dropbox.com/s/mkn483urqme9hs2/Add%20selected%20text%20as%20todo.kmmacros?dl=1) I made. It lets me put any selected text or a task from [2Do](../macOS/apps/2do.md), [MindNode](../macOS/apps/mindnode.md) or [Trello](../sharing/my-trello.md) as my **active TODO**. I then [display it on my mac TouchBar](https://github.com/nikitavoloboev/my-mac-os/tree/master/btt#readme) to always keep in my mind what it is I should actually be doing if I ever do get distracted. It looks like this:
-
-![](https://i.imgur.com/kE0NkxH.png)
+I make sure to do the one task I have at hand with no distractions.
 
 ## 4. Solve the problem
 
@@ -47,9 +45,21 @@ Sometimes I already know the answer given my past experience without conducting 
 
 In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This talk](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey covers this point quite well.
 
+## Notes
+
+- [I learned about the Feynman technique. Just write down how the thing you’re trying to learn works (a bug, a technique, anything) until you hit a wall in your understanding. This makes the boundary of your understanding explicit. Often, it’s surprising how much you actually do understand before hitting the wall, but before you build confidence, there’s a bias to assume the amount you don’t understand is greater than it really is. Make the boundary explicit, and then you have a specific point to push forward from, rather than kind of a cloud of doubt and anxiety. This made it clear that I knew more than I felt I knew, and at the very least helped me hone in on specific questions to ask.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+
 ## Links
 
 - [Ask HN: What has made you a better problem solver in software engineering? (2019)](https://news.ycombinator.com/item?id=21659537)
 - [Pen and Paper Programming: what notation, if any, do you use? (2020)](https://lobste.rs/s/qe1ac6/pen_paper_programming_what_notation_if)
 - [Tools/practices to manage deeply nested thought-stacks? (2020)](https://lobste.rs/s/ka2diu/tools_practices_manage_deeply_nested)
 - [Problem-solving tips](https://twitter.com/3blue1brown/status/1264221747391328256)
+- [How to scope work (2020)](https://highgrowthengineering.substack.com/p/how-to-scope-work-)
+- [Problem solving](https://www.alexkehayias.com/essays/problem-solving/) - Introspecting on improving my product problem solving skills.
+- [Ask HN: How to improve my abstract thinking? (2020)](https://news.ycombinator.com/item?id=23675370)
+- [Ask HN: How can I “work-out” critical thinking skills as I age? (2020)](https://news.ycombinator.com/item?id=24025759)
+- [Ask HN: How to Think Clearly? (2020)](https://news.ycombinator.com/item?id=24892599)
+- [Problem Solving Techniques (2020)](https://denvaar.github.io/articles/problem_solving_example.html)
+- [Start with pen and paper](https://sethetter.com/posts/start-with-pen-and-paper/) ([HN](https://news.ycombinator.com/item?id=25031483))
+- [4 Different Perspectives to Solve Problems (2020)](https://neilkakkar.com/different-perspectives-to-solve-problems.html)

@@ -1,19 +1,20 @@
 # Coding practice
 
-## Pracice sites
+## Practice sites
 
 - [LeetCode](https://leetcode.com)
 - [Exercism](http://exercism.io/) ([CLI in Go](https://github.com/exercism/cli))
 - [Project Euler](https://projecteuler.net/archives)
-- [Advent of Code](https://adventofcode.com/)
-- [Hackerrank](https://www.hackerrank.com/)
-- [Hackerearth](https://www.hackerearth.com/)
+- [Advent of Code](https://adventofcode.com/) ([Lobsters Promo Thread 2020](https://lobste.rs/s/3uxtgb/advent_code_2020_promotion_thread))
+- [HackerRank](https://www.hackerrank.com/)
+- [HackerEarth](https://www.hackerearth.com/)
 - [Codeforces](http://codeforces.com/)
 - [Atcoder](https://atcoder.jp/)
 - [Codechef](https://www.codechef.com/)
 - [Kattis](https://open.kattis.com/)
+- [AlgoDaily](https://algodaily.com/) - Software interview prep made easy. Coding Interview Questions.
 - [Sphere Online Judge](http://www.spoj.com/)
-- [Build your own X](https://github.com/danistefanovic/build-your-own-x#readme)
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [CodeAbbey](https://www.codeabbey.com/)
 - [Code Golf](https://code-golf.io/) ([Code](https://github.com/code-golf/code-golf))
 - [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures.
@@ -32,6 +33,7 @@
 - [Swift 2](https://github.com/rudrankriyam/LeetCode-in-Swift)
 - [TypeScript](https://github.com/enricopolanski/leetcode)
 - [Solve LeetCode problems in VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+- [LeetCode Solutions Explained](https://beizhedenglong.github.io/leetcode-solutions/docs/two-sum) ([Code](https://github.com/beizhedenglong/leetcode-site-generator))
 
 ## Project Euler solutions
 
@@ -40,12 +42,14 @@
 - [Python](https://johnloeber.com/docs/projecteuler.html)
 - [Haskell](https://github.com/yfeldblum/haskell-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
+- [Java, Python, Mathematica, Haskell](https://github.com/nayuki/Project-Euler-solutions)
 
 ## Advent of Code solutions
 
 - [Rust](https://github.com/kitten/advent-of-code-2019)
 - [Rust 2](https://github.com/m-rutter/advent-of-code)
 - [Rust 3](https://github.com/mitsuhiko/aoc19)
+- [Rust 4](https://github.com/mkeeter/advent-of-code) - Many years.
 - [JS](https://github.com/vtambourine/adventofcode)
 - [OCaml](https://github.com/narimiran/AdventOfCode2019)
 - [Haskell](https://github.com/merijn/AdventOfCode2019)
@@ -57,6 +61,9 @@
 - [Python 2](https://github.com/andreypopp/aoc2019)
 - [ReasonML](https://github.com/believer/advent-of-code)
 - [Zsh](https://github.com/romkatv/advent-of-code-2019/blob/master/README.md)
+- [Julia](https://github.com/tsoding/aoc-2020)
+- [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)
+- [aoc](https://github.com/jakzo/aoc) - CLI for reading, running and submitting Advent of Code challenges.
 
 ## Exercism exercise solutions
 

@@ -2,6 +2,13 @@
 
 The key to success in Open Source lies in understanding that it's not just about software, it's about the people.
 
+## Nice contributing pages
+
+- [Things Network](https://github.com/TheThingsNetwork/lorawan-stack/blob/develop/CONTRIBUTING.md)
+- [Libra](https://github.com/libra/libra/blob/master/CONTRIBUTING.md)
+- [Arrow](https://github.com/apache/arrow/blob/master/docs/source/developers/contributing.rst)
+- [Texture](https://github.com/texturegroup/texture/blob/master/CONTRIBUTING.md)
+
 ## Notes
 
 - It’s very hard to make open source work for products. multiple problems:
@@ -9,6 +16,8 @@ The key to success in Open Source lies in understanding that it's not just about
   2. Open source doesn’t guarantee long-term viability. it’s extremely common in OSS that maintainers burn out, things start breaking, and there is a lot of churn (until it dies).
   3. While it’s true that development might go quicker, a lot of the time the overhead of managing the open source workflow negates the wins. And sometimes the problem just takes a while to think about, no amount of throwing devs at it will help (this is the case for what I’ve been doing in the past several months. Actual’s architecture for local data + syncing is unique and required careful thought). Open source works best for libraries in my experience. I think the best thing I could do is open-source parts of the apps as libraries, which would share the work and allow people to contribute back, while still allowing Actual itself to be carefully integrated.
 - [Over in Node.js we found that without explicit moderation guidelines a Code of Conduct can actually be harmful 😅... especially if folks are spending time debating out how to enforce the code of conduct in the midst of a time sensitive matter.](https://github.com/facebook/react/pull/16613#issuecomment-526479531)
+- [Even if your product’s entire source code gets leaked, it won’t be catastrophic. Code is past. Ability is present. Vision is future. Majority of value lies in your and team’s collective ability to not fuck up in the present and iterate into the future.](https://twitter.com/paraschopra/status/1294564969757831169)
+- [This is what leads to burnout, abandoned projects, and churn. When we prioritize OSS availability/quality over the well being of their maintainers, it doesn't necessarily lead to the optimal outcome. We are putting code before people.](https://twitter.com/youyuxi/status/1337444375132049412)
 
 ## Links
 
@@ -18,7 +27,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [After 5 years and \$3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/)
 - [How I maintain FOSS projects](https://drewdevault.com/2018/06/01/How-I-maintain-FOSS-projects.html)
 - [Drive-by Haskell Contributions by Neil Mitchell](https://www.youtube.com/watch?v=6kGLHXsUQD4) - Great talk on how to start contributing to projects.
-- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
+- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [Taking an indefinite sabbatical from my projects](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)
 - [The Hard Parts of Open Source by Evan Czaplicki (2018)](https://www.youtube.com/watch?feature=youtu.be&v=o_4EX4dPppA&app=desktop)
 - [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) - [HN](https://news.ycombinator.com/item?id=18538123)
@@ -34,7 +43,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Source Guides](https://opensource.guide/)
 - [The struggles of an open source maintainer (2019)](http://antirez.com/news/129)
 - [Open source beyond the market (2019)](https://m.signalvnoise.com/open-source-beyond-the-market/)
-- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
+- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [My personal journey from MIT to GPL (2019)](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html) ([HN](https://news.ycombinator.com/item?id=20183056))
 - [BOSS](https://www.boss.dev/) - Bounties for Open Source Software.
 - [Unlicense Yourself: Set Your Code Free](https://unlicense.org/)
@@ -53,7 +62,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [What’s happening in Open Source. Every day.](https://github.com/mikeal/daily)
 - [Open Source, SaaS and Monetization (2019)](http://lucumr.pocoo.org/2019/11/4/open-source-and-saas/)
 - [CMTY](https://cmty.app/) - Community platform for open source projects.
-- [Awesome OSS Funding](https://github.com/sustainers/awesome-oss-funding#readme)
+- [Awesome OSS Funding](https://github.com/sustainers/awesome-oss-funding)
 - [Licenses Cheat Sheet](https://kapeli.com/cheat_sheets/Licenses.docset/Contents/Resources/Documents/index)
 - [The city guide to open source - GitHub Universe 2019](https://www.youtube.com/watch?v=GCLgdOiPA6o)
 - [Ask HN: How do you create a successful community from zero? (2019)](https://news.ycombinator.com/item?id=21812442)
@@ -64,7 +73,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Building an open source community from the ground up (2019)](https://www.youtube.com/watch?v=D0p572DrNfI)
 - [Reflections on Excalidraw (2020)](https://blog.vjeux.com/2020/uncategorized/reflections-on-excalidraw.html)
 - [A sad day for Rust (2020)](https://news.ycombinator.com/item?id=22075076) ([HN](https://news.ycombinator.com/item?id=22075076))
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#readme)
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 - [My FOSS Story by Andrew Gallant (2020)](https://blog.burntsushi.net/foss/) ([HN](https://news.ycombinator.com/item?id=22095715))
 - [Best Practice Open Source Repo Setup (2020)](https://www.swyx.io/writing/oss-repo-setup/)
 - [Notes on contributing to open source projects (2020)](https://gist.github.com/Gabriel439/a5770cc1dc430bde576602cbd978ca9d)
@@ -89,3 +98,54 @@ The key to success in Open Source lies in understanding that it's not just about
 - [What's open source?](https://technically.substack.com/p/whats-open-source)
 - [Ask HN: What open source project, in your opinion, has the highest code quality? (2018)](https://news.ycombinator.com/item?id=18037613)
 - [Microsoft and Open Source: An unofficial timeline (2020)](https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline/)
+- [How we raised \$3M for an open source project (2020)](https://posthog.com/blog/raising-3m-for-os) ([HN](https://news.ycombinator.com/item?id=23426662))
+- [The RuboCop Name Drama Redux (2020)](https://metaredux.com/posts/2020/06/08/the-rubocop-name-drama-redux.html) ([Lobsters](https://lobste.rs/s/2ztpzk/rubocop_name_drama_redux))
+- [Open Sauced](https://opensauced.pizza/) - Provides structured onboarding for new contributors to open source. ([Code](https://github.com/open-sauced/open-sauced)) ([Web](https://opensauced.pizza/))
+- [List of open source programs](https://opensourceinternships.herokuapp.com/) ([Code](https://github.com/tapaswenipathak/Open-Source-Programs))
+- ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
+- [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://www.amazon.com/dp/0578675862/) ([Article](https://nayafia.substack.com/p/22-working-in-public)) ([Notes](https://twitter.com/devonzuegel/status/1292212683748585473))
+- [I Just Hit \$100,000/yr On GitHub Sponsors. Here’s How I Did It! (2020)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it) ([HN](https://news.ycombinator.com/item?id=23613719))
+- [Libraries.io](https://libraries.io/) - Open Source Discovery Service. ([Code](https://github.com/librariesio/libraries.io))
+- [Open Source Sustainability (2020)](https://dev.to/erikras/open-source-sustainability-3pjf)
+- [Ethical Source: Open Source, Evolved](https://ethicalsource.dev/) ([Comment](https://news.ycombinator.com/item?id=23737855))
+- [Rethinking Open Source: The Challenges Behind Establishing a Modern Emulator (2019)](https://emucross.com/rethinking-open-source/) ([Lobsters](https://lobste.rs/s/x45hrd/rethinking_open_source_challenges))
+- [How to pay your rent with your open source project (2020)](https://plausible.io/blog/open-source-funding) ([HN](https://news.ycombinator.com/item?id=23963202))
+- [A new funding model for open source software (2020)](https://vriad.com/essays/a-new-funding-model-for-open-source-software) ([HN](https://news.ycombinator.com/item?id=23981563))
+- [The terms of the AGPL are pretty easy to comply with (2020)](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html) ([HN](https://news.ycombinator.com/item?id=23966778))
+- [Scarf](https://about.scarf.sh/) - Helps open-source developers get paid and deliver better software.
+- [Ask HN: Is it a good practice to provide open-source version of your paid app? (2020)](https://news.ycombinator.com/item?id=24097763)
+- [I want to contribute to your project, how do I start? (2020)](https://drewdevault.com/2020/08/10/How-to-contribute-to-FOSS.html) ([Lobsters](https://lobste.rs/s/to2cgw/i_want_contribute_your_project_how_do_i))
+- [Working in Public and the Economics of Free (2020)](https://diff.substack.com/p/working-in-public-and-the-economics)
+- [Post-Open Source (2020)](https://www.boringcactus.com/2020/08/13/post-open-source.html)
+- [Ask HN: Which project does not have any good open-source alternatives? (2020)](https://news.ycombinator.com/item?id=21884828)
+- [Awesome Open Source](https://awesomeopensource.com/) - Find Open Source By Searching, Browsing and Combining 7,000 Topics.
+- [Stop Mentoring First-Time Contributors (2019)](https://mikemcquaid.com/2019/02/16/stop-mentoring-first-time-contributors/)
+- [SQLite Copyright](https://www.sqlite.org/copyright.html)
+- [HN: DigitalOcean's Hacktoberfest Is Hurting Open Source (2020)](https://news.ycombinator.com/item?id=24643894) ([Lobsters](https://lobste.rs/s/epbcho/digitalocean_s_hacktoberfest_is_hurting)) ([How GitHub can improve](https://news.ycombinator.com/item?id=24655810))
+- [TJ Sponsored Projects](https://github.com/tj/sponsors)
+- [Public Money, Public Code](https://publiccode.eu/) - Why is software created using taxpayers’ money not released as Free Software?
+- [Open Source Directory](https://postmake.io/open-source) - Human-browsable directory of popular open-source projects. ([Code](https://github.com/Postmake/open-source-directory))
+- [Open source licensing and why we’re changing Plausible to the AGPL license (2020)](https://plausible.io/blog/open-source-licenses) ([HN](https://news.ycombinator.com/item?id=24763734))
+- [License Finder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
+- [Congress should invest in open-source software (2020)](https://www.brookings.edu/techstream/why-congress-should-invest-in-open-source-software/) ([HN](https://news.ycombinator.com/item?id=24789070))
+- [VSCode's Approach to Issue Grooming](https://github.com/microsoft/vscode/wiki/Issue-Grooming) ([HN](https://news.ycombinator.com/item?id=24846210))
+- [I enforced the AGPL on my code, here's how it went (bad) (2020)](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html) ([Lobsters](https://lobste.rs/s/tlxth2/i_enforced_agpl_on_my_code_here_s_how_it_went)) ([HN](https://news.ycombinator.com/item?id=24845878))
+- [ROSS Index](https://runacap.com/ross-index/) - Fastest-growing open-source startups, every quarter.
+- [Accel - Future of Open Source: Launching the Open 100 (2020)](https://www.accel.com/noteworthy/the-future-of-open-source-launching-the-open100)
+- [Parity Public License](https://paritylicense.com/) - Public LICENSE for software that requires users who build with your software to share their work with the community, too.
+- [Journal of Open Source Software](https://joss.theoj.org/) - Committed to publishing quality research software with zero article processing charges or subscription fees. ([Code](https://github.com/openjournals/joss))
+- [Working open source | Daniel Stenberg (2020)](https://daniel.haxx.se/blog/2020/10/26/working-open-source/)
+- [HN: No More Free Work from Marak: Pay Me or Fork This (2020)](https://news.ycombinator.com/item?id=25032105)
+- [xs:code](https://xscode.com/) - Connecting Companies with Open Source Developers.
+- [Tips for doing open source by Sindre](https://twitter.com/sindresorhus/status/1130833503740809216)
+- [Qualitative research needs to be open-source (2020)](https://scholar.harvard.edu/files/cat/files/short_take_01.pdf)
+- [Open Source does not mean “Includes Free Support”](https://raccoon.onyxbits.de/blog/bugreport-free-support/) ([HN](https://news.ycombinator.com/item?id=25099862))
+- [Bountysource](https://www.bountysource.com/) - Funding platform for open-source software. ([Code](https://github.com/bountysource/core))
+- [A few ways to make money in FOSS (2020)](https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html)
+- [Tribute](https://github.com/nicklockwood/Tribute) - Command-line tool to simplify the process of generating, checking and maintaining open source licenses in your projects.
+- [Open Source Project Criticality Score](https://github.com/ossf/criticality_score)
+- [WG Securing Critical Projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on.
+- [Finding Critical Open Source Projects (2020)](https://opensource.googleblog.com/) ([HN](https://news.ycombinator.com/item?id=25381397))
+- [Open Source Stash](https://opensourcestash.com/) - Privacy-focused, powerful, secure open-source alternatives. ([HN](https://news.ycombinator.com/item?id=25516672))
+- [High Priority Free Software Projects](https://www.fsf.org/campaigns/priority-projects)
+- [The aftermath of "No, 'Open Source' does not mean 'Includes Free Support'" (2020)](https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/) ([Lobsters](https://lobste.rs/s/nohfr6/aftermath_no_open_source_does_not_mean)) ([HN](https://news.ycombinator.com/item?id=25534492))

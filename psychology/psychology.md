@@ -10,3 +10,6 @@
 - [Signaling as a Service (2020)](https://julian.digital/2020/03/28/signaling-as-a-service/) ([HN](https://news.ycombinator.com/item?id=22740368))
 - [Psychopath Code - Cracking The Predators That Stalk Us](https://hintjens.gitbooks.io/psychopathcode/content/)
 - [The Century of the Self documentary (2002)](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
+- [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive) ([HN](https://news.ycombinator.com/item?id=23747880))
+- [The mechanics and psychology behind The Social Dilemma (2020)](https://medium.com/@jeff_seibert/the-mechanics-and-psychology-behind-the-social-dilemma-719d618aa8ce)
+- [Talking out loud to yourself is a technology for thinking (2020)](https://psyche.co/ideas/talking-out-loud-to-yourself-is-a-technology-for-thinking)

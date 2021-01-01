@@ -28,7 +28,7 @@ Might give it a go sometime.
 - [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.
 - [Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyser.
 - [Reasonable Emacs config](https://github.com/purcell/emacs.d)
-- [List of people with nice emacs config files](https://github.com/caisah/emacs.dz#readme)
+- [List of people with nice emacs config files](https://github.com/caisah/emacs.dz)
 - [.emacs.el file and other personal Emacs goodies by John Wiegley](https://github.com/jwiegley/dot-emacs)
 - [Emacs Prelude](https://github.com/bbatsov/prelude) - Emacs distribution that aims to enhance the default Emacs experience.
 - [Language Server Protocol Support for Emacs](https://github.com/emacs-lsp/lsp-mode)
@@ -36,12 +36,14 @@ Might give it a go sometime.
 - [A Semi-literate Emacs Configuration](https://zge.us.to/emacs.d.html)
 - [Modern Emacs](http://www.modernemacs.com/) - Details a journey learning and hacking on Emacs.
 - [Lobsters: Whats your emacs setup like? (2019)](https://lobste.rs/s/754vk6/whats_your_emacs_setup_like)
-- [EmacsConf 2019 videos](https://lists.gnu.org/archive/html/emacsconf-discuss/2019-11/msg00002.html)
+- [EmacsConf](https://emacsconf.org/) - Conference about the joy of Emacs, Emacs Lisp, and memorizing key sequences.
+- [EmacsConf 2019 Talks](https://lists.gnu.org/archive/html/emacsconf-discuss/2019-11/msg00002.html)
+- [EmacsConf 2020 Talks](https://lists.gnu.org/archive/html/emacsconf-discuss/2020-12/msg00000.html) ([HN](https://news.ycombinator.com/item?id=25324311))
 - [Consistent Technical Documents Using Emacs and Org Mode (2019)](https://www.youtube.com/watch?v=0g9BcZvQbXU)
 - [Emacs: The Editor for the Next Forty Years](https://media.emacsconf.org/2019/26.html) ([HN](https://news.ycombinator.com/item?id=21638197)) ([Lobsters](https://lobste.rs/s/qzu97s/emacs_editor_for_next_forty_years))
 - [Emacs - Productivity Tricks/Hacks](http://www.mycpu.org/emacs-productivity-setup/) ([HN](https://news.ycombinator.com/item?id=22129636))
 - [systemE](https://github.com/a-schaefers/systemE) - Lightweight systemd replacement written in Emacs lisp.
-- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide#readme)
+- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide)
 - [How do you setup emacs? (2020)](https://lobste.rs/s/uv4xpv/how_do_you_setup_emacs)
 - [The most successful malleable system in history (2020)](https://malleable.systems/blog/2020/04/01/the-most-successful-malleable-system-in-history/) ([HN](https://news.ycombinator.com/item?id=22875106))
 - [Ask HN: Resources to grok Emacs and use it well? (2020)](https://news.ycombinator.com/item?id=22881808)
@@ -53,3 +55,28 @@ Might give it a go sometime.
 - [Learn Emacs Lisp in 15 minutes](https://bzg.fr/en/learn-emacs-lisp-in-15-minutes.html/)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html) ([HN](https://news.ycombinator.com/item?id=23299993)) ([Lobsters](https://lobste.rs/s/e8tydo/org_mode_organize_your_life_plain_text))
 - [Introducing Org Roam (2020)](https://blog.jethro.dev/posts/introducing_org_roam/)
+- [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html) ([HN](https://news.ycombinator.com/item?id=23672473))
+- [Learning Emacs resources](https://emacsredux.com/resources/)
+- [Castlemacs](https://github.com/freetonik/castlemacs) - Modern, minimalist Emacs for macOS.
+- [Emacs Code](https://github.com/emacs-mirror/emacs)
+- [Protesilaos Stavrou Emacs Blog](https://protesilaos.com/)
+- [WikEmacs](http://wikemacs.org/wiki/Main_Page)
+- [My Org Mode Flow (2020)](https://christine.website/blog/org-mode-flow-2020-09-08) ([Lobsters](https://lobste.rs/s/dqexwp/my_org_mode_flow))
+- [Emacs is special regarding UIs (2020)](https://lists.gnu.org/archive/html/emacs-devel/2020-09/msg00286.html) ([HN](https://news.ycombinator.com/item?id=24430108)) ([Lobsters](https://lobste.rs/s/yvmkmt/emacs_is_very_special_regarding_uis))
+- [Interview with Thierry Volpiatto, maintainer of Emacs Helm (2018)](https://sachachua.com/blog/2018/09/interview-with-thierry-volpiatto/)
+- [Emacs Prelude 1.0](https://emacsredux.com/blog/2020/09/15/emacs-prelude-1-0/) ([HN](https://news.ycombinator.com/item?id=24480448)) ([Lobsters](https://lobste.rs/s/egkt4n/emacs_prelude_1_0))
+- [Practical Emacs Lisp](http://ergoemacs.org/emacs/elisp.html)
+- [Comprehensive guide on handling long lines in Emacs (2020)](https://200ok.ch/posts/2020-09-29_comprehensive_guide_on_handling_long_lines_in_emacs.html)
+- [Class-based, functional configuration](https://nyxt.atlas.engineer/article/class-based-functional-configuration.org)
+- [Making medieval manuscript transcription less painful with GNU Emacs (2020)](https://josephrjohnson.georgetown.domains/posts/emacs-transcriptions/) ([Lobsters](https://lobste.rs/s/defzbh/making_medieval_manuscript))
+- [Firn](https://github.com/theiceshelf/firn) - Static Site Generator for Org Mode.
+- [Why I Chose Emacs as My New Text Editor (2020)](https://takeonrules.com/2020/10/18/why-i-chose-emacs-as-my-new-text-editor/) ([Lobsters](https://lobste.rs/s/4cgvyb/why_i_chose_emacs_as_my_new_text_editor))
+- [Why Emacs itself is my “favourite Emacs package” (2020)](https://protesilaos.com/codelog/2020-10-21-emacs-favourite-package/)
+- [Org mode for Emacs](https://orgmode.org/) - Convenient plain text markup and more. ([Code](https://github.com/bzg/org-mode)) ([HN](https://news.ycombinator.com/item?id=24903311))
+- [Org mode Almanac](https://alphapapa.github.io/org-almanac/) ([Code](https://github.com/alphapapa/org-almanac))
+- [Batteries included with Emacs (2020)](https://karthinks.com/software/batteries-included-with-emacs/)
+- [Emacs Should Be Emacs Lisp - Thoughts on the Future of Emacs (2020)](https://archive.fosdem.org/2020/schedule/event/emacsthoughts/)
+- [Emacs Survey 2020 Results](https://emacssurvey.org/2020/) ([HN](https://news.ycombinator.com/item?id=25388353))
+- [Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text (2017)](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/)
+- [Emacs is the 2D Command-line Interface](http://hongchao.me/cli-and-emacs/) ([Lobsters](https://lobste.rs/s/iliflm/emacs_is_2d_command_line_interface))
+- [Turn your .emacs.d Into an Emacs Distribution (with Straight.el) (2020)](https://countvajhula.com/2020/12/27/turn-your-emacs-d-into-an-emacs-distribution-with-straight-el/) ([Reddit](https://www.reddit.com/r/emacs/comments/kkzyht/turn_your_emacsd_into_an_emacs_distribution_with/))

@@ -20,15 +20,15 @@ It is common to use React with a Flux pattern to manage the state of the applica
 
 - [React Redux — Concept, Workflow & Cheatsheet (2017)](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
-- [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide#readme)
+- [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide)
 - [Mark Erikson - The Fundamentals of Redux](https://www.youtube.com/watch?v=ewelU8WHXQ4&index=7&list=PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP)
-- [Redux Persist](https://github.com/rt2zz/redux-persist#readme) - Persist and rehydrate a Redux store.
+- [Redux Persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a Redux store.
 - [The Suspense is Killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
 - [Getting started with Redux course](https://egghead.io/courses/getting-started-with-redux)
 - [Erik Rasmussen | Abstracting Form State with Redux Form (2016)](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 - [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3)
 - [redux-actions](https://github.com/redux-utilities/redux-actions) - Flux Standard Action utilities for Redux.
-- [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links#readme) - Categorized list of Redux-related addons, libraries, and utilities.
+- [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - Categorized list of Redux-related addons, libraries, and utilities.
 - [typesafe-actions](https://github.com/piotrwitek/typesafe-actions) - Typesafe Action Creators for Redux / Flux Architectures (in TypeScript).
 - [TypeScript FSA](https://github.com/aikoven/typescript-fsa) - Type-safe action creator utilities.
 - [Robodux](https://github.com/neurosnap/robodux) - Remove repetitive tasks from Redux.
@@ -55,7 +55,7 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Idiomatic Redux](https://blog.isquaredsoftware.com/series/idiomatic-redux/)
 - [Is redux really a good idea? (2020)](https://www.reddit.com/r/reactjs/comments/epxavs/is_redux_really_a_good_idea/)
 - [How To Not Have A Mess with React Hooks & Redux (2020)](https://orizens.com/blog/how-to-not-have-a-mess-with-react-hooks-and-redux/)
-- [React + Redux + Comlink = Off-main-thread (2019)](https://dassur.ma/things/react-redux-comlink/)
+- [React + Redux + Comlink = Off-main-thread (2019)](https://surma.dev/things/react-redux-comlink/)
 - [Redux Batch](https://github.com/manaflair/redux-batch) - Enhance your Redux store to support batched actions.
 - [Redux Toolkit](https://redux-toolkit.js.org/) - Official, opinionated, batteries-included toolset for efficient Redux development. ([Code](https://github.com/reduxjs/redux-toolkit))
 - [Redux Shouldn’t Hold All Of Your Data (2019)](https://michaelwashburnjr.com/2019/12/09/stop-storing-data-redux/)
@@ -71,3 +71,13 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [HN: Redux – Not Dead Yet (2020)](https://news.ycombinator.com/item?id=22822198)
 - [Redux Actuator](https://github.com/molefrog/redux-actuator) - Communicate between components through Redux store.
 - [Notes on redux design](https://twitter.com/buildsghost/status/1255756148084367361)
+- [Dynadux](https://github.com/aneldev/dynadux) - Advanced and simpler Stores based on dispatch and Reducers. Alternative to Redux.
+- [Why I Stopped Using Redux (2020)](https://dev.to/g_abud/why-i-quit-redux-1knl)
+- [Redux Overview and Concepts](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) ([HN](https://news.ycombinator.com/item?id=23950153))
+- [The evil pattern of Redux that reduces boilerplate (2020)](https://www.albertgao.xyz/2020/09/22/evil-pattern-of-redux-that-reduces-boilerplate/)
+- [Redux In Web Workers: Off-Main-Thread Redux Reducers and Middleware (2020)](https://blog.axlight.com/posts/redux-in-worker-off-main-thread-redux-reducers-and-middleware/)
+- [Refactoring a Redux app to use Recoil (2020)](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/)
+- [Repluggable](https://github.com/wix/repluggable) - Pluggable micro frontends in React+Redux apps.
+- [Redux is half of a pattern (2020)](https://dev.to/davidkpiano/redux-is-half-of-a-pattern-1-2-1hd7)
+- [RTK Query](https://rtk-query-docs.netlify.app/) - Data fetching and caching addon for Redux Toolkit. ([Code](https://github.com/rtk-incubator/rtk-query)) ([Tweet](https://twitter.com/acemarke/status/1333863983330299904))
+- [Functors - Redux (2020)](https://functional.christmas/2020/8)

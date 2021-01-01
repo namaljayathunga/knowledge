@@ -5,14 +5,14 @@
 - [TensorFlow examples](https://github.com/aymericdamien/TensorFlow-Examples)
 - [Swift for TensorFlow](https://github.com/tensorflow/swift)
 - [TensorFlow & OpenAI Gym Tutorial: Behavioral Cloning!](https://www.youtube.com/watch?v=0rsrDOXsSeM)
-- [Classifying Text with Neural Networks and TensorFlow](https://github.com/dmesquita/understanding_tensorflow_nn#readme)
+- [Classifying Text with Neural Networks and TensorFlow](https://github.com/dmesquita/understanding_tensorflow_nn)
 - [Deep Learning 2: Introduction to TensorFlow](https://www.youtube.com/watch?v=JO0LwmIlWw0)
 - [Tensorpack](https://github.com/tensorpack/tensorpack) - Neural Net Training Interface on TensorFlow.
 - [StyleGAN](https://github.com/NVlabs/stylegan) - Official TensorFlow Implementation.
 - [Ludwig](https://github.com/uber/ludwig) - Toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [Pre-trained TensorFlow.js models](https://github.com/tensorflow/tfjs-models)
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
-- [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow#readme) - Simple and comprehensive tutorials in TensorFlow.
+- [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow.
 - [TensorFlow Graphics](https://github.com/tensorflow/graphics)
 - [Blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution.
 - [TensorFlow.js converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js.
@@ -40,3 +40,33 @@
 - [TensorFlow Profiler](https://github.com/tensorflow/profiler) - Profiling and performance analysis tool for TensorFlow.
 - [TFRT: A New TensorFlow Runtime](https://github.com/tensorflow/runtime)
 - [Farewell, TensorFlow (2020)](https://mrry.github.io/2020/05/10/farewell-tensorflow.html) ([Twitter](https://twitter.com/ericjang11/status/1259882911282556928))
+- [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
+- [TensorFlow.js](https://github.com/tensorflow/tfjs) - WebGL accelerated JavaScript library for training and deploying ML models. ([Web](https://www.tensorflow.org/js/)) ([HN](https://news.ycombinator.com/item?id=23453308))
+- [TensorFlow benchmarks](https://github.com/tensorflow/benchmarks) - Contains various TensorFlow benchmarks.
+- [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)
+- [TensorFlow vs PyTorch (2020)](https://www.reddit.com/r/datascience/comments/h8smv7/tensorflow_vs_tensorflow_20_vs_pytorch/)
+- [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi (2020)](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=23593439))
+- [Sardonyx](https://github.com/s1ddok/Sardonyx) - Convert your ONNX models into Swift for TensorFlow or Metal Performance Shaders.
+- [pix2pix implementation using Swift for TensorFlow](https://github.com/s1ddok/pix2pix-s4tf)
+- [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
+- [Deep Xi](https://github.com/anicolson/DeepXi) - Deep Learning Approach to A Priori SNR Estimation for speech enhancement.
+- [TF-Coder, a tool that writes tricky TensorFlow expressions (2020)](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html) ([HN](https://news.ycombinator.com/item?id=24285910))
+- [TensorBoard](https://github.com/tensorflow/tensorboard) - Suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
+- [Awesome TensorFlowJS](https://github.com/aaronhma/awesome-tensorflow-js)
+- [Tensorflow vs Scikit-learn (2020)](https://mljar.com/blog/tensorflow-vs-scikit-learn/)
+- [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language.
+- [TensorFlow Federated](https://github.com/tensorflow/federated) - Framework for implementing federated learning.
+- [Pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform based on Tensorflow.js.
+- [TensorFlow Compression](https://github.com/tensorflow/compression) - Build your own ML models with end-to-end optimized data compression built in.
+- [Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading (2020)](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
+- [NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs) ([Web](https://nsfwjs.com/))
+- [Trieste](https://github.com/secondmind-labs/trieste) - Bayesian optimization toolbox built on TensorFlow.
+- [Introduction to Swift for TensorFlow (2020)](https://www.youtube.com/watch?v=YSUFcX2dTjk) ([Slides](https://brettkoonce.com/talks/introduction-to-swift-tensorflow-2020/))
+- [Convolutional Neural Networks with Swift for TensorFlow](https://convolutionalneuralnetworkswithswift.com/)
+- [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)
+- [TensorFlow Model Garden](https://github.com/tensorflow/models) - Repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users.
+- [Mac-optimized TensorFlow and TensorFlow Addons](https://github.com/apple/tensorflow_macos)
+- [TensorFlow binaries supporting AVX, FMA, SSE](https://github.com/lakshayg/tensorflow-build)
+- [Swift4TF](https://github.com/zaidalyafeai/Swift4TF) - Set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory.
+- [Siamese networks with Keras, TensorFlow, and Deep Learning (2020)](https://www.pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/)
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)

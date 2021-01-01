@@ -2,7 +2,7 @@
 
 Go is currently my favorite programming language.
 
-I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/Microsoft/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
+I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/golang/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
 
 Go promotes composition over inheritance.
 
@@ -32,6 +32,9 @@ Go promotes composition over inheritance.
 - [In Go, as long as you are not sharing data, you don't really have to care about whether something is concurrent or parallel, the runtime takes care of it for you. You just use goroutines, IO transparently happens on a dedicated threadpool, CPU heavy tasks are spread out over the available cores.](https://news.ycombinator.com/item?id=20210850)
 - [How to edit Go packages locally](https://twitter.com/zekjur/status/1226487216937086976)
 - [The main sell point of Go is not simplicity, but overall balance and flexibility](https://news.ycombinator.com/item?id=21744910)
+- [Better make copies of a struct than passing pointers to it.](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)
+- [I have grown to strongly dislike passing options by variable argument in Go ("...Option"). It makes a terrible mess of package documentation. Much easier to find and understand fields in an Options or Config struct.](https://twitter.com/davidcrawshaw/status/1300094723340865537)
+- [Go's RTS is built around a rather simple concurrent mark/sweep GC with all of the trade-offs that this implies. In the case of GHC you have a choice between a throughput-oriented moving GC and an (admittedly somewhat young) non-moving collector. On the low-latency front Go indeed has something of a head-start here, but GHC is now competitive and is improving with every release.](https://www.reddit.com/r/haskell/comments/j5slz6/how_does_haskells_gcruntime_compare_with_that_of/)
 
 ## Links
 
@@ -39,11 +42,11 @@ Go promotes composition over inheritance.
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Go proverbs](https://go-proverbs.github.io/)
-- [Go internals](https://github.com/teh-cmc/go-internals#readme)
-- [Go 101](https://go101.org/article/101.html) - Great book.
+- [Go internals](https://github.com/teh-cmc/go-internals)
+- [Go 101](https://go101.org/article/101.html) - Book focusing on Go syntax/semantics and all kinds of runtime related things.
 - [Notes on Go](https://brandur.org/go)
 - [Avoiding complexity in Go](https://bradgignac.com/2014/09/24/avoiding-complexity-with-go.html)
-- [Gopher reading list](https://github.com/enocom/gopher-reading-list#readme)
+- [Gopher reading list](https://github.com/enocom/gopher-reading-list)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 - [7 common mistakes in Go and when to avoid them by Steve Francia](https://www.youtube.com/watch?v=29LLRKIL_TI)
@@ -51,7 +54,7 @@ Go promotes composition over inheritance.
 - [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/)
 - [Golang interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Go in 5 minutes](https://github.com/arschles/go-in-5-minutes)
-- [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
+- [Learn Go with tests](https://github.com/quii/learn-go-with-tests) ([Web](https://quii.gitbook.io/learn-go-with-tests/))
 - [Using Instruments to profile Go programs](https://rakyll.org/instruments/)
 - [Design Philosophy On Packaging](https://www.ardanlabs.com/blog/2017/02/design-philosophy-on-packaging.html)
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
@@ -66,13 +69,13 @@ Go promotes composition over inheritance.
 - [The Go Type System for newcomers](https://rakyll.org/typesystem/)
 - [Web Assembly and Go: A look to the future (2018)](https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/)
 - [How I Learned to Stop Worrying and Love Golang](https://corte.si/posts/code/go/golang-practicaly-beats-purity/index.html)
-- [List of advices and tricks in the Go's world](https://github.com/cristaloleg/go-advices#readme)
+- [List of advices and tricks in the Go's world](https://github.com/cristaloleg/go-advices)
 - [Golang challenge](http://golang-challenge.org/)
 - [dep2nix](https://github.com/nixcloud/dep2nix) - Using golang/dep to create a deps.nix file for go projects to package them for nixpkgs.
 - [GopherCon 2018 - Rethinking Classical Concurrency Patterns](https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/) - [Slides](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
-- [Standard Go Project Layout](https://github.com/golang-standards/project-layout#readme)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-- [Golang Monorepo](https://github.com/flowerinthenight/golang-monorepo#readme) - Example of a golang-based monorepo.
+- [Golang Monorepo](https://github.com/flowerinthenight/golang-monorepo) - Example of a golang-based monorepo.
 - [Lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.
 - [Data Structures with Go Language](https://github.com/Dentrax/Data-Structures-with-Go)
 - [go-hardware](https://github.com/rakyll/go-hardware) - Directory of hardware related libs, tools, and tutorials for Go.
@@ -83,25 +86,25 @@ Go promotes composition over inheritance.
 - [Nice VS Code Go snippets](https://github.com/tj/vscode-snippets)
 - [revive](https://github.com/mgechev/revive) - Fast, configurable, extensible, flexible, and beautiful linter for Go.
 - [Going Infinite, handling 1M websockets connections in Go (2019)](https://github.com/eranyanay/1m-go-websockets)
-- [Awesome Go Linters](https://github.com/golangci/awesome-go-linters#readme)
-- [Awesome Go Books](https://github.com/dariubs/GoBooks#readme)
+- [Awesome Go Linters](https://github.com/golangci/awesome-go-linters)
+- [Awesome Go Books](https://github.com/dariubs/GoBooks)
 - [Leaktest](https://github.com/fortytw2/leaktest) - Goroutine Leak Detector.
 - [Practical Go: Real world advice for writing maintainable Go programs (2018)](https://dave.cheney.net/practical-go/presentations/qcon-china.html) ([HN](https://news.ycombinator.com/item?id=19218097))
 - [The State of Go: Feb 2019](https://speakerdeck.com/campoy/the-state-of-go-feb-2019?slide=38)
 - [gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with generics and macros.
 - [go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes.
-- [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook#readme)
+- [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
 - [Go Package Store](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 - [Why are my Go executable files so large? Size visualization of Go executables using D3 (2019)](https://science.raphael.poss.name/go-executable-size-visualization-with-d3.html)
 - [goweight](https://github.com/jondot/goweight) - Tool to analyze and troubleshoot a Go binary size.
-- [Go Patterns](https://github.com/tmrts/go-patterns#readme) - Curated list of Go design patterns, recipes and idioms.
-- [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap#readme) - Roadmap to becoming a Go developer in 2019.
+- [Go Patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms.
+- [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019.
 - [Clear is better than clever (2019)](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf) ([HN](https://news.ycombinator.com/item?id=19837981))
 - [Retool](https://github.com/twitchtv/retool) - Vendoring for executables written in Go.
 - [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
 - [Go Creeping In (2019)](https://www.tbray.org/ongoing/When/201x/2019/06/12/Go-Creeping-In) ([HN](https://news.ycombinator.com/item?id=20210850))
 - [Getting to Go: The Journey of Go's Garbage Collector (2018)](https://blog.golang.org/ismmkeynote)
-- [Clean Go Code](https://github.com/Pungyeon/clean-go-article#readme) - Reference for the Go community that aims to help developers write cleaner code.
+- [Clean Go Code](https://github.com/Pungyeon/clean-go-article) - Reference for the Go community that aims to help developers write cleaner code.
 - [Go Language Server](https://github.com/sourcegraph/go-langserver) - Adds Go support to editors and other tools that use the Language Server Protocol (LSP).
 - [Go talks](https://github.com/golang/talks)
 - [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small places.
@@ -109,7 +112,7 @@ Go promotes composition over inheritance.
 - [Delve](https://github.com/go-delve/delve) - Debugger for the Go programming language.
 - [Experiment, Simplify, Ship (2019)](https://blog.golang.org/experiment)
 - [Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
-- [Ultimate Go study guide](https://github.com/hoanhan101/ultimate-go) ([HN](https://news.ycombinator.com/item?id=20701671))
+- [Ultimate Go study guide](https://github.com/ardanlabs/gotraining-studyguide) ([HN](https://news.ycombinator.com/item?id=20701671))
 - [Redress](https://github.com/goretk/redress) - Tool for analyzing stripped binaries.
 - [Ask HN: Is there a project based book or course on Go for writing web APIs? (2019)](https://news.ycombinator.com/item?id=20704993)
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)
@@ -119,16 +122,16 @@ Go promotes composition over inheritance.
 - [Algorithms implemented in Go (for education)](https://github.com/TheAlgorithms/Go)
 - [go-callvis](https://github.com/TrueFurby/go-callvis) - Visualize call graph of a Go program using dot (Graphviz).
 - [goo](https://github.com/benbjohnson/goo) - Simple wrapper around the Go toolchain.
-- [Go Cheat Sheet](https://github.com/a8m/golang-cheat-sheet#readme) - Overview of Go syntax and features.
+- [Go Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) - Overview of Go syntax and features.
 - [packr](https://github.com/gobuffalo/packr) - Simple and easy way to embed static files into Go binaries.
-- [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md#readme) ([HN](https://news.ycombinator.com/item?id=21225401))
+- [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) ([HN](https://news.ycombinator.com/item?id=21225401))
 - [Interpreting Go (2019)](http://notes.eatonphil.com/interpreting-go.html)
 - [gijit](https://github.com/gijit/gi) - Just-in-time trace-compiled golang REPL. Standing on the shoulders of giants (GopherJS and LuaJIT).
 - [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 - [Gox](https://github.com/mitchellh/gox) - Simple Go Cross Compilation.
 - [Learning Go: Lexing and Parsing (2016)](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run/)
-- [Awesome Go Storage](https://github.com/gostor/awesome-go-storage#readme)
+- [Awesome Go Storage](https://github.com/gostor/awesome-go-storage)
 - [Go Modules: v2 and Beyond (2019)](https://blog.golang.org/v2-go-modules)
 - [Let's Create a Simple Load Balancer With Go (2019)](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/) ([HN](https://news.ycombinator.com/item?id=21490731))
 - [The Value in Go's Simplicity (2019)](https://benjamincongdon.me/blog/2019/11/11/The-Value-in-Gos-Simplicity/) ([HN](https://news.ycombinator.com/item?id=21545425))
@@ -141,7 +144,7 @@ Go promotes composition over inheritance.
 - [Using Makefile(s) for Go (2019)](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 - [The Go runtime scheduler's clever way of dealing with system calls (2019)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls) ([HN](https://news.ycombinator.com/item?id=21736342))
 - [Go Things I Love: Methods On Any Type (2019)](https://www.justindfuller.com/posts/2019-12-14_Go-Things-I-Love-Methods-On-Any-Type) ([Reddit](https://www.reddit.com/r/golang/comments/eaqnyh/go_things_i_love_methods_on_any_type/))
-- [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers#readme) - Examples of Golang examples compared to Node.js for learning.
+- [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang examples compared to Node.js for learning.
 - [Testing in Go: Test Doubles by Example (2019)](https://ieftimov.com/post/testing-in-go-test-doubles-by-example/)
 - [Chime](https://www.chimehq.com/) - Go editor for macOS. ([HN](https://news.ycombinator.com/item?id=21963708))
 - [Go Things I Love: Channels and Goroutines (2020)](https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/) ([HN](https://news.ycombinator.com/item?id=21968939))
@@ -204,7 +207,7 @@ Go promotes composition over inheritance.
 - [Golang basics - writing unit tests (2017)](https://blog.alexellis.io/golang-writing-unit-tests/)
 - [Buffered channels in go: tips & tricks (2020)](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
-- [Staticcheck](https://github.com/dominikh/go-tools) - Collection of static analysis tools for working with Go code.
+- [Staticcheck](https://github.com/dominikh/go-tools) - Collection of static analysis tools for working with Go code. ([Web](https://staticcheck.io/))
 - [Go Diagnostics](https://golang.org/doc/diagnostics.html)
 - [Experience report on a large Python-to-Go translation](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc) ([HN](https://news.ycombinator.com/item?id=22304131))
 - [profefe](https://github.com/profefe/profefe) - Collect profiling data for long-term analysis.
@@ -213,7 +216,7 @@ Go promotes composition over inheritance.
 - [Why are my Go executable files so large?](https://dr-knz.net/go-executable-size-visualization-with-d3.html) - Size visualization of Go executables using D3.
 - [Testing in Go: Clean Tests Using t.Cleanup (2020)](https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/)
 - [Go Up](https://github.com/rvflash/goup) - Checks if there are any updates for imports in your module.
-- [I want off Mr. Golang's Wild Ride (2020)](https://news.ycombinator.com/item?id=22443363) ([HN](https://news.ycombinator.com/item?id=22443363))
+- [I want off Mr. Golang's Wild Ride (2020)](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) ([HN](https://news.ycombinator.com/item?id=22443363)) ([Lobsters](https://lobste.rs/s/cqn0pc/i_want_off_mr_golang_s_wild_ride))
 - [Early Impressions of Go from a Rust Programmer (2020)](https://pingcap.com/blog/early-impressions-of-go-from-a-rust-programmer/)
 - [Install go tools from modules with brew-gomod (2020)](https://blog.filippo.io/install-go-tools-from-modules-with-brew-gomod/)
 - [Illustrated Tales of Go Runtime Scheduler (2020)](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
@@ -221,12 +224,12 @@ Go promotes composition over inheritance.
 - [prealloc](https://github.com/alexkohler/prealloc) - Go static analysis tool to find slice declarations that could potentially be preallocated.
 - [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer) ([Lobsters](https://lobste.rs/s/nvjvm0/why_you_shouldn_t_use_func_main_go))
 - [Diago](https://github.com/remeh/diago) - Visualization tool for CPU profiles and heap snapshots generated with `pprof`.
-- [pkgviz-go](https://github.com/tiegz/pkgviz-go) - Generate a vizualization of a Go package's types.
+- [pkgviz-go](https://github.com/tiegz/pkgviz-go) - Generate a visualization of a Go package's types.
 - [Setup for Your Next Golang Project](https://martinheinz.dev/blog/5) ([HN](https://news.ycombinator.com/item?id=21725869))
 - [HN: Go Turns 10](https://news.ycombinator.com/item?id=21483933)
 - [Benchmarking Go programs (2017)](https://scene-si.org/2017/06/06/benchmarking-go-programs/)
 - [gopkg](https://labix.org/gopkg.in) - Service provides versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories. ([Code](https://github.com/niemeyer/gopkg))
-- [Go Binaries](https://github.com/tj/gobinaries) - On-demand binary server, allowing non-Go users to quickly install tools written in Go without installing go itself. ([Article](https://cto.ai/blog/on-demand-go-binaries/))
+- [Go Binaries](https://github.com/tj/gobinaries) - On-demand binary server, allowing non-Go users to quickly install tools written in Go without installing go itself. ([Article](https://cto.ai/blog/on-demand-go-binaries/)) ([Web](https://gobinaries.com/))
 - [gosize](https://github.com/bradfitz/gosize) - Analyze size of Go binaries.
 - [tre](https://github.com/zegl/tre) - LLVM backed Go compiler.
 - [Statically compiling Go programs (2020)](https://www.arp242.net/static-go.html)
@@ -238,7 +241,7 @@ Go promotes composition over inheritance.
 - [faillint](https://github.com/fatih/faillint) - Report unwanted import path and declaration usages.
 - [Broccoli](https://github.com/aletheia-icu/broccoli) - Using brotli compression to embed static files in Go.
 - [Export data, the secret of Go's fast builds (2020)](https://www.jayconrod.com/posts/112/export-data--the-secret-of-go-s-fast-builds)
-- [Awesome Go performance](https://github.com/cristaloleg/awesome-go-perf#readme)
+- [Awesome Go performance](https://github.com/cristaloleg/awesome-go-perf)
 - [Understand Go pointers in less than 800 words or your money back (2017)](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) ([Reddit](https://www.reddit.com/r/golang/comments/g5o3k4/coming_from_javascript_and_im_on_a_go_project_now/))
 - [Go & iOS: remember to enable Cocoa multithreading (2020)](https://medium.com/@steeve/go-ios-remember-to-enable-cocoa-multithreading-95394491ad5e)
 - [Go Tools](https://github.com/golang/tools) - Various packages and tools that support the Go programming language.
@@ -271,7 +274,131 @@ Go promotes composition over inheritance.
 - [Testify](https://github.com/stretchr/testify) - Toolkit with common assertions and mocks that plays nicely with the standard library.
 - [Go and CPU Caches (2020)](https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592)
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Easy way to find outdated dependencies of your Go projects.
-- [Featherweight Go (2020)](https://arxiv.org/abs/2005.11710) ([HN](https://news.ycombinator.com/item?id=23368453))
+- [Featherweight Go (2020)](https://arxiv.org/abs/2005.11710) ([HN](https://news.ycombinator.com/item?id=23368453)) ([Talk](https://www.youtube.com/watch?v=Dq0WFigax_c)) ([Implementation](https://github.com/rhu1/fgg))
 - [lean](https://github.com/jadekler/lean) - Smart Go module dependency inspection and pruning.
 - [impl](https://github.com/josharian/impl) - Generates method stubs for implementing an interface.
 - [air](https://github.com/cosmtrek/air) - Live reload for Go apps.
+- [The Go compiler needs to be smarter (2020)](https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/) ([HN](https://news.ycombinator.com/item?id=23423755)) ([Reddit](https://www.reddit.com/r/golang/comments/gwlrms/the_go_compiler_needs_to_be_smarter/))
+- [Swag](https://github.com/swaggo/swag) - Converts Go annotations to Swagger Documentation 2.0.
+- [The Cache Replacement Problem (2020)](http://alexandrutopliceanu.ro/post/cache-replacement-problem/)
+- [Tengo](https://github.com/d5/tengo) - Small, dynamic, fast, secure script language for Go.
+- [Getting Hands-on with io_uring using Go (2020)](https://developers.mattermost.com/blog/hands-on-iouring-go/)
+- [json2go web parser](https://m-zajac.github.io/json2go/) - Paste json to generate go struct. ([Code](https://github.com/m-zajac/json2go))
+- [Writing Go CLIs With Just Enough Architecture (2020)](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/) ([Reddit](https://www.reddit.com/r/golang/comments/gyxfvp/how_to_write_a_cli_with_just_enough_architecture/))
+- [Go SPA](https://github.com/tj/spa) - Tiny Single Page Application server for Go with `spa` command-line tool.
+- [Featherweight Generic Go Generator](https://github.com/wenkokke/featherweight-go-gen)
+- [An intro to Go for non-Go developers (2020)](https://benhoyt.com/writings/go-intro/) ([Lobsters](https://lobste.rs/s/epfuar/introduction_go_for_non_go_developers))
+- [Ultimate Go Programming Videos (2018)](https://www.oreilly.com/library/view/ultimate-go-programming/9780135261651/)
+- [Building a better Go linker (2019)](http://golang.org/s/better-linker)
+- [Gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve.
+- [The Next Step for Generics (2020)](https://blog.golang.org/generics-next-step) ([HN](https://news.ycombinator.com/item?id=23543131)) ([Reddit](https://www.reddit.com/r/golang/comments/haaz5w/the_next_step_for_generics_the_go_blog/)) ([Lobsters](https://lobste.rs/s/ondg75/next_step_for_generics))
+- [oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
+- [In Go, the compiler needs to know the types of things when copying values (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoValueCopyIsTyped) ([Lobsters](https://lobste.rs/s/rnm3re/go_compiler_needs_know_types_things_when))
+- [exportloopref](https://github.com/kyoh86/exportloopref) - Analyzer that finds exporting pointers for loop variables.
+- [A Concise Guide to the Latest Go Generics Draft Design (2020)](https://pmihaylov.com/go-generics-draft-design/) ([HN](https://news.ycombinator.com/item?id=23562897))
+- [fgprof](https://github.com/felixge/fgprof) - Sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together. ([Tweet](https://twitter.com/felixge/status/1275833124103086080))
+- [How To Code in Go book by Digital Ocean (2020)](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
+- [astextract](https://github.com/lu4p/astextract) - Convert a go file to its ast representation.
+- [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way.
+- [Go Modules- A guide for monorepos (2020)](https://engineering.grab.com/go-module-a-guide-for-monorepos-part-1)
+- [Generics for Go (2020)](https://lwn.net/SubscriberLink/824716/ee9bbbfad58cef3d/) ([Lobsters](https://lobste.rs/s/ac83w9/generics_for_go))
+- [Go is boring, and that’s fantastic (2020)](https://www.capitalone.com/tech/software-engineering/go-is-boring/) ([HN](https://news.ycombinator.com/item?id=23711735)) ([Reddit](https://www.reddit.com/r/golang/comments/hjqouw/go_is_boringand_thats_fantastic/))
+- [godepgraph](https://github.com/kisielk/godepgraph) - Program for generating a dependency graph of Go packages.
+- [[RU] Multithreading in Go - Aliaksandr Valialkin (2018)](https://www.youtube.com/watch?v=HzAXT1ORH3o)
+- [A Go lesson learned: sometimes I don't want to use goroutines if possible (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhenNotManyGoroutines) ([Lobsters](https://lobste.rs/s/joicca/go_lesson_learned_sometimes_i_don_t_want))
+- [Why Go’s Error Handling is Awesome (2020)](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html) ([HN](https://news.ycombinator.com/item?id=23758509)) ([Reddit](https://www.reddit.com/r/golang/comments/hmnhkz/why_gos_error_handling_is_awesome/))
+- [Keeping Your Modules Compatible (2020)](https://blog.golang.org/module-compatibility) ([HN](https://news.ycombinator.com/item?id=23761450))
+- [Using go/analysis to fix your source code (2020)](https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/)
+- ["Interface smuggling", a Go design pattern for expanding APIs (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfaceSmuggling)
+- [What feature of Go is used often by experienced programmers, but not so much by a newbie? (2020)](https://www.reddit.com/r/golang/comments/hp4mk3/what_feature_of_go_is_used_very_often_by/)
+- [copyist](https://github.com/cockroachdb/copyist) - Mocking your SQL database in Go tests has never been easier. ([HN](https://news.ycombinator.com/item?id=23811698))
+- [PopCount on ARM64 in Go Assembler (2020)](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
+- [GopherCon Europe: Online 2020](https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG)
+- [Go’s History in Code (2020)](https://seh.dev/go-legacy/)
+- [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling) ([HN](https://news.ycombinator.com/item?id=23799833))
+- [Important Reading for Go](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md)
+- [Life without line numbers (2020)](https://commaok.xyz/post/no-line-numbers/)
+- [Go draft design proposal for file system interfaces and embedding files (2020)](https://lobste.rs/s/8lezbe/go_draft_design_proposal_for_file_system)
+- [Gebug](https://github.com/moshebe/gebug) - Debug Dockerized Go applications better.
+- [Pkg.go.dev is more concerned with Google's interests than good engineering (2020)](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html) ([HN](https://news.ycombinator.com/item?id=24021929))
+- [Break The Golang Context Chain (2020)](https://rodaine.com/2020/07/break-context-cancellation-chain/) ([Lobsters](https://lobste.rs/s/y7hkqj/break_golang_context_chain))
+- [Go vs Rust: Writing a CLI Tool (2020)](https://cuchi.me/posts/go-vs-rust) ([HN](https://news.ycombinator.com/item?id=24044043)) ([Lobsters](https://lobste.rs/s/nyprxb/go_vs_rust_writing_cli_tool))
+- [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md) ([HN](https://news.ycombinator.com/item?id=24065499))
+- [GoPlus](https://github.com/goplus/gop) - Go+ language for data science.
+- [Proposal: Register-based Go calling convention (2020)](https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md)
+- [Little Go Book](https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md)
+- [Speeding up json processing in go (2020)](https://klotzandrew.com/blog/speeding-up-json-processing-in-go)
+- [Implementing traceroute in Go (2020)](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
+- [Notes on working with Go and computer systems](https://github.com/betty200744/ultimate-go)
+- [DepsCheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
+- [Fuzzing in Go (2020)](https://lwn.net/SubscriberLink/829242/64cbde0531aaf166/)
+- [Fundamentals of Go](https://github.com/bitfield/ftl-fundamentals)
+- [gore](https://github.com/motemen/gore) - Go REPL that works nicely. Featured with line editing, code completion, and more.
+- [Testing Database Transactions in Go (2020)](https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM) ([HN](https://news.ycombinator.com/item?id=24303322))
+- [An interesting mistake with Go's context package (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake) ([HN](https://news.ycombinator.com/item?id=24323564))
+- [Even in Go, concurrency is still not easy (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy) ([HN](https://news.ycombinator.com/item?id=24359650)) ([Lobsters](https://lobste.rs/s/ntati1/even_go_concurrency_is_still_not_easy_with))
+- [Learning Go notes](https://rmoff.net/2020/06/25/learning-golang-some-rough-notes-s01e00/)
+- [The Within Go Repo Layout (2020)](https://christine.website/blog/within-go-repo-layout-2020-09-07)
+- [Writing multi-package analysis tools for Go (2020)](https://eli.thegreenplace.net/2020/writing-multi-package-analysis-tools-for-go/)
+- [Python and Go (2020)](https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html)
+- [Surprises and Gotchas When Working With JSON (2020)](https://www.alexedwards.net/blog/json-surprises-and-gotchas)
+- [Package Management With Go Modules: The Pragmatic Guide (2019)](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)
+- [Polymorphism in Limbo and Go 2 (2020)](https://seh.dev/limbgo/) ([Lobsters](https://lobste.rs/s/blefqc/polymorphism_limbo_go_2))
+- [I wrote Go code for 3 weeks and you won’t believe what happened next (2020)](https://danlark.org/2020/01/31/i-wrote-go-code-for-3-weeks-and-you-wont-believe-what-happened-next/)
+- [depaware](https://github.com/tailscale/depaware) - Makes you aware of your Go dependencies. It generates a list of your dependencies which you check in to your repo.
+- [goup](https://github.com/owenthereal/goup) - Elegant Go version manager. ([Article](https://owenou.com/goup/))
+- [C2go](https://github.com/andybalholm/c2go) - C to Go translation tool.
+- [Statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.).
+- [Minimal go webapp (2020)](https://www.tomas.io/articles/go-webapp)
+- [Test with Go](https://testwithgo.com/) - Learn how to test real, complex software written in Go.
+- [Web Development with Go](https://www.usegolang.com/) - Learn to Create Real Web Apps in Go.
+- [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
+- [go-module-knobs](https://github.com/thepudds/go-module-knobs) - List of go module knobs for controlling CI, vendoring, and when go commands access the network.
+- [Go day on Google Open Source Live](https://opensourcelive.withgoogle.com/events/go) - Go experts will share updates on everything from Go basics to Package Discovery and Editor Tooling.
+- [Chronos](https://github.com/amit-davidson/Chronos) - Static race detector for the go language.
+- [Goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit.
+- [Go Regular Expressions (2020)](https://codesalad.dev/blog/go-regular-expressions-5)
+- [Build a Go Router From Scratch (2020)](https://codesalad.dev/blog/build-a-go-router-from-scratch-3)
+- [Benchmarks of Go serialization methods](https://github.com/alecthomas/go_serialization_benchmarks)
+- [Choosing the best adhesive for Go code](https://corpix.dev/2019/03/choosing-the-best-adhesive-for-go-code-1.html)
+- [Building a Mapping Language in Go with Parser Combinators (2020)](https://www.youtube.com/watch?v=JiViND-bpmw)
+- [go-bindata](https://github.com/kevinburke/go-bindata) - Small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
+- [Gopium](https://github.com/1pkg/gopium) - Smart Go Structures Optimizer and Manager.
+- [Nex](https://github.com/blynn/nex) - Lexer for Go. ([Web](http://www-cs-students.stanford.edu/~blynn//nex/))
+- [Go Training](https://github.com/go-training/training) - Learning basic Go in one day.
+- [Ask HN: Go programming language is over ten years old. What do you think of it? (2020)](https://news.ycombinator.com/item?id=24887521)
+- [Awesome Go code formatters](https://github.com/life4/awesome-go-code-formatters)
+- [gofumpt](https://github.com/mvdan/gofumpt) - Stricter gofmt.
+- [Go Wasm](https://go-wasm.johnstarich.com/) - In-browser IDE for Go using WebAssembly. ([Code](https://github.com/JohnStarich/go-wasm))
+- [Hash Tables Implementation in Go. The inner implementation. (2020)](https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553)
+- [GopherLabs](https://gopherlabs.kubedaily.com/) - Ultimate Workshop Track for Go Developer. ([Code](https://github.com/sangam14/GopherLabs))
+- [Three Months of Go (from a Haskeller's perspective) (2016)](https://memo.barrucadu.co.uk/three-months-of-go.html) ([Lobsters](https://lobste.rs/s/zoi8gx/three_months_go_from_haskeller_s))
+- [Rust vs Go (2020)](https://bitfieldconsulting.com/golang/rust-vs-go) ([HN](https://news.ycombinator.com/item?id=25007209)) ([Reddit: Go](https://www.reddit.com/r/golang/comments/jp4kvp/rust_vs_go/)) ([Reddit: Rust](https://www.reddit.com/r/rust/comments/jp4orc/rust_vs_go/))
+- [Gochk](https://github.com/resotto/gochk) - Static Dependency Analysis Tool for Go Files.
+- [Manual Memory Management in Go using jemalloc (2020)](https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/) ([HN](https://news.ycombinator.com/item?id=25011408)) ([HN 2](https://news.ycombinator.com/item?id=25171988))
+- [go-critic](https://github.com/go-critic/go-critic) - Highly extensible Go source code linter providing checks currently missing from other linters.
+- [Eleven Years of Go (2020)](https://blog.golang.org/11years) ([HN](https://news.ycombinator.com/item?id=25048028))
+- [Go Systems Conf](https://systemsconf.io/)
+- [play-with-go.dev](https://play-with-go.dev/) - Series of hands-on, interactive, browser-based guides that introduce the tools required to work with Go .
+- [go-safer](https://github.com/jlauinger/go-safer) - Go linter in the style of go vet to find incorrect uses of reflect.SliceHeader and reflect.StringHeader, and unsafe casts between structs with architecture-sized fields.
+- [A Concurrent Sudoku Solver with Channels (2020)](https://dkmccandless.github.io/2020/10/09/a-concurrent-sudoku-solver-with-channels.html)
+- [structslop](https://github.com/orijtech/structslop) - Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
+- [GopherCon 2020 Playlist](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfUint2hCE1JRxRWChloasB)
+- [GopherCon 2020: Go Team AMA](https://www.youtube.com/watch?v=BNHwHLNLjLs)
+- [Digital Ocean App Platform sample Go application](https://github.com/digitalocean/sample-golang)
+- [GoGraph](https://github.com/tbpg/gograph) - Builds graphs out of Go source code.
+- [rf](https://github.com/rsc/rf) - Refactoring tool for Go. ([Docs](https://godoc.org/github.com/rsc/rf))
+- [Statsview](https://github.com/go-echarts/statsview) - Real-time Go runtime stats visualization profiler.
+- [Awesome Go Interview Questions and Answers](https://goquiz.github.io/) ([Code](https://github.com/goquiz/goquiz.github.io))
+- [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard.
+- [gocov](https://github.com/axw/gocov) - Coverage testing tool for Go.
+- [Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC](https://github.com/vardius/go-api-boilerplate)
+- [Golds](https://github.com/go101/golds) - Experimental Go local docs server/generator and code reader.
+- [generate](https://github.com/a-h/generate) - Generates Go Structs from JSON schema.
+- [Go: A Documentary](https://golang.design/history/) - Collects many interesting (publicly observable) issues, discussions, proposals, CLs, and talks from the Go development process. ([Code](https://github.com/golang-design/history))
+- [gotesplit](https://github.com/Songmu/gotesplit) - Splits the testing in Go into a subset and run it. It is useful for the CI environment.
+- [Go Resources](https://golangresources.com/) - Find the best Go learning materials on the web.
+- [go-gin-starter](https://github.com/udaya2899/go-gin-starter) - Opinionated Go starter with gin for REST API, logrus for logging, viper for config with added graceful shutdown. ([Reddit](https://www.reddit.com/r/golang/comments/ke5xuw/made_a_gin_starter_for_go/))
+- [Gval](https://github.com/PaesslerAG/gval) - Provides support for evaluating arbitrary expressions, in particular Go-like expressions.
+- [Athens](https://github.com/gomods/athens) - Go module datastore and proxy.
+- [Unsafe string interning in Go (2020)](https://mdlayher.com/blog/unsafe-string-interning-in-go/)

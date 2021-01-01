@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/)
+- [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/) ([Solutions](https://github.com/tomhoule/theorem-proving-in-lean-exercises))
 - [Xena](https://github.com/kbuzzard/xena) - Lean Library currently studying for a degree at Imperial College.
 - [Xena Project](http://wwwf.imperial.ac.uk/~buzzard/xena/) - Building a library of undergraduate level pure maths.
 - [Lean mathlib](https://github.com/leanprover-community/mathlib) - Lean mathematical components library.
@@ -22,3 +22,7 @@
 - [Doing a math assignment with the Lean theorem prover (2020)](https://ahelwer.ca/post/2020-04-05-lean-assignment/)
 - [Hitchhiker’s Guide to Logical Veriﬁcation](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf) ([HN](https://news.ycombinator.com/item?id=22794533))
 - [Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) ([HN](https://news.ycombinator.com/item?id=22801607)) ([Code](https://github.com/ImperialCollegeLondon/natural_number_game))
+- [Certigrad](https://github.com/dselsam/certigrad) - Bug-free machine learning on stochastic computation graphs.
+- [Ellen's dots and boxes project](https://github.com/ImperialCollegeLondon/dots_and_boxes) - Contains all the code written for my final year research project in Mathematics, "Optimal gameplay in Dots and Boxes in Lean".
+- [Building the Mathematical Library of the Future (2020)](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
+- [A Review of the Lean Theorem Prover (2018)](https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/) ([HN](https://news.ycombinator.com/item?id=25550240))

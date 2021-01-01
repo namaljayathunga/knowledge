@@ -3,7 +3,6 @@
 ## Links
 
 - [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html)
-- [Agda Standard Library](https://github.com/agda/agda-stdlib)
 - [Introductions to Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials)
 - [Category Theory in Agda](https://github.com/JLimperg/cats) - Learning exercise.
 - [Categories](https://github.com/copumpkin/categories) - Categories parametrized by morphism equality, in Agda.
@@ -30,3 +29,8 @@
 - [Verified Functional Programming in Agda (2016)](https://pdfs.semanticscholar.org/a5c2/444d3c977260dbbfc7c2eceea9bda2614e71.pdf) ([HN](https://news.ycombinator.com/item?id=22783645))
 - [Brutal [Meta]Introduction to Dependent Types in Agda (2013)](https://oxij.org/note/BrutalDepTypes/)
 - [System F in Agda, for fun and profit (2019)](http://jmchapman.io/papers/funandprofit.pdf)
+- [Engineering Proof by Reflection in Agda](https://github.com/toothbrush/reflection-proofs)
+- [AgdaBench](https://github.com/UlfNorell/agda-bench) - Benchmarking tool for compile-time performance of Agda programs.
+- [Unification in Agda](https://htmlpreview.github.io/?https://github.com/effectfully/unification-in-agda/blob/master/UnificationInAgda.html) ([Code](https://github.com/effectfully/unification-in-agda))
+- [Relational Algebra in Agda](https://github.com/sabauma/agda-relation-algebra)
+- [Formal Verification of Authenticated, Append-Only Skip Lists in Agda](https://github.com/oracle/aaosl-agda)

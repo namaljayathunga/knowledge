@@ -1,14 +1,31 @@
-# [My Knowledge Wiki 📚](https://wiki.nikitavoloboev.xyz)
+# [My Knowledge Wiki 🌿](https://wiki.nikitavoloboev.xyz)
 
 This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
+If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
+
+Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) & their relations visualized.
+
+![](https://i.imgur.com/SbhfKGm.png)
+
+![](https://i.imgur.com/ODDdwde.png)
+
+This wiki is large. 40000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
+
+```
+~/Dropbox/Write/knowledge
+❯ loc
+--------------------------------------------------------------------------------
+ Language             Files        Lines        Blank      Comment         Code
+--------------------------------------------------------------------------------
+ Markdown               900        45000         5000            0        40000
+```
 
 ## Using the wiki well
 
 You can quickly search the contents of this wiki above or you can explore the tree view to the left.
 
-You can access [any entry](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
+You can access any note from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
 Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) and build [Learn Anything](ideas/learn-anything.md).
 
@@ -20,9 +37,11 @@ I also love [writing code](sharing/my-github.md) that solves various problems I 
 
 [Here](sharing/sharing.md) you can find all the things I made and shared thus far.
 
-## Make your own wiki
+## Grow your own digital garden 🌱
 
-You can view other similar to this, continuously updated wikis, [here](other/wiki-workflow.md#similar-wikis-i-liked).
+Such wikis are also called [digital gardens](https://joelhooks.com/digital-garden). There is a [DigitalGardens community on Reddit](https://www.reddit.com/r/DigitalGardens/) which discusses tools to maintain & create these wikis. As well as how to use them to develop [new transformative tools for thought](https://numinous.productions/ttft/).
+
+I collected a list of [wikis I liked the most](other/wiki-workflow.md#similar-wikis-i-liked) for inspiration.
 
 Don't be afraid to create one of your own and share what you know with the world.
 
@@ -36,4 +55,4 @@ I'd love to hear any [ideas you have](https://github.com/nikitavoloboev/knowledg
 
 You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)

@@ -19,6 +19,7 @@ These are my personal profiles on various websites sorted by categories.
 - [GitLab](https://gitlab.com/nikitavoloboev)
 - [Katacoda](https://www.katacoda.com/nikivi)
 - [Glitch](https://glitch.com/@nikitavoloboev)
+- [CodeSandbox](https://codesandbox.io/u/nikitavoloboev)
 
 ## Social
 
@@ -39,7 +40,7 @@ These are my personal profiles on various websites sorted by categories.
 
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev)
 - [Kaggle](https://www.kaggle.com/nikitavoloboev)
-- [Coursera](gghttps://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6)
+- [Coursera](https://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6)
 - [Wiki](https://wiki.nikitavoloboev.xyz)
 - [Khan Academy](https://khanacademy.org/profile/nikivi)
 - [Quizlet](https://quizlet.com/nikitavoloboev)
@@ -66,6 +67,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Photos
 
 - [Instagram](https://www.instagram.com/nikitavoloboev/)
+- [Exposure](https://nikitavoloboev.exposure.co/)
 - [VSCO](http://vsco.co/nikitavoloboev)
 - [Pretty Ways Instagram](https://www.instagram.com/prettiways/)
 - [Imgur](https://nikivi.imgur.com/)
@@ -91,7 +93,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Gaming
 
-- [Steam](https://steamcommunity.com/id/nikivi)
+- [Steam](https://steamcommunity.com/id/nikivii/)
 
 ## Other
 
@@ -121,7 +123,11 @@ These are my personal profiles on various websites sorted by categories.
 - [IMDB](https://www.imdb.com/user/ur38302140/)
 - [GitHub Sponsors](https://github.com/sponsors/nikitavoloboev)
 - [Patreon](https://patreon.com/nikitavoloboev)
+- [PayPal](https://www.paypal.me/nvoloboev)
 - [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev)
 - [Open Collective](https://opencollective.com/nikitavoloboev)
 - [Bandcamp](https://bandcamp.com/nikitavoloboev)
 - [Disqus](https://disqus.com/by/nikivi/)
+- [Tumblr](https://nikitavoloboev.tumblr.com/)
+- [Trello](https://trello.com/nikivi/activity)
+- [GitStalk](https://gitstalk.netlify.app/nikitavoloboev)

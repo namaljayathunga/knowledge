@@ -4,7 +4,7 @@
 
 - [The Power of Types in Idris (2019)](https://www.azavea.com/blog/2019/03/11/the-power-of-types-in-idris/)
 - [Idris koans](https://github.com/idris-hackers/idris-koans)
-- [Awesome Idris](https://github.com/joaomilho/awesome-idris#readme)
+- [Awesome Idris](https://github.com/joaomilho/awesome-idris)
 - [linear](https://github.com/vmchale/linear) - Profunctor optics for linear types.
 - [States](https://github.com/edwinb/States) - State machines in Idris.
 - [Blodwen](https://github.com/edwinb/Blodwen) - Prototype implementation of Idris 2.
@@ -22,4 +22,19 @@
 - [Self-hosted Idris 2](https://github.com/edwinb/Idris2-SH)
 - [Why is Idris 2 so much faster than Idris 1? (2020)](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html) ([HN](https://news.ycombinator.com/item?id=23304081)) ([Reddit](https://www.reddit.com/r/dependent_types/comments/gqh74h/why_is_idris_2_so_much_faster_than_idris_1/))
 - [Scheme Workshop Keynote: Edwin Brady (2019)](https://www.youtube.com/watch?v=h9YAOaBWuIk)
-- [Type-Driven Development with Idris book](https://www.manning.com/books/type-driven-development-with-idris) ([Updates required](https://idris2.readthedocs.io/en/latest/typedd/typedd.html))
+- [Type-Driven Development with Idris book](https://www.manning.com/books/type-driven-development-with-idris) ([Updates required](https://idris2.readthedocs.io/en/latest/typedd/typedd.html)) ([Code](https://github.com/JonathanLorimer/tdd-with-idris2))
+- [libc.idr](https://github.com/Hirrolot/libc.idr) - Bindings to the C standard library for Idris2.
+- [Edwin Brady Tells Us What's New in Idris 2 (2020)](https://www.youtube.com/watch?v=nbClauMCeds)
+- [A simple Parser Combinator library in Idris (2020)](https://timmyjose.github.io/docs/2020-09-19-parser-combinator-library-idris)
+- [Idris 2 Erlang](https:/Idris2-Erlang/github.com/chrrasmussen/Idris2-Erlang) - Erlang code generator for Idris 2. ([HN](https://news.ycombinator.com/item?id=24620090))
+- [Inigo](https://github.com/hayesgm/inigo) - Package manager for Idris 2 to help use and share Idris code.
+- [SPLV 2020](https://github.com/edwinb/SPLV20) - Course notes and supporting code for the Scottish Programming Language and Verification summer school course on "The Implementation of Idris 2".
+- [Metaprogramming in Idris (2020)](https://core.ac.uk/download/pdf/50528385.pdf)
+- [Idris, a language that will change the way you think about programming (2020)](https://crufter.com/idris-a-language-that-will-change-the-way-you-think-about-programming)
+- [idris2-elab-util](https://github.com/stefan-hoeck/idris2-elab-util) - Utilities and documentation for exploring idirs2's new elaborator reflection.
+- [idris2-sop](https://github.com/stefan-hoeck/idris2-sop) - Idris port of Haskell's sop-core and generic-sop libraries.
+- [Session types in Idris2](https://github.com/wenkokke/idris-sesh)
+- [Effectful Streaming For Idris](https://github.com/MarcelineVQ/idris2-streaming)
+- [Idris AOC (2020)](https://github.com/JoeyEremondi/aoc-2020-idris)
+- [Idrall](https://github.com/alexhumphreys/idrall) - Dhall bindings for Idris.
+- [What Is A Package Set (2020)](https://alexhumphreys.github.io/2020/12/03/what-is-a-package-set.html)

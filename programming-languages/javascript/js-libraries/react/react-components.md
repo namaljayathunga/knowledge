@@ -32,7 +32,6 @@
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy. Reduce your bundle size without stress.
 - [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - Tiny but mighty list virtualization library, with zero dependencies.
 - [React Morph](https://github.com/brunnolou/react-morph) - Morphing UI transitions made simple.
-- [React InstantSearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia.
 - [React Virtuoso](https://github.com/petyosi/react-virtuoso) - Simple, easy to use React component made to render huge data lists.
 - [Tipple](https://github.com/andyrichardson/tipple) - Lightweight dependency-free library for fetching data over REST with React.
 - [react-component-benchmark](https://github.com/paularmstrong/react-component-benchmark) - Component to help benchmark React components and their trees.
@@ -41,7 +40,7 @@
 - [re-resizable](https://github.com/bokuweb/re-resizable) - Resizable component for React.
 - [react-tiniest-router](https://github.com/kitze/react-tiniest-router) - Tiniest router for React, built with hooks.
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook cards loading).
-- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - React custom hook for form validation without the hassle.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation.
 - [rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
 - [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
@@ -92,7 +91,7 @@
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
 - [React Flow](https://github.com/wbkd/react-flow) - Library for Rendering Interactive Graphs. ([HN](https://news.ycombinator.com/item?id=23080346)) ([Article](https://webkid.io/blog/react-flow-node-based-graph-library/))
 - [React Flow Chart](https://github.com/MrBlenny/react-flow-chart) - Flexible, stateless, declarative flow chart library for react.
-- [react-polymorphic-box](https://github.com/kripod/react-polymorphic-box) - Building blocks for strongly typed polymorphic components in React.
+- [react-polymorphic-types](https://github.com/kripod/react-polymorphic-types) - Zero-runtime polymorphic component definitions for React.
 - [react-scroll-percentage](https://github.com/thebuilder/react-scroll-percentage) - Monitor the scroll percentage of a component inside the viewport, using the IntersectionObserver API.
 - [react-magnifier](https://github.com/samuelmeuli/react-magnifier) - React image zoom component.
 - [ReactReparenting](https://github.com/paol-imi/react-reparenting) - Reparenting tools for React. ([Web](https://paol-imi.github.io/react-reparenting/)) ([Article](https://medium.com/swlh/reparenting-with-react-426d12fb6d0d))
@@ -100,15 +99,62 @@
 - [React Shimmer](https://github.com/gokcan/react-shimmer) - Async loading, performant Image component for React.js.
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - Drop-in replacement for the textarea component which automatically resizes textarea as content changes.
 - [Caldera](https://github.com/calderajs/caldera-react) - Server-side execution environment for React.
+- [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
+- [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
+- [gooey-react](https://github.com/luukdv/gooey-react) - Gooey effect for React, used for shape blobbing. ([Web](https://gooey-react.netlify.app/))
+- [konva-grid](https://github.com/rmdort/konva-grid) - Declarative React Canvas Grid primitive for Data table, Pivot table, Excel Worksheets.
+- [react-spring-lightbox](https://github.com/tim-soft/react-spring-lightbox) - Flexible image gallery lightbox with native-feeling touch gestures and buttery smooth animations, built with react-spring.
+- [React-Toastify](https://github.com/fkhadra/react-toastify) - React notification made easy.
+- [React Ranger](https://github.com/tannerlinsley/react-ranger) - Hooks for building range and multi-range sliders in React.
+- [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.
+- [SWR + Firestore](https://github.com/nandorojo/swr-firestore) - Implement Vercel's useSWR for querying Firestore in React/React Native/Expo apps.
+- [react-collapse-pane](https://github.com/b-zurg/react-collapse-pane) - Splittable, draggable, collapsible panel layout library.
+- [FlexLayout](https://github.com/caplin/FlexLayout) - Multi-tab layout manager.
+- [Formik](https://github.com/formium/formik) - Build forms in React, without the tears. ([Formik vs Plain React for Forms – Worth it?](https://www.bitnative.com/2020/08/19/formik-vs-plain-react-for-forms-worth-it/)) ([Formik Devtools](https://github.com/petrenkoVitaliy/formik-devtools))
+- [FullCalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop JavaScript event calendar.
+- [React DnD](https://github.com/react-dnd/react-dnd/) - Drag and Drop for React. ([The secret is it’s just one flat list with pointers and css to make it look nested](https://twitter.com/peterpme/status/1314960743964512259)) ([Multi List Drag and Drop With react-beautiful-dnd, Immer, and useReducer](https://codedaily.io/tutorials/186/Multi-List-Drag-and-Drop-With-react-beautiful-dnd-Immer-and-useReducer))
+- [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - React wrapper components for smooth-dnd.
+- [FullCalendar](https://github.com/fullcalendar/fullcalendar-react) - Official React component for FullCalendar.
+- [React Cookies](https://github.com/reactivestack/cookies) - Load and save cookies within your React application.
+- [react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React component built on top of the mature drag and drop library, Sortable.
+- [Reactive](https://github.com/kutlugsahin/re-active) - Reactive approach to create React application.
+- [react-recaptcha](https://github.com/appleboy/react-recaptcha) - React.js reCAPTCHA for Google.
+- [React-Chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React. ([HN](https://news.ycombinator.com/item?id=24869897))
+- [react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs.
+- [jsxui](https://github.com/souporserious/jsxui) - Primitive elements to build isomorphic user interfaces in React.
+- [raam](https://github.com/joe-bell/raam) - Beautifully boring cosmetic-free primitives for structure and layout. ([Web](https://raam.joebell.co.uk/))
+- [Notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other.
+- [React Hotkey Tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip) - Global Hotkey provider with built in tooltip for React.
+- [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
+- [use-tweaks](https://github.com/pmndrs/use-tweaks) - Tweak React components with Tweakpanes.
+- [repng](https://github.com/jxnblk/repng) - React component to PNG converter, built with Puppeteer.
+- [react-calendly](https://github.com/tcampb/react-calendly) - Calendly integration for React apps.
+- [react-s3-uploader](https://github.com/odysseyscience/react-s3-uploader) - Provides a React component that automatically uploads to an S3 Bucket.
+- [beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams) - Tiny collection of lightweight React components for building diagrams with ease.
+- [Rough Charts](https://github.com/beizhedenglong/rough-charts) - Responsive, composable react charting library with a hand-drawn style.
+- [React iOS Corners](https://github.com/pie6k/react-ios-corners) - iOS like border-radius corners react component.
+- [React Insta Stories](https://github.com/mohitk05/react-insta-stories) - React component for Instagram like stories.
+- [Reapop](https://github.com/LouisBarranqueiro/reapop) - Simple and customizable React notifications system.
+- [react-responsive-modal](https://github.com/pradel/react-responsive-modal) - Simple responsive react modal.
+- [Graph editor](https://github.com/lochbrunner/react-flow-editor) - React component which enables creating flow editors with ease.
+- [React Lite YouTube Embed](https://github.com/kylemocode/react-lite-yt-embed)
+- [Lioness](https://github.com/alexanderwallin/lioness) - React library for efficiently implementing Gettext localization.
+- [React Command Palette](https://github.com/asabaylus/react-command-palette) - Accessible browser compatible javascript command palette.
+- [React Leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
+- [React ApexCharts](https://github.com/apexcharts/react-apexcharts) - React.js wrapper for ApexCharts to build interactive visualizations in react.
 
 ## Links
 
-- [Awesome React Components](https://github.com/brillout/awesome-react-components#readme)
+- [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily publishing modern React libraries with Rollup and example usage via create-react-app.
-- [Awesome React Render Props](https://github.com/jaredpalmer/awesome-react-render-props#readme) - Awesome list of React components with render props.
+- [Awesome React Render Props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props.
 - [Better Reusable React Components with the Overrides Pattern (2018)](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components.
 - [Uibook](https://github.com/vrizo/uibook) - Lightweight tool for React components visual testing with media queries.
 - [Storybook](https://storybook.js.org/) - Open source tool for developing UI components in isolation for React, Vue, and Angular. ([Code](https://github.com/storybookjs/storybook))
 - [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
 - [new-component](https://github.com/joshwcomeau/new-component) - Simple, customizable utility for adding new React components to your project.
+- [React View](https://github.com/uber/react-view) - Interactive playground, documentation and code generator for your components.
+- [Anatomy of a Typed React Component (2020)](https://daneden.me/blog/2020/anatomy-of-a-typed-react-component)
+- [Keeping up with React Libraries (2020)](https://maxrozen.com/keeping-up-with-react-libraries/)
+- [Scroll a React component into view (2020)](https://robinvdvleuten.nl/blog/scroll-a-react-component-into-view/)

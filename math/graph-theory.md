@@ -13,3 +13,21 @@
 - [MIDAS in Go](https://github.com/steve0hh/midas) ([HN](https://news.ycombinator.com/item?id=23018153))
 - [Algebraic Graphs with Class](https://github.com/snowleopard/alga-paper)
 - [Learning an End-to-End Physical Layer with Computational Graphs](http://calebzulawski.com/projects/thesis/)
+- [ngraph.hde](https://github.com/anvaka/ngraph.hde) - High dimensional embedding of a graph and its layout.
+- [Representing Graphs by Knuth Trees (1974)](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf) ([HN](https://news.ycombinator.com/item?id=23583547))
+- [Seven Trees in One - Andreas Blass (1994)](https://arxiv.org/abs/math/9405205)
+- [Comparison: growth (2020)](https://www.youtube.com/watch?v=1JDt5P5n75E&) - Examine how fast are various geometries/graphs/groups growing.
+- [Better geometry through graph theory (2018)](https://ideolalia.com/2018/08/28/artifex.html) ([HN](https://news.ycombinator.com/item?id=23671130))
+- [Introduction to Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
+- [Graph Theory Textbooks](https://archive.org/details/GraphTheoryTextbooks)
+- [Kosaraju's Algorithm for finding Strongly Connected Components (2020)](https://hassamuddin.com/blog/kosaraju/)
+- [A Practical Introduction to Graphs (Network Diagrams) (2020)](https://healeycodes.com/practical-intro-to-graphs/)
+- [Tronix - Visualize Graph Theory](http://pulzed.com/) ([HN](https://news.ycombinator.com/item?id=24050651))
+- [Efficient Graph Search](https://dl.acm.org/doi/fullHtml/10.1145/3424302.3424304)
+- [Graphs and C-sets I: What is a graph? (2020)](https://www.algebraicjulia.org/blog/post/2020/09/cset-graphs-1/)
+- [Computer Scientists Break Traveling Salesperson Record (2020)](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/) ([HN](https://news.ycombinator.com/item?id=24720607))
+- [Cuckoo Cycle](https://github.com/tromp/cuckoo) - Memory-bound graph-theoretic proof-of-work system.
+- [Computation graphs and graph computation (2020)](http://breandan.net/2020/06/30/graph-computation/)
+- [GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - Graph algorithms in the language of linear algebra.
+- [GraphBLAS: A linear algebraic approach for portable graph algorithms (2020)](https://zenodo.org/record/4318870)
+- [GEMS Lab](https://gemslab.github.io/) - Graph Exploration and Mining at Scale. ([GitHub](https://github.com/GemsLab))

@@ -12,6 +12,9 @@
 - [Is Concurrent Mode just a workaround for “virtual DOM diffing” overhead? Some people got that impression. Let me clarify why we’re working on it.](https://mobile.twitter.com/dan_abramov/status/1120971795425832961)
 - [In order to write a very performant app there's only one golden rule: Make sure that your components are only re-rendered when necessary, and make sure that each render is fast](https://github.com/fabiospampinato/overstated#faq)
 - Best use React in [strict mode](https://reactjs.org/docs/strict-mode.html).
+- [Imagine this exists at the top level of your code: `setInterval(render, 100)`. Don’t do anything in render that you wouldn’t do in this function. Should be clear why you wouldn’t mutate or allocate resources that need cleanup.](https://twitter.com/dan_abramov/status/1314935179060928512)
+- [Preact is so fast on the speedometer benchmark that the jit never kicks in](https://twitter.com/_gsathya/status/1333392326798962688)
+- [Real use case for server rendering portions of an app: you have a perf sensitive page and need to render something that requires a business logic library that pulls in a huge dependency graph. Server render solves that.](https://twitter.com/jordwalke/status/1343174656639954944)
 
 ## Links
 
@@ -20,21 +23,21 @@
 - [A practical understanding of Flux](http://drewdevault.com/2015/07/20/A-practical-understanding-of-Flux.html)
 - [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 - [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)
-- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic#readme)
+- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
 - [Didact](https://github.com/hexacta/didact) - DIY guide to build your own React.
 - [ReactiFlux Learning](https://www.reactiflux.com/learning/)
 - [Tom Occhino and Jordan Walke first presenting React](https://www.youtube.com/watch?v=GW0rj4sNH2w)
-- [My struggle to learn react](http://bradfrost.com/blog/post/my-struggle-to-learn-react/) ([HN comments](https://news.ycombinator.com/item?id=17030865))
+- [My struggle to learn react](http://bradfrost.com/blog/post/my-struggle-to-learn-react/) ([HN](https://news.ycombinator.com/item?id=17030865))
 - [Stop writing code - Sunil Pai (2018)](https://www.youtube.com/watch?v=WYWVGQKnz5M) - Great talk.
 - [The Present Future of User Interface Development](https://hackernoon.com/the-present-future-of-user-interface-development-ebd371255175)
-- [React from Zero](https://github.com/kay-is/react-from-zero#readme) - Simple (99% ES2015 less) tutorial for React.
+- [React from Zero](https://github.com/kay-is/react-from-zero) - Simple (99% ES2015 less) tutorial for React.
 - [React is just JavaScript (2018)](https://medium.com/yld-engineering-blog/react-is-just-javascript-88600553269c)
-- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap#readme)
+- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 - [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 - [Rogue.js](https://github.com/alidcastano/rogue.js) - Nearly invisible framework for creating server-rendered React applications.
 - [Diagram of modern React lifecycle methods (2018)](https://twitter.com/dan_abramov/status/981712092611989509?s=09)
-- [React Fundamentals](https://github.com/ryanflorence/react-fundamentals#readme)
-  - [Advanced React](https://github.com/ryanflorence/advanced-react-workshop#readme)
+- [React Fundamentals](https://github.com/ryanflorence/react-fundamentals)
+  - [Advanced React](https://github.com/ryanflorence/advanced-react-workshop)
 - [Algebraic Effects, Fibers, Coroutines . . . Oh My! - Brandon Dail (2018)](https://www.youtube.com/watch?v=cWY1QzyFhfk)
 - [Understanding React and reimplementing it from scratch Part 1: Views](https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html)
 - [React (without the buzzwords) course](https://frontarm.com/courses/learn-raw-react)
@@ -57,13 +60,13 @@
 - [Re-implement react fiber (2019)](https://github.com/tranbathanhtung/react-fiber-implement) - Self-study project help understand how react work.
 - [Michael Jackson - Never Write Another HoC (2017)](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 - [React-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React.js applications.
-- [Awesome React](https://github.com/enaqx/awesome-react#readme) - Collection of awesome things regarding React ecosystem.
+- [Awesome React](https://github.com/enaqx/awesome-react) - Collection of awesome things regarding React ecosystem.
 - [Grommet](https://github.com/grommet/grommet) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 - [Application that will help you learn React fundamentals](https://github.com/tyroprogrammer/learn-react-app) ([HN](https://news.ycombinator.com/item?id=19050509))
 - [Progressive react](https://houssein.me/progressive-react) - Want to make your React site more performant? Here's a quick checklist.
 - [Scheduling in React (2019)](https://philippspiess.com/scheduling-in-react/)
 - [Writing Resilient Components (2019)](https://overreacted.io/writing-resilient-components/)
-- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture#readme) - Description of React's new core algorithm, React Fiber.
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - Description of React's new core algorithm, React Fiber.
 - [Router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution.
 - [Unstated Next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again.
 - [React Europe (2019)](https://www.youtube.com/watch?v=ERS0DO2xlAk)
@@ -74,16 +77,16 @@
 - [Fresh Concurrent React](https://github.com/sw-yx/fresh-concurrent-react) - Fresh links about the coming concurrent react revolution.
 - [Fusion.js](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps.
 - [React Live](https://github.com/FormidableLabs/react-live) - Production-focused playground for live editing React code.
-- [React/Redux Links](https://github.com/markerikson/react-redux-links#readme)
+- [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - [TypeScript React Cheat Sheet](https://www.saltycrane.com/typescript-react-cheat-sheet/latest/) - List of TypeScript types generated from the declaration files for react, react-dom, react-native and other libraries.
 - [Why is React doing this? by Sebastian Markbåge (2019)](https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919)
 - [React Patterns](https://reactpatterns.com/)
 - [Understanding React Components and State (2019)](https://www.framer.com/blog/posts/react-components-state/)
 - [Announcing Ionic React (2019)](https://ionicframework.com/blog/announcing-ionic-react/)
-- [Divjoy](https://divjoy.com) - React codebase generator.
+- [Divjoy](https://divjoy.com/) - React codebase generator.
 - [React Concurrent Mode](https://reactjs.org/docs/concurrent-mode-intro.html) ([HN](https://news.ycombinator.com/item?id=21346290))
 - [React Conf 2019](https://www.youtube.com/watch?v=RCiccdQObpo)
-- [zustand](https://github.com/react-spring/zustand) - Small, fast and scaleable bearbones state-management solution.
+- [zustand](https://github.com/react-spring/zustand) - Small, fast and scalable bearbones state-management solution.
 - [Learn React Courses](https://learnreact.design/)
 - [Building a Custom React Renderer | Sophie Alpert (2019)](https://www.youtube.com/watch?v=CGpMlWVcHok) ([Code](https://github.com/sophiebits/react-dom-mini))
 - [Thoughts on Suspense for data fetching (2019)](https://sgt.hootr.club/molten-matter/thoughts-on-suspense/)
@@ -112,14 +115,14 @@
 - [React Diff Viewer](https://praneshravi.in/react-diff-viewer/) - Simple and beautiful text diff viewer made with Diff and React. ([Code](https://github.com/praneshr/react-diff-viewer))
 - [Advanced memoization and effects in React (2020)](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
 - [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content/) - Free book that talks about design patterns/techniques used while developing with React. ([Code](https://github.com/krasimir/react-in-patterns))
-- [Awesome list of React Renderer](https://github.com/chentsulin/awesome-react-renderer#readme)
+- [Awesome list of React Renderer](https://github.com/chentsulin/awesome-react-renderer)
 - [What is the React Scheduler? (2020)](https://ahuth.github.io/articles/what-is-the-react-scheduler.html)
 - [33 line React](https://leontrolski.github.io/33-line-react.html) ([HN](https://news.ycombinator.com/item?id=22776753))
 - [Vidact](https://github.com/mohebifar/vidact) - Compiler that converts React-compatible codes to VanillaJS with no Virtual DOM.
 - [Under the hood: React](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/) - Entire React code base explanation by visual block schemes (Stack version). ([Code](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS))
 - [Opinionated React: State Management (2020)](https://dev.to/farazamiruddin/opinionated-react-state-management-426a)
 - [static-react](https://github.com/reasonml/reason-react/tree/StaticReactExperiment/explorations) - Exploration of a Reason React API that tracks the shape of render trees at the type system level.
-- [Visly](https://visly.app/) - Build React components visually. ([Article](https://visly.app/blog/designing-for-incremental-adoption))
+- [Visly](https://visly.app/) - Build React components visually. ([Article](https://visly.app/blog/designing-for-incremental-adoption)) ([GitHub](https://github.com/vislyhq)) ([Release announcement](https://visly.app/blogposts/visly--build-react-components-visually))
 - [Let's recreate the Spotify UI in React (2020)](https://www.youtube.com/watch?v=rkZEWuMRY28)
 - [Women of React](https://womenofreact.com/) - Online conference where women take the (virtual) stage, but everyone is welcome to attend and participate. ([Women of React 2020](https://www.youtube.com/watch?v=K8MF3aDg-bM))
 - [When does React re-render components?](https://felixgerschau.com/react-rerender-components) ([HN](https://news.ycombinator.com/item?id=23004848))
@@ -128,9 +131,65 @@
 - [5 Layers of State Management in React Applications (2020)](https://joelhooks.com/5-layers-react-state)
 - [Throttling Subscription Events in React with Generators (2020)](https://theworst.dev/throttling-subscription-events-in-react-with-generators/)
 - [Complete Guide to React Rendering Behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/) ([Reddit](https://www.reddit.com/r/reactjs/comments/gkxs7g/a_mostly_complete_guide_to_react_rendering/))
-- [React 2025 course](https://react2025.com/) - Build and deploy a modern Jamstack application using the most popular open-source software. ([Intro video](https://www.youtube.com/watch?v=MxR5I5_hOKk))
-- [React Bits](https://github.com/vasanthk/react-bits#readme) - Compilation of React Patterns, techniques, tips and tricks.
+- [React 2025 course](https://react2025.com/) - Build and deploy a modern Jamstack application using the most popular open-source software. ([Intro video](https://www.youtube.com/watch?v=MxR5I5_hOKk)) ([Code](https://github.com/leerob/react2025))
+- [React Bits](https://github.com/vasanthk/react-bits) - Compilation of React Patterns, techniques, tips and tricks.
 - [React Security](https://reactsecurity.io/) - Learn how to properly secure your React app for the real world.
 - [A visual guide to React Mental models (2020)](https://obedparla.com/code/a-visual-guide-to-react-mental-models/) ([HN](https://news.ycombinator.com/item?id=23349160))
 - [What are your must have React tools in 2020?](https://www.reddit.com/r/javascript/comments/gt0bue/askjs_what_are_your_must_have_react_tools_in_2020/)
 - [The rise of React (2020)](https://increment.com/frontend/the-rise-of-react/) ([HN](https://news.ycombinator.com/item?id=23366041))
+- [storybook-addon-react-docgen](https://github.com/hipstersmoothie/storybook-addon-react-docgen) - Storybook addon to display react docgen info.
+- [Rendering to iFrames in React (2018)](https://medium.com/@ryanseddon/rendering-to-iframes-in-react-d1cb92274f86)
+- [React Testing Library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices. ([How to use React Testing Library (2020)](https://www.robinwieruch.de/react-testing-library)) ([Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library/))
+- [rehype-react](https://github.com/rehypejs/rehype-react) - Plugin to transform to React.
+- [React Deep Dive book (2020)](https://book.react-js.dev/)
+- [Tuomas Artman: Real-time sync for web apps (2020)](https://www.youtube.com/watch?v=WxK11RsLqp4&t=2171)
+- [Ярослав Лосев – React Reconciler: как написать собственный рендерер (2020)](https://www.youtube.com/watch?v=E1G2rMKq8lc) ([Code](https://github.com/LosYear/react-reconciler-talk))
+- [New, experimental frontend for React inspired by SwiftUI](https://github.com/tvler/experimental-react-like-framework)
+- [Plasmic](https://www.plasmic.app/) - Visual UI builder for React. ([Article](https://medium.com/plasmic-app/announcing-plasmic-3bc510a97ea3))
+- [Glossary of React Terms](https://reactjs.org/docs/glossary.html)
+- [Frustrated by Formik? Here's a simpler way to do forms in React (2020)](https://maxrozen.com/2020/07/23/frustrated-formik-simpler-react-forms/)
+- [Ink 3 - Build CLI apps with React (2020)](https://vadimdemedes.com/posts/ink-3)
+- [Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid (2020)](https://dev.to/lloyds-digital/comparing-reactivity-models-react-vs-vue-vs-svelte-vs-mobx-vs-solid-29m8)
+- [My Tech Stack (2020 Edition with Next.js, Tailwind, MongoDB, Jest, and more!)](https://www.youtube.com/watch?v=9plIzok5LCQ)
+- [Opinionated Guide to React](https://opinionatedreact.com/)
+- [UIKit's UIViews in JavaScript, Part 1: Why? (2020)](https://blog.eliangtan.com/view-framework-1/)
+- [Experimental React Single File Components](https://github.com/react-sfc/react-sfc-swyx) ([Tweet](https://twitter.com/swyx/status/1294310598419689472))
+- [Records & Tuples for React, way more than immutability (2020)](https://dev.to/sebastienlorber/records-tuples-for-react-way-more-than-immutability-2iic)
+- [Managing React State course](https://app.pluralsight.com/profile/author/cory-house)
+- [A tale of webpage speed, or throwing away React (2020)](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/) ([HN](https://news.ycombinator.com/item?id=24258855))
+- [React is becoming a black box](https://jaredpalmer.com/blog/react-is-becoming-a-black-box) ([HN](https://news.ycombinator.com/item?id=24363261))
+- [Rewriting Facebook's "Recoil" React library from scratch in 100 lines (2020)](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/)
+- [react-nil](https://github.com/pmndrs/react-nil) - Allows you to bring Reacts high-level component abstraction to Node, or wherever you need it.
+- [What do you use to handle state with React? (2020)](https://twitter.com/rachelnabors/status/1306563902436716545)
+- [New JSX Transform (2020)](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) ([HN](https://news.ycombinator.com/item?id=24555415))
+- [My State Management Mistake (2020)](https://epicreact.dev/my-state-management-mistake/)
+- [Epic React course](https://epicreact.dev/) ([Code](https://github.com/topics/epicreact-dev)) ([Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns)) ([React Performance](https://github.com/kentcdodds/react-performance)) ([Notes](https://github.com/AndreaBarghigiani/EpicReactNotes))
+- [react-performance-testing](https://github.com/keiya01/react-performance-testing) - Library to test runtime performance in React.
+- [Developing React Global State Library With Atom Abstraction (2020)](https://blog.axlight.com/posts/developing-react-global-state-library-with-atom-abstraction/)
+- [How to Measure Performance in JavaScript Applications (2020)](https://blog.asayer.io/how-to-measure-performance-in-javascript-applications)
+- [Animating React with React Transition Group (2020)](https://blog.bitsrc.io/animating-reactjs-with-react-transition-group-2af6c87cab0c)
+- [Maho](https://github.com/egoist/maho) - Framework for building server-rendered or static websites, powered by React and esbuild.
+- [The Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f)
+- [React Summit](https://reactsummit.com/) - Biggest React Conference Worldwide.
+- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - Provides React Fast Refresh support for Vite.
+- [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+- [Building a Pannable, Zoomable Canvas in React (2020)](https://jclem.net/posts/pan-zoom-canvas-react)
+- [Getting Started with Storybook: How to Develop React Components Without an App (2020)](https://welearncode.com/storybook/)
+- [Will this React global state work in Concurrent Mode?](https://github.com/dai-shi/will-this-react-global-state-work-in-concurrent-mode)
+- [A Semantics for the Essence of React (2020)](https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/files/cs-2020-03.pdf)
+- [React for Design](https://react.design/) - React Course for Designers. ([Code](https://github.com/philipcdavis/reactfordesign.github.io))
+- [Algebraic Effects for React Developers (2020)](https://reesew.io/posts/react-algebraic-effects) ([HN](https://news.ycombinator.com/item?id=24962842))
+- [Memoization and React (2020)](https://epicreact.dev/memoization-and-react/)
+- [Building a Graphics Rendering Loop with React and TypeScript (2019)](https://river.codes/building-a-graphics-rendering-loop-with-react-and-typescript/)
+- [Concurrent React Notes](https://github.com/sw-yx/concurrent-react-notes)
+- [Rockpack](https://github.com/AlexSergey/rockpack) - Simple solution for creating React Application with Server Side Rendering, bundling, linting, testing, logging, localizing within 5 minutes.
+- [React hover animation effect with React Spring (2020)](https://www.joshwcomeau.com/react/boop/)
+- [Advanced React Security Patterns](https://reactsecurity.io/advanced-react-security-patterns/) - Learn how to Secure your React Apps for the Real World.
+- [react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass) - Custom partial React SSR renderer for prefetching and suspense.
+- [What React refs really are (2020)](https://huth.me/what-react-refs-really-are) ([Lobsters](https://lobste.rs/s/rmlymj/what_react_refs_really_are))
+- [Brahmos](https://github.com/brahmosjs/brahmos) - Supercharged JavaScript library to build user interfaces with modern React API and native templates.
+- [Preact](https://preactjs.com/) - Fast 3kb React Alternative with the Same API, Components and Virtual DOM. ([Code](https://github.com/preactjs/preact)) ([HN](https://news.ycombinator.com/item?id=25391077)) ([Prefresh - Fast-refresh for Preact](https://github.com/JoviDeCroock/prefresh))
+- [Zero-Bundle-Size React Server Components (2020)](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) ([Code](https://github.com/reactjs/server-components-demo)) ([HN](https://news.ycombinator.com/item?id=25497065)) ([Tweet](https://twitter.com/sugarpirate_/status/1341141198258524163)) ([Tweet 2](https://twitter.com/devongovett/status/1341203108207226880)) ([Tweet 3](https://twitter.com/swyx/status/1341535594543910912))
+- [Sosse](https://github.com/sossejs/sosse) - Composable toolkit for (p)react full-stack node web servers.
+- [react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers.
+- [React Dev Inspector](https://github.com/zthxxx/react-dev-inspector) - Click react component then jump to component's source code in your local IDE.

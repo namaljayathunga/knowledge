@@ -11,7 +11,7 @@
 
 ## Links
 
-- [System Design Primer](https://github.com/donnemartin/system-design-primer#readme) - Learn how to design large-scale systems.
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems.
 - [What changes when you go offline-first? (2018)](https://speakerdeck.com/ept/what-changes-when-you-go-offline-first)
 - [Ask HN: What should a systems/low-level software engineer know? (2019)](https://news.ycombinator.com/item?id=18881649)
 - [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)
@@ -20,3 +20,4 @@
 - [Why Complexity is Different (2017)](https://mystudentvoices.com/why-complexity-is-different-ecd498e0eccb)
 - [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [System Design Preparation](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions.

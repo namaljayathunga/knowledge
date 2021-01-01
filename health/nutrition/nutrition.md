@@ -27,6 +27,7 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
   - calorie consumption is, on average, 13% lower than general population
   - studies suggest that plant-based protein intake have a more positive effect on the human organism than meat- and fished-based
   - their diet is not the "elixir of youth", as multiple interacting factors may be in play
+- [We can argue about carbohydrates endlessly, and I have to no avail in the past, but there is no dietary need for sugar at all. We tolerate some of it, but the less of it you eat the better off your body will be.](https://news.ycombinator.com/item?id=25570376)
 
 ## Links
 
@@ -52,4 +53,9 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [How to Find Your Best Diet (2020)](https://www.gq.com/story/how-to-find-your-best-diet)
 - [What are some underrated or lesser known nutritional tips or changes people can make nutritionally to improve their health? (2020)](https://www.reddit.com/r/nutrition/comments/gkmp2t/what_are_some_underrated_or_lesser_known/)
 - [Nutrition Courses](https://www.futurelearn.com/subjects/healthcare-medicine-courses/nutrition)
+- [Precision Nutrition](https://www.precisionnutrition.com/) - Nutrition Certification, Coaching & Software.
 - [Precision Nutrition course](https://www.precisionnutrition.com/nutrition-coaching-free-course)
+- [What are the best websites for someone that is trying to learn nutrition? (2020)](https://www.reddit.com/r/nutrition/comments/gw8kt0/what_are_the_best_websites_for_someone_that_is/)
+- [Is sugar bad for you if your body needs the calories? (2020)](https://www.reddit.com/r/nutrition/comments/gxv7ya/is_sugar_bad_for_you_if_your_body_needs_the/)
+- [Why is there no definitive healthy Human Diet? (2020)](https://www.reddit.com/r/nutrition/comments/h7jxvp/why_is_there_no_definitive_healthy_human_diet/)
+- [Summary of US nutrition guidelines (2020)](https://news.ycombinator.com/item?id=25570551)

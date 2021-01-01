@@ -7,7 +7,7 @@
 - [Go Implementation of WireGuard](https://github.com/WireGuard/wireguard-go)
 - [WireGuard iOS/macOS apps code](https://git.zx2c4.com/wireguard-ios)
 - [HN: WireGuard for MacOS (2019)](https://news.ycombinator.com/item?id=19186795)
-- [Missing Wireguard Documentation](https://github.com/pirate/wireguard-docs#readme)
+- [Missing Wireguard Documentation](https://github.com/pirate/wireguard-docs)
 - [Install and configure WireGuard on Raspberry Pi (and others)](https://github.com/adrianmihalko/raspberrypiwireguard)
 - [boringtun](https://github.com/cloudflare/boringtun) - Implementation of the WireGuard protocol designed for portability and speed.
 - [HN: WireGuard is in net-next (2019)](https://news.ycombinator.com/item?id=21741133)
@@ -20,3 +20,10 @@
 - [wgcf](https://github.com/ViRb3/wgcf) - Generate WireGuard profile from Cloudflare Warp account.
 - [Success Wireguard stories?](https://www.reddit.com/r/WireGuard/comments/gqmnjq/success_stories/)
 - [wireguard-rs](https://github.com/WireGuard/wireguard-rs) - Rust Implementation of WireGuard.
+- [Simple WireGuard Docker network setup](https://www.eisfunke.com/article/docker-wireguard-systemd.html) ([HN](https://news.ycombinator.com/item?id=24583512))
+- [Create Wireguard configuration for hub and peers with ease](https://github.com/burghardt/easy-wg-quick) ([HN](https://news.ycombinator.com/item?id=24812199))
+- [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN.
+- [Wireguard Bounce Server](https://gitlab.com/ncmncm/wireguard-bounce-server/) ([HN](https://news.ycombinator.com/item?id=25447805))
+- [IPv6 WireGuard Peering (2020)](https://fly.io/blog/ipv6-wireguard-peering/) ([HN](https://news.ycombinator.com/item?id=25513828))
+- [wireguard-manager](https://github.com/edomora97/wireguard-manager) - Build and manage a network of servers that provides a distributed VPN using wireguard.
+- [WireGuard: great protocol, but skip the Mac app (2020)](https://rachelbythebay.com/w/2020/12/24/wg/) ([HN](https://news.ycombinator.com/item?id=25533263)) ([Lobsters](https://lobste.rs/s/ns7pdp/wireguard_great_protocol_skip_mac_app)) ([Response](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html))

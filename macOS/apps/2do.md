@@ -2,11 +2,13 @@
 
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
 
-![](https://i.imgur.com/Hsdov6C.png)
+![](https://i.imgur.com/EJMdDzY.png)
 
 It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
 ![](https://i.imgur.com/QuBsexM.png)
+
+I use 2Do only for personal tasks. Team & project tasks are done on [GitHub](../../open-source/github/github.md).
 
 ## Managing tasks with tags
 
@@ -14,17 +16,9 @@ My main way of managing tasks is with **tags**. This lets me give scope to the t
 
 I create many smart lists of most common tags I want to jump to. I use `j` key and macros that activate the URL scheme to jump between the lists.
 
-Here are other tags I use:
-
-![](https://i.imgur.com/9PKjU0v.png)
-
 I made my `All` list sorted by `Modified date`. This lets me cleanly delete or act on all tasks that have been sitting in my 2Do for too long with no activity.
 
-## Recurring tasks
-
-I use 2Do to schedule a weekly task to reflect on the week passed & plan ahead.
-
-![](https://i.imgur.com/8uR7zCs.png)
+I have [2Do setup to schedule a weekly Sunday review & plan task](../../focusing/focusing.md).
 
 ## URL Scheme
 

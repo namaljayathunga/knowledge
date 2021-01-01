@@ -38,3 +38,33 @@
 - [Why are the objects in the space spinning?](https://www.reddit.com/r/AskPhysics/comments/gq8qpe/why_are_the_objects_in_the_space_spinning/)
 - [Everyday Astronaut](https://everydayastronaut.com/)
 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
+- [SpaceX software team AMA (2020)](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/)
+- [RussianSpaceWeb](http://www.russianspaceweb.com/) - News and history of astronautics in the former USSR.
+- [Receiving images of Earth from satellites with software defined radio](https://l-o-o-s-e-d.net/signs-of-life) ([HN](https://news.ycombinator.com/item?id=23465837))
+- [Awesome Space](https://github.com/orbitalindex/awesome-space) - List of awesome space-related packages and resources.
+- [The Orbital Index](https://orbitalindex.com/) - Curated space news and links. Weekly, brief, and technical.
+- [ISS Photo Explorer](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0#) ([HN](https://news.ycombinator.com/item?id=23519439))
+- [Every Kind of Thing in Space Mapped (2020)](https://www.youtube.com/watch?v=uniGQrGLEoI)
+- [My dad launched the quest to find alien intelligence (2020)](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/) ([HN](https://news.ycombinator.com/item?id=23596603))
+- [Space Search](https://space-search.io/) - Search engine for space objects. ([HN](https://news.ycombinator.com/item?id=23078376))
+- [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO (2020)](https://www.eso.org/public/news/eso2011/?lang) ([HN](https://news.ycombinator.com/item?id=23917559))
+- [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/) ([Apollo 11 Hasselblad image](https://www.flickr.com/photos/projectapolloarchive/22068769545))
+- [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station) ([HN](https://news.ycombinator.com/item?id=24129162))
+- [Fastest star ever seen is moving at 8% the speed of light](https://phys.org/news/2020-08-fastest-star.html) ([HN](https://news.ycombinator.com/item?id=24169732))
+- [What’s Flying Above Us?](https://skycircl.es/donate/) ([HN](https://news.ycombinator.com/item?id=24188661))
+- [Tour of the outer Solar System in radio light](https://twitter.com/TheNRAO/status/1296633586880253952)
+- [Parallel Supercomputing for Astronomy](https://juliacomputing.com/case-studies/celeste.html)
+- [Official SpaceX Photos](https://www.flickr.com/photos/spacex)
+- [Signs of Life discovered on Venus and atmosphere (2020)](https://twitter.com/brianroemmele/status/1304984620304232448) ([HN](https://news.ycombinator.com/item?id=24463423))
+- [Some Physicists See Signs of Cosmic Strings from the Big Bang (2020)](https://www.quantamagazine.org/pulsar-data-may-point-to-cosmic-strings-from-the-big-bang-20200929/) ([HN](https://news.ycombinator.com/item?id=24628417))
+- [NASA technical note: Lunar sample processing](https://core.ac.uk/download/pdf/42881927.pdf)
+- [100k Stars](http://stars.chromeexperiments.com/) ([HN](https://news.ycombinator.com/item?id=24702874))
+- [Space Engine](http://spaceengine.org/) - Universe simulator. ([HN](https://news.ycombinator.com/item?id=9581818)) ([HN 2](https://news.ycombinator.com/item?id=24881055))
+- [Life on Venus - Deep Dive (2020)](https://www.youtube.com/watch?v=8UJSHKIFiD8)
+- [Astrophotography by Panagiotis Andreou](https://astrotakis.com/)
+- [Elon Musk at 2020 Mars Society Event](https://www.youtube.com/watch?v=Opnk-cPOM50)
+- [Fermi paradox: why haven’t we found aliens yet? (2018)](https://www.vox.com/science-and-health/2018/7/3/17522810/aliens-fermi-paradox-drake-equation) - New paper on the Fermi paradox convincingly shows why we will probably never find aliens.
+- [NASA Asteroid Sample Return Mission](https://www.asteroidmission.org/)
+- [Big Trouble in a Deep Void (2020)](https://tritonstation.com/2020/10/23/big-trouble-in-a-deep-void/) ([HN](https://news.ycombinator.com/item?id=24877075))
+- [AstroWright](https://sites.psu.edu/astrowright/) - Astronomy and meta-Astronomy by Jason Wright.
+- [How to survive in spacecraft (2020)](https://media.ccc.de/v/rc3-158638-how_to_survive_in_spacecraft) ([HN](https://news.ycombinator.com/item?id=25590724))
